@@ -9,7 +9,7 @@ getting-started-title: Forum
 getting-started-url: https://community.adobe.com/t5/acrobat-reader-mobile/bd-p/acrobat-reader-mobile?page=1&sort=latest_replies&filter=all
 ---
 
-# Adobe Acrobat Reader'da {#liquidmode} Çığır Açan Yeni Bir Okuma Deneyimi
+# Adobe Acrobat Reader'da Çığır Açan Yeni Bir Okuma Deneyimi {#liquidmode} 
 
 Hoş geldiniz! Yeni teknolojileri keşfetmek oldukça yararlı olabilir. Yüksek ihtimalle, Adobe Acrobat Reader telefon uygulamasında çığır açan yeni bir belge okuma deneyimi olan Liquid Mode'u keşfettiğiniz için buradasınız. [Adobe Sensei](https://www.adobe.com/sensei.html), Adobe'nin yapay zekası (AI) ve makine öğrenimi teknolojisi ile desteklenen Liquid Mode, belgeleri telefonunuzda ve tabletinizde kolayca okumanıza yardımcı olmak için tasarlanmıştır.
 
