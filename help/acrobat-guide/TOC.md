@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Document Cloud Mobile Guide
-solution: Document Cloud Mobile
+solution: Acrobat DC
 ---
 
 # Acrobat Mobile Guide {#using}
