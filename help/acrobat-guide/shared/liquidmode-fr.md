@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Acrobat Reader pour Android et iOS
-solution: Adobe Acrobat Reader pour mobile
+solution: Acrobat DC
 solution-title: : Acrobat Reader pour Android
 solution-hub-url: https://www.adobe.com/devnet-docs/acrobat/android/fr/
 tutorials-title: Acrobat Reader pour iOS  

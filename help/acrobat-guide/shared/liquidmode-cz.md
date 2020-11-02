@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Acrobat Reader pro Android a iOS
-solution: Adobe Acrobat Reader pro mobilní zařízení
+solution: Acrobat DC
 solution-title: Acrobat Reader pro Android
 solution-hub-url: https://www.adobe.com/cz/devnet-docs/acrobat/android/
 tutorials-title: Acrobat Reader pro iOS
