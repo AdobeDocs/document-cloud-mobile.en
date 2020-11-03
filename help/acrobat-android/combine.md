@@ -53,9 +53,6 @@ icon: ![plusicon](../imagesandroid/plusicon.png)
 5. Navigate to a file location.
 6. Select 2 or more files. If you select non-PDF files, they are
     converted to PDF on-the-fly.
-
-   ![image](../imagesandroid/combinefiles1.png)
-
 7. Tap **Next**.
 8. *Optional*: Reorder files by tapping or long pressing ![reordericon](../imagesandroid/reordericon.png) and dragging it to a new location. You can also remove files from the combine list.
 9. *Optional*: Tap ![pencilicon](../imagesandroid/pencilicon.png) next to the file title and enter a new name. By default, the name is  \"Combine + (current date)\".
