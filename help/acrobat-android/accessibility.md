@@ -59,8 +59,7 @@ enhance contrast, reduce eye strain, and extend your battery life.
 To set the view mode:
 
 1.  Tap anywhere in the PDF to show the tool bars if they are hidden.
-2.  Tap the view mode icon. The displayed icon represents the current
-    view.
+2.  Tap the view mode icon. The displayed icon represents the current view.
 3.  Tap one Night Mode.
 
 ![image](../imagesandroid/viewmodes.png)
