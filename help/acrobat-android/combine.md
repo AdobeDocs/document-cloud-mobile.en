@@ -46,27 +46,22 @@ icon: ![plusicon](../imagesandroid/plusicon.png)
 
 ![image](../imagesandroid/createmenu.png)
 
-1.  Log in to Document Cloud.
-2.  Go to the Home or Files file list.
-3.  Tap ![plusicon](../imagesandroid/plusicon.png)
-4.  Tap **Combine Files**.
-5.  Navigate to a file location.
-6.  Select 2 or more files. If you select non-PDF files, they are
+1. Log in to Document Cloud.
+2. Go to the Home or Files file list.
+3. Tap ![plusicon](../imagesandroid/plusicon.png)
+4. Tap **Combine Files**.
+5. Navigate to a file location.
+6. Select 2 or more files. If you select non-PDF files, they are
     converted to PDF on-the-fly.
 
    ![image](../imagesandroid/combinefiles1.png)
 
-7.  Tap **Next**.
-8.  *Optional*: Reorder files by tapping or long pressing
-    ![reordericon](../imagesandroid/reordericon.png) and dragging it to
-    a new location. You can also remove files from the combine list.
-9.  *Optional*: Tap ![pencilicon](../imagesandroid/pencilicon.png) next
-    to the file title and enter a new name. By default, the name is
-    \"Combine + (current date)\".
+7. Tap **Next**.
+8. *Optional*: Reorder files by tapping or long pressing ![reordericon](../imagesandroid/reordericon.png) and dragging it to a new location. You can also remove files from the combine list.
+9. *Optional*: Tap ![pencilicon](../imagesandroid/pencilicon.png) next to the file title and enter a new name. By default, the name is  \"Combine + (current date)\".
 10. Tap **Combine**.
 
-The file is automatically sent to Adobe\'s Combine service and uploaded
-to Document Cloud.
+The file is automatically sent to Adobe\'s Combine service and uploaded to Document Cloud.
 
 ### Combining from an open file
 
@@ -102,7 +97,4 @@ To compress a file:
 
 >[!NOTE]
 >
->File compression is only available for files which have not already been
-compressed in any app (including desktop Acrobat). Attempting
-compression on a file which has already been compressed results in an
-error.
+>File compression is only available for files which have not already been compressed in any app (including desktop Acrobat). Attempting compression on a file which has already been compressed results in an error.
