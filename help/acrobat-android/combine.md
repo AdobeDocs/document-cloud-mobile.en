@@ -1,4 +1,4 @@
-# Combining and compressing files lkjlkjlkjlkj
+# Combining and compressing files
 
 
 ## Combining files
@@ -54,7 +54,7 @@ icon: ![plusicon](../imagesandroid/plusicon.png)
 6.  Select 2 or more files. If you select non-PDF files, they are
     converted to PDF on-the-fly.
 
-![image](../imagesandroid/combinefiles1.png)
+   ![image](../imagesandroid/combinefiles1.png)
 
 7.  Tap **Next**.
 8.  *Optional*: Reorder files by tapping or long pressing
