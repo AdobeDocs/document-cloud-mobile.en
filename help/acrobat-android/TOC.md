@@ -7,4 +7,3 @@ solution: Acrobat DC
 
 + [Overview](overview.md)
 + [Combine PDFs](combine.md)
-+ [Accessibility Features](accessibility.md)
