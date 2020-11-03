@@ -3,8 +3,7 @@
 
 
 Android devices support a number of accessibility features not listed
-here. For more information, refer to the [Android Accessibility
-Overview](https://support.google.com/accessibility/android/answer/6006564?hl=en).
+here. For more information, refer to the [Android Accessibility Overview](https://support.google.com/accessibility/android/answer/6006564?hl=en).
 You can also check your accessibility settings by going to your
 device\'s settings screen and tapping **Accessibility** (or search for
 it if the menu item does not display).
@@ -112,8 +111,7 @@ Here\'s an example from one device:
 ## Gesture features
 
 The app supports the standard TalkBack gestures as described in
-[Google\'s
-documentation](https://support.google.com/accessibility/android/answer/6151827?hl=en).
+[Google\'s documentation](https://support.google.com/accessibility/android/answer/6151827?hl=en).
 
 ## Keyboard shortcuts
 
@@ -151,8 +149,6 @@ Shortcuts are currently only available on Chromebook devices.
 
   Print          CTRL + P
   -----------------------------------------------------------------------
-
-  : Navigation shortcuts
 
 ### Commenting shortcuts
 
@@ -192,8 +188,6 @@ go to your device settings and enable **Enable Hotkeys**.
   RHP               
   --------------------------------------------------------------------------
 
-  : Commenting shortcuts
-
 ### Home screen shortcuts
 
   -----------------------------------------------------------------------
@@ -213,5 +207,3 @@ go to your device settings and enable **Enable Hotkeys**.
 
   Search         Ctrl + F
   -----------------------------------------------------------------------
-
-  : Home screen shortcuts
