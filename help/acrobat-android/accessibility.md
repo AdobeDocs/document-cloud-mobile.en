@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility Features
 
 
 
@@ -9,7 +9,7 @@ You can also check your accessibility settings by going to your
 device\'s settings screen and tapping **Accessibility** (or search for
 it if the menu item does not display).
 
-# Visual features
+## Visual features
 
 
 ### Text display size
@@ -77,8 +77,8 @@ Set your display\'s brightness to enhance readability as needed.
 
 ![image](../imagesandroid/brightness.png)
 
-Audio features
---------------
+## Audio features
+
 
 ### Talkback
 
@@ -109,8 +109,7 @@ Here\'s an example from one device:
 
 ![image](../imagesandroid/talkback.png)
 
-Gesture features
-----------------
+## Gesture features
 
 The app supports the standard TalkBack gestures as described in
 [Google\'s
