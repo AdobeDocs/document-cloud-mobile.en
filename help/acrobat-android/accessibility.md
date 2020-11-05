@@ -133,4 +133,4 @@ While the multi-key shortcuts work by default, you must manually enable the sing
 | Scroll up the file list | Up Arrow |
 | Scroll down the file list | Down Arrow |
 | Open any file or folder | Enter |
-| Switch Home Screen tabs | Ctrl + tab / Ctrl + <respective tab number> |
+| Switch Home Screen tabs | Ctrl + tab / Ctrl + @gt;respective tab number@lt; |
