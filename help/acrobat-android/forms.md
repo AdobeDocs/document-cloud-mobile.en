@@ -66,7 +66,7 @@ To create a form in an open document:
 
 1. Select a form tool; for example, a text field or checkbox. 
 1. Enter data. By default, the app suggests entries for text fields.
-4. Tap ![image](./images/checkicon.png) to exit Fill & Sign mode. 
+1. Tap ![image](./images/checkicon.png) to exit Fill & Sign mode. 
 
 When you place a form element, a context menu provides options for changing the font size, deleting the element, and so on.
 
