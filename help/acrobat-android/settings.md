@@ -73,7 +73,7 @@ Starring a file is similar to "favoriting" a file: Once starred, a star appears 
     * **This device only**: Stars the file on your device. 
     * **Ask every time**: When you star a file, a dialog asks whether you should be prompted every time to decide where to star the file.
 
-3. Tap **OK**.
+1. Tap **OK**.
 
    ![image](../imagesandroid/stardialog.png)
 

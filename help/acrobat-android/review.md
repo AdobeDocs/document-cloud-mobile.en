@@ -343,7 +343,7 @@ Unsharing a file prevents future access to that file for all users.
 Only review initiators can delete their review. From any file list (Home, Shared, or search result): 
 
 1. Tap ![image](./images/overflowicon.png)
-2. Tap **Delete**. 
+1. Tap **Delete**. 
 1. Tap **Delete** again to confirm. 
 
    >[!NOTE]
