@@ -2,7 +2,7 @@
 
 # Working with PDF {#working-with-pdf}
 
-When you open a PDF, what menus appear will vary based on the file. Regular files (for example, those  not part of a review) display an action menu at the top and floating action bottom at the bottom. Both the overflow icon (![image](./images/overflowicon|) and floating action button |editicon.png) open a context menu displaying additional options based on your service subscriptions (For example, both Organize Pages and Create PDF require a subscription). 
+When you open a PDF, what menus appear will vary based on the file. Regular files (for example, those  not part of a review) display an action menu at the top and floating action bottom at the bottom. Both the overflow icon (![image](./images/overflowicon.png)) and floating action button |editicon.png) open a context menu displaying additional options based on your service subscriptions (For example, both Organize Pages and Create PDF require a subscription). 
 
 ![image](./images/regularmenu.png)
 
@@ -70,7 +70,7 @@ To star a file:
 
    ![image](./images/starredfiles.png)
 
-To unstar a file, open any context menu (usually by tapping ![image](./images/overflowicon|) and tap |unstaricon.png).
+To unstar a file, open any context menu (usually by tapping ![image](./images/overflowicon.png)) and tap |unstaricon.png).
 
    ![image](./images/unstarfile.png)
 
@@ -94,7 +94,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Log in to Document Cloud.
 1. Open a non-shared PDF, and tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Tap one or more pages. 
-1. Tap ![image](./images/rotateleft) or |rotateright.png)
+1. Tap ![image](./images/rotateleft) or ![image](./images/rotateright.png)
 
    ![image](./images/organize.png)
 

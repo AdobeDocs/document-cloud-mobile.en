@@ -76,7 +76,7 @@ Sometimes working with smaller file sizes is easier and faster--operations on la
 
 To compress a file: 
 
-1. Tap ![image](./images/overflowicon.png) > **Compress PDF**.
+1. Tap ![image](./images/overflowicon.png)  ** @gt; Compress PDF**.
 1. *Optional*. After compression completes, tap **Open** to open the file. 
 1. After compression, the file is save backed to original location; for example, to the device, Adobe Document Cloud, Google Drive, etc. 
 
