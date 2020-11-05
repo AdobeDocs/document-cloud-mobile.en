@@ -1,6 +1,4 @@
 
-.. _share: 
-
 # Sharing & Reviewing files {#sharing-&-reviewing-files}
 
 Acrobat Reader provides a rich set of file share and review features as well as tools for managing both. Review service subscribers can share files in review mode so that it's easy to collaborate and collect feedback on any file. Highlights include: 
@@ -10,8 +8,6 @@ Acrobat Reader provides a rich set of file share and review features as well as 
 * Always synchronized files across any connected device
 * Easy controls for creating, participating in, and managing reviews 
 * Real-time notifications of file views, changes, and participation as well as support for @mention tags
-
-.. contents:: :local:
 
 ## Sharing a PDF {#sharing-a-pdf}
 
@@ -72,10 +68,10 @@ When no document is open, you can view all your shared files from the Shared vie
 Commenting is a free service, and you can easily add notes and mark up files: 
 
 1. Open PDF
-2. Tap ![image](./images/editicon.png)
-3. Tap **Comment**
-4. Tap a tool in the comments tool bar.
-5. Place your markup in the document.
+1. Tap ![image](./images/editicon.png)
+1. Tap **Comment**
+1. Tap a tool in the comments tool bar.
+1. Place your markup in the document.
 1. Tap **Post**.
 
 You can reply to comments, change the color, delete comments, and view all comments. 
@@ -281,8 +277,8 @@ You can specify a deadline when setting up a review so that the review automatic
 You can specify a reminders so that both you and the review recipients receive reminders that the review is active. 
 
 1. Tap **Set Reminder**
-2. Set the calendar widget. 
-3. Tap **OK**. 
+1. Set the calendar widget. 
+1. Tap **OK**. 
 
 ### Adding reviewers {#adding-reviewers}
 
@@ -323,7 +319,7 @@ If you need to review the initial message you sent when you share the file, from
 From any file list (Home, Shared, or search result): 
 
 1. Tap ![image](./images/overflowicon.png)
-2. Tap **Copy Link**. 
+1. Tap **Copy Link**. 
 
 The link is copied to your clipboard.
 
@@ -332,7 +328,7 @@ The link is copied to your clipboard.
 From any file list (Home, Shared, or search result): 
 
 1. Tap ![image](./images/overflowicon.png)
-2. Tap **Unshare File**. 
+1. Tap **Unshare File**. 
 1. Tap **Unshare** again to confirm. 
 
 Unsharing a file prevents future access to that file for all users.

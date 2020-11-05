@@ -2,8 +2,6 @@
 
 # Settings {#settings}
 
-.. contents:: :local:
-
 ## Device settings {#device-settings}
 
 The app leverages your device's features, and its default settings make it easier and faster to work with your documents. by default, notifications are enabled. To streamline your ability to work with and share files, allow the app access to your camera, contacts, and storage. 

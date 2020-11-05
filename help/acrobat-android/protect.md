@@ -19,7 +19,7 @@ To password protect a file from within an open PDF or from any file list:
 
    ![image](../imagesandroid/protect.png)
 
-3. Enter a password and confirm it.  *Use only supported characters*.
+1. Enter a password and confirm it.  *Use only supported characters*.
 1. Tap **Set Password**. 
 
 

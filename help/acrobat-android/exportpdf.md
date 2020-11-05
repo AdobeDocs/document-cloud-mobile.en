@@ -17,7 +17,7 @@ To export an open (and unshared) PDF:
 
    ![image](../imagesandroid/fileoverflowmenu.png)
 
-2. Specify an export format (.docx, .rtf, etc.). 
+1. Specify an export format (.docx, .rtf, etc.). 
 1. *Optional*: By default, the export language is the same as your installed app. You can change the language by tapping **Language** and changing the default. 
 1. Tap **Export**.
 

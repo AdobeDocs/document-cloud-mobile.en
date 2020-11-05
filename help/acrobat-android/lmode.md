@@ -1,5 +1,4 @@
 
-.. _lmode: 
 
 # Liquid Mode {#liquid-mode}
 

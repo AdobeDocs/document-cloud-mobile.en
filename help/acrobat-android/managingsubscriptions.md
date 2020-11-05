@@ -1,7 +1,6 @@
 
 # Managing Subscriptions {#managing-subscriptions}
 
-.. contents:: :local:
 
 ## Subscribing to services {#subscribing-to-services}
 

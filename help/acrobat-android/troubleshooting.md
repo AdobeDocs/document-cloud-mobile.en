@@ -6,9 +6,7 @@
 
 If you’re having trouble with the app, a particular file, or just have a question, get help from fellow users on the [online forum](https://www.adobe.com/go/acrobatmobilesupport).
 
-## Troubleshooting {#troubleshooting}
-
-### Determining your app version {#determining-your-app-version}
+## Determining your app version {#determining-your-app-version}
 
 By default, the app automatically updates. To determine your installed product version, tap ![image](./images/profileicon.png) > **About Adobe Acrobat**. 
 
@@ -16,18 +14,18 @@ The installed version appears under the **About** heading.
 
 ![image](../imagesandroid/version.png)
 
-### Determining who is logged in {#determining-who-is-logged-in}
+## Determining who is logged in {#determining-who-is-logged-in}
 
 The currently logged in user can be viewed by tapping ![image](./images/profileicon.png)
 
-### Finding your operating system version {#finding-your-operating-system-version}
+## Finding your operating system version {#finding-your-operating-system-version}
 
 Note: The method for finding the Android version varies across devices, but start by choosing **Settings > About Phone**.
 
 1. Tap the device's Settings icon.
 1. Tap **About phone** and look up your software version.
 
-### Viewing your subscriptions {#viewing-your-subscriptions}
+## Viewing your subscriptions {#viewing-your-subscriptions}
 
 If a feature you're trying to use is not available or asks you to subscribe, check your current subscriptions as follows: 
 
@@ -38,7 +36,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 
    ![image](../imagesandroid/subscriptions.png)
 
-### Getting crash logs {#getting-crash-logs}
+## Getting crash logs {#getting-crash-logs}
 
 If your app crashes, perform the following steps to send us the crash logs:
 
@@ -50,7 +48,7 @@ If your app crashes, perform the following steps to send us the crash logs:
 1. Tap  **Interactive report > Report**
 1. When the bug report is ready, send the logs, device type, and OS version details to the [online forum](https://www.adobe.com/go/acrobatmobilesupport).
 
-### Sending crash logs to Adobe {#sending-crash-logs-to-adobe}
+## Sending crash logs to Adobe {#sending-crash-logs-to-adobe}
 
 If your app crashes, a dialog appears asking that allows you to choose whether to send the log always or just once. Choose **Always** to help Adobe resolve any app issues. 
 

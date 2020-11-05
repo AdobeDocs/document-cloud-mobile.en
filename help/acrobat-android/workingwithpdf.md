@@ -6,7 +6,6 @@ When you open a PDF, what menus appear will vary based on the file. Regular file
 
 ![image](../imagesandroid/regularmenu.png)
 
-.. contents:: :local:
 
 ## Menus and viewing contexts {#menus-and-viewing-contexts}
 

@@ -105,13 +105,6 @@ Cancel subscriptions from the app store where you initiated the subscription:
 **Samsung Galaxy Store**: Adobe does not issue refunds for purchases made directly through the Samsung Galaxy Store. For refund or billing requests, please refer to their support policy: https://www.samsung.com/us/support/answer/ANS00076970/ 
 
 
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-
-    settings
-    workingwithpdf
     lmode
     navigatesearch
     managefilesfolders
