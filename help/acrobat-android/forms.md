@@ -60,7 +60,7 @@ You can easily turn almost any PDF into a form and either send it to others or f
 
 To create a form in an open document: 
 
-1. Tap  ![image](./images/editicon) >  ![image](./images/fillsignicon.png) to show the Fill & Sign toolbar. 
+1. Tap  ![image](./images/editicon.png) >  ![image](./images/fillsignicon.png) to show the Fill & Sign toolbar. 
 
    ![image](./images/editbuttonmenu.png)
 
