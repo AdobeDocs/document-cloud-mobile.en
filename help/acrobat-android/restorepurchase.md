@@ -8,13 +8,13 @@
  
 To fix this issue, backup your data and reinstall the app as follows: 
  
-1.	Back up your data. Note that files listed in the Recent list are likely already backed up. With Acrobat open and a network connection, cloud files should already be synced. The local storage area Acrobat automatically uses is deleted when the app is uninstalled. 
+1. Back up your data. Note that files listed in the Recent list are likely already backed up. With Acrobat open and a network connection, cloud files should already be synced. The local storage area Acrobat automatically uses is deleted when the app is uninstalled. 
 
-  1.	From the Home view, tap **Files > On this Device**. 
-  2.	For every file you need to back up, tap ![image](./images/overflowicon.png)
-  3.	Choose **Save a Copy**, select a location (local, Document Cloud, or a connected 3rd party storage solution), and  complete the workflow.
+   1. From the Home view, tap **Files > On this Device**. 
+   2. For every file you need to back up, tap ![image](./images/overflowicon.png)
+   3. Choose **Save a Copy**, select a location (local, Document Cloud, or a connected 3rd party storage solution), and  complete the workflow.
  
-![image](../imagesandroid/saveacopy.png)
+   ![image](../imagesandroid/saveacopy.png)
  
-2.	Uninstall the app via the standard method on your device. 
-3.	Reinstall the app from the app store where you originally purchased your subscription.  
+2. Uninstall the app via the standard method on your device. 
+3. Reinstall the app from the app store where you originally purchased your subscription.  

@@ -19,7 +19,7 @@ Many Acrobat features are available on all platforms. An intuitive user interfac
 * **Mobile**: Download and configure the free mobile app from your favorite app store.
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
 * **Desktop**: Sign in to desktop Acrobat so you can sync files across your devices. 
-	
+
 
 ## Signing in {#signing-in}
 
@@ -39,7 +39,7 @@ You can sign in to Document Cloud with an Adobe, Google/Facebook/Apple IDs, or a
 * Tap a 3rd party sign in option: Facebook, Google, or Apple.
 * Tap **Sign In** to use your Adobe ID, then enter your email address and password.
 * Tap **Sign Up** to create a new Adobe ID.
-	
+
    ![image](../imagesandroid/signinmain.png)
 
 ### Signing in with a company or school ID {#signing-in-with-a-company-or-school-id}

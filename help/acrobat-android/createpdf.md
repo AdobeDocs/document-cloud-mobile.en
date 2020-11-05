@@ -1,5 +1,5 @@
 
-	
+
 # Create PDF and Scan {#create-pdf-and-scan}
 
 Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can convert many document types to PDF format. This online service requires an internet connection. 

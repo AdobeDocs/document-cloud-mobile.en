@@ -58,7 +58,7 @@ Use Dark Mode  (Night Mode on some devices) to improve reading in low light cond
 
 
 ## Acrobat settings {#acrobat-settings}
-	
+
 Acrobat's settings allow you to pre-configure workflow features such as comment author name, form fill-in suggestions, and so on. To change these settings, tap ![image](./images/profileicon.png) and navigate to the applicable screen as described below.
 
    ![image](../imagesandroid/mainmenu.png)
@@ -136,7 +136,7 @@ If you use Document Cloud for file storage, you can control where the files are 
 
     * Internal storage: This option securely stores data on the device permanent memory. 
     * SD card: This option stores data on the SD card which all apps may be able to access and which can be removed the device. 
-	
+
    ![image](../imagesandroid/cache.png)
 
 

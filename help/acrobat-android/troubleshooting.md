@@ -42,7 +42,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 
 If your app crashes, perform the following steps to send us the crash logs:
 
-1.	Go to your device's settings 
+1. Go to your device's settings 
 1. Tap **About Phone > Build Number**. 
 1. Tap on the build number 6 times to enable the developer options.
 1. Tap the back button. 

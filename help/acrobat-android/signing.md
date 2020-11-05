@@ -1,5 +1,4 @@
 
-	
 # Create signatures and sign {#create-signatures-and-sign}
 
 Adobe's DC product family offers rich signing capabilities, including free features in Acrobat Reader, cloud-based eSign services that let you sign, send, and track documents from anywhere, and the Adobe Sign application that enables creating and managing signature workflows from your mobile device.

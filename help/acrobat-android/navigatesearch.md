@@ -1,4 +1,4 @@
-	
+
 # Navigate and search {#navigate-and-search}
 
 ## Finding files {#finding-files}
@@ -99,7 +99,7 @@ When your PDF document has 3 or more pages:
 1. Tap the scrubber tab. 
 1. Enter a number in the Go To Page dialog. 
 1. Tap **OK**.
-	 
+ 
    ![image](../imagesandroid/gotopage.png)
 
 ### Smart zoom {#smart-zoom}
