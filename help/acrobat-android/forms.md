@@ -108,7 +108,7 @@ When you copy text to your device clipboard, you can paste that text into a text
 
 ### Undo and redo {#undo-and-redo}
 
-As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon)or |redoicon.png) in the upper right menu or above the keyboard (if it is visible).
+As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon) or ![image](./images/redoicon.png) in the upper right menu or above the keyboard (if it is visible).
 
    ![image](./images/undoredo.png)
 
