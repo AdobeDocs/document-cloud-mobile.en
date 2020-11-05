@@ -13,7 +13,7 @@ Convert unopened files to PDF as follows:
 1. Do one of the following:
 
     * For any file, tap ![image](./images/overflowicon.png) **Create PDF**. 
-    * Tap ![image](./images/plusicon| and then tap |createicon.png)
+    * Tap ![image](./images/plusicon)and then tap |createicon.png)
 
    ![image](./images/createmenu.png)
 
@@ -61,7 +61,7 @@ To invoke the scan app:
 
 1. Log in to Document Cloud.
 1. Go to any file list (Home, Files, Shared).
-1. Tap ![image](./images/plusicon| and then tap |cameraicon.png)
+1. Tap ![image](./images/plusicon)and then tap |cameraicon.png)
 1. When the scan app opens, follow through with the workflow. 
 
    ![image](./images/createmenu.png)

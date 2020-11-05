@@ -60,7 +60,7 @@ In addition to accessing files in connected cloud storage locations and other de
 
 1. Open a file: 
 
-    * Review files: tap ![image](./images/overflowicon| > |searchinfileicon.png)
+    * Review files: tap ![image](./images/overflowicon)> |searchinfileicon.png)
     * Normal and shared files: tap ![image](./images/overflowicon.png) **> Find in Document**. 
 
 1. Enter the search term.
@@ -145,7 +145,7 @@ If a document contains bookmarks, an icon appears in the lower right toolbar.
 
 1. When viewing a page you'd like to bookmark, tap the PDF to show the menus.
 1. In a PDF, tap ![image](./images/overflowicon.png)
-1. Tap ![image](./images/addbookmarkicon| or |removebookmarkicon.png)
+1. Tap ![image](./images/addbookmarkicon)or |removebookmarkicon.png)
 
    >[!NOTE]
    >
