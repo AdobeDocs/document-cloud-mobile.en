@@ -18,7 +18,7 @@ The following free features are available:
 You can create signatures or signing initials from a hand drawing, an image, or a camera picture:
 
 1. Open any file that's not shared and is not security protected. 
-1. Tap  ![image](./images/editicon) > ![image](./images/fillsignicon.png)
+1. Tap  ![image](./images/editicon.png) > ![image](./images/fillsignicon.png)
 1. Tap ![image](./images/signicon.png)
 1. Tap **Create Signature** or **Create Initials** and do one of the following:
 
@@ -35,7 +35,7 @@ Note: Enable **Save Online** to store the signature on the cloud and synchronize
 ## Sign a document {#sign-a-document}
 
 1. Open any file that's not shared and is not security protected. 
-1. Tap  ![image](./images/editicon) > ![image](./images/fillsignicon.png)
+1. Tap  ![image](./images/editicon.png) > ![image](./images/fillsignicon.png)
 1. Tap ![image](./images/signicon.png)
 1. Tap your stored signature or initials or create a new one. 
 1. Tap the document move or resize the signatures.
@@ -68,7 +68,7 @@ Signatures cannot be changed or removed after a document is saved. If you've sig
 ## Clear a saved signature {#clear-a-saved-signature}
 
 1. Open a signed file or file that's supported for signing. 
-1. Tap  ![image](./images/editicon) > ![image](./images/fillsignicon.png)
+1. Tap  ![image](./images/editicon.png) > ![image](./images/fillsignicon.png)
 1. Tap ![image](./images/signicon.png)
 1. Tap ![image](./images/clearsigicon.png)
 
@@ -76,7 +76,7 @@ Signatures cannot be changed or removed after a document is saved. If you've sig
 
 ## Undo or redo the last action {#undo-or-redo-the-last-action}
 
-You can undo and redo your last action. Simply tap ![image](./images/undoicon) or ![image](./images/redoicon.png).
+You can undo and redo your last action. Simply tap ![image](./images/undoicon.png)or ![image](./images/redoicon.png).
 
 ## Manage signing workflows {#manage-signing-workflows}
 

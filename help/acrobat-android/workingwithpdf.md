@@ -39,11 +39,11 @@ You can save files stored on your device to the cloud:
 From an unopened file: 
 
 1. Go to the Home file list or **Files > On This Device**. 
-1. Tap ![image](./images/overflowicon) and then tap ![image](./images/savetocloudicon.png)
+1. Tap ![image](./images/overflowicon.png) and then tap ![image](./images/savetocloudicon.png)
 
 From an opened file: 
 
-1. Tap ![image](./images/overflowicon) and then tap ![image](./images/savetocloudicon.png)
+1. Tap ![image](./images/overflowicon.png) and then tap ![image](./images/savetocloudicon.png)
 
 ### Save a file copy {#save-a-file-copy}
 
@@ -80,19 +80,19 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 
 1. Log in to Document Cloud.
 1. Open any file. 
-1. Tap ![image](./images/editicon) and then tap ![image](./images/organizeicon.png)
+1. Tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Select one or more pages, and choose a tool.
 
    ![image](./images/editbuttonmenu.png)
 
    >[!NOTE]
    >
-   > You can undo and redo any action by tapping ![image](./images/overflowicon) and then |undoicon.png). 
+   > You can undo and redo any action by tapping ![image](./images/overflowicon.png) and then ![image](./images/undoicon.png). 
 
 ### Rotate pages {#rotate-pages}
 
 1. Log in to Document Cloud.
-1. Open a non-shared PDF, and tap ![image](./images/editicon) and then tap ![image](./images/organizeicon.png)
+1. Open a non-shared PDF, and tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Tap one or more pages. 
 1. Tap ![image](./images/rotateleft) or |rotateright.png)
 
@@ -101,14 +101,14 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 ### Reorder pages {#reorder-pages}
 
 1. Log in to Document Cloud.
-1. Open a non-shared PDF, and tap ![image](./images/editicon) and then tap ![image](./images/organizeicon.png)
+1. Open a non-shared PDF, and tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Long press any page. 
 1. Drag the page to a new location. 
 
 ### Delete pages {#delete-pages}
 
 1. Log in to Document Cloud.
-1. Open a non-shared PDF, and tap ![image](./images/editicon) and then tap ![image](./images/organizeicon.png)
+1. Open a non-shared PDF, and tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Tap one or more pages. 
 1. Tap ![image](./images/deleteicon.png)
 
@@ -121,7 +121,7 @@ See :ref:`combine`.
 Printing uses your device's printing capabilities. You can set up a printer ahead of time or at the time of printing.
 
 1. Open a PDF. 
-1. Tap ![image](./images/overflowicon) and then |printicon.png) 
+1. Tap ![image](./images/overflowicon.png) and then ![image](./images/printicon.png) 
 1. In the Printer Options dialog, select a printer.
 1. Set your printing preferences such as the number of copies, paper size, color, etc.
 1. Tap **Print**.

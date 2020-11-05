@@ -60,7 +60,7 @@ You can easily turn almost any PDF into a form and either send it to others or f
 
 To create a form in an open document: 
 
-1. Tap  ![image](./images/editicon)> |fillsignicon.png) to show the Fill & Sign toolbar. 
+1. Tap  ![image](./images/editicon) > |fillsignicon.png) to show the Fill & Sign toolbar. 
 
    ![image](./images/editbuttonmenu.png)
 
@@ -108,7 +108,7 @@ When you copy text to your device clipboard, you can paste that text into a text
 
 ### Undo and redo {#undo-and-redo}
 
-As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon) or ![image](./images/redoicon.png) in the upper right menu or above the keyboard (if it is visible).
+As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon.png)or ![image](./images/redoicon.png) in the upper right menu or above the keyboard (if it is visible).
 
    ![image](./images/undoredo.png)
 

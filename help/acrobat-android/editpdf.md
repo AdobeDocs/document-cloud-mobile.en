@@ -22,7 +22,7 @@ To enter edit mode, tap ![image](./images/editicon.png) **> Edit PDF**.
 In edit mode: 
 
 * To edit text or an image, simply tap it. 
-* To add a text box or an image, tap ![image](./images/addtexticon) or ![image](./images/addimageicon.png) 
+* To add a text box or an image, tap ![image](./images/addtexticon.png)or ![image](./images/addimageicon.png) 
 
 ## Adding text {#adding-text}
 
@@ -127,7 +127,7 @@ The app automatically adds the image.
 You can always undo and redo editing actions. 
 
 * Undo: In edit mode, tap ![image](./images/undoicon.png) in the upper right. 
-* Redo: Long press the ![image](./images/undoicon) and tap |redoicon.png) 
+* Redo: Long press the ![image](./images/undoicon.png) and tap ![image](./images/redoicon.png) 
 
    >[!NOTE]
    >
