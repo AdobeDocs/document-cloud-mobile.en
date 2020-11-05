@@ -113,7 +113,7 @@ Double-tap anywhere in your document to zoom into the exact content you want to 
 
 When a document has attachments, you can navigate to them quickly by using the pop up menus:
 
-1. Tap ![image](./images/overflowicon.png) **> Attachments**.
+1. Tap ![image](./images/overflowicon.png) ** @gt; Attachments**.
 1. Tap an attachment to view it. If it's not a PDF, you'll be prompted to open it in a supported app. 
 1. Tap **Back** to return to the main document.
 
