@@ -94,7 +94,7 @@ You can delete, resize, rotate and move new and existing images:
     * Drag it to a different location. 
     * Grab a corner handle and resize the image. 
     * Delete the image. Tap **Delete**. 
-    * Tap ![image](./images/rotateleft) or ![image](./images/rotateright.png) to rotate the image.
+    * Tap ![image](./images/rotateleft.png) or ![image](./images/rotateright.png) to rotate the image.
 
 1. Tap outside the edit block to save your change. 
 

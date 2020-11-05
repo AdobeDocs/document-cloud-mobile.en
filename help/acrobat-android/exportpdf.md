@@ -13,7 +13,7 @@ During the export workflow, users also have the option of converting scanned tex
 
 To export an open (and unshared) PDF:
 
-1. Tap ![image](./images/overflowicon) > ![image](./images/exporticon.png)
+1. Tap ![image](./images/overflowicon.png) > ![image](./images/exporticon.png)
 
    ![image](./images/fileoverflowmenu.png)
 

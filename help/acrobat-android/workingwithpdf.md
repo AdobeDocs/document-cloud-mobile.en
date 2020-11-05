@@ -11,7 +11,7 @@ When you open a PDF, what menus appear will vary based on the file. Regular file
 
 The user interface's menu options vary based on the viewing context. The top menu bar, context menu options, and the floating action button change based on the nature of the currently displayed file: 
 
-* **Regular files** (not shared or in review): The top menu contains tools for changing the scroll mode, undo/redo, text search, share, and an overflow menu that provide access to tools for viewing comments, viewing bookmarks, printing, and actions associated with your subscription services. A floating action button (![image](./images/editicon.png)) provides access to the tools Comments, Fill & Sign, and other subscribed services. 
+* **Regular files** (not shared or in review): The top menu contains tools for changing the scroll mode, undo/redo, text search, share, and an overflow menu that provide access to tools for viewing comments, viewing bookmarks, printing, and actions associated with your subscription services. A floating action button (![image](./images/editicon.png) provides access to the tools Comments, Fill & Sign, and other subscribed services. 
 * **Shared files** (view only): An overflow menu provide access to tools for printing and managing the shared file. 
 * **Review files**: Files in an ongoing review display the comment bar, the comment filter, and an overflow menu that provide access to tools for managing the review. The floating action button is not available. For details, see [review](review.html).
 
@@ -94,7 +94,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Log in to Document Cloud.
 1. Open a non-shared PDF, and tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Tap one or more pages. 
-1. Tap ![image](./images/rotateleft) or ![image](./images/rotateright.png)
+1. Tap ![image](./images/rotateleft.png) or ![image](./images/rotateright.png)
 
    ![image](./images/organize.png)
 
