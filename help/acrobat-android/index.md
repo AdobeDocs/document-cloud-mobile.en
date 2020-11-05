@@ -1,10 +1,6 @@
 
 # Getting Started {#getting-started}
 
-.. contents:: :local:
-
-## Workflows anywhere {#workflows-anywhere}
-
 Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features such as: 
 
 * Online file storage and workflow management
@@ -14,12 +10,13 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
 * Access to subscription services such as create and export PDF, organize and combine files, and so on 
 * And more!
 
+## Workflows anywhere {#workflows-anywhere}
+
 Many Acrobat features are available on all platforms. An intuitive user interface works similarly across phones, the desktop, and in the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
 
 * **Mobile**: Download and configure the free mobile app from your favorite app store.
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
 * **Desktop**: Sign in to desktop Acrobat so you can sync files across your devices. 
-
 
 ## Signing in {#signing-in}
 
@@ -104,18 +101,3 @@ Cancel subscriptions from the app store where you initiated the subscription:
 
 **Samsung Galaxy Store**: Adobe does not issue refunds for purchases made directly through the Samsung Galaxy Store. For refund or billing requests, please refer to their support policy: https://www.samsung.com/us/support/answer/ANS00076970/ 
 
-
-    lmode
-    navigatesearch
-    managefilesfolders
-    review
-    signing
-    forms
-    createpdf
-    exportpdf
-    combine
-    editpdf
-    protect
-    accessibility
-    troubleshooting
-    whatsnew

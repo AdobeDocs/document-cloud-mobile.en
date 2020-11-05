@@ -42,8 +42,7 @@ To help you use all your devices and peripherals and speed up your use of forms,
 
 ### JavaScript API support {#javascript-api-support}
 
-In Acroforms, Acrobat Reader supports the use of JavaScript for form field calculation and validation as well as formatting. For details, see the `Mobile API Reference 
-<https://www.adobe.com/devnet-docs/acrobatetk/tools/Mobile/index.html>`_.
+In Acroforms, Acrobat Reader supports the use of JavaScript for form field calculation and validation as well as formatting. For details, see the [Mobile API Reference](https://www.adobe.com/devnet-docs/acrobatetk/tools/Mobile/index.html).
 
 ## Fill & Sign features {#fill-&-sign-features}
 

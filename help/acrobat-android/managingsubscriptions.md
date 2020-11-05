@@ -84,8 +84,7 @@ After a dialogue appears stating your purchase is restored, relaunch the app and
 
 ## Refund policies {#refund-policies}
 
-**Google Play Store**: Adobe does not issue refunds for purchases made directly through the Google Play Store. For refund or billing requests, please refer to their `support policy 
-<https://support.google.com/googleplay/answer/2479637?hl=en>`_.
+**Google Play Store**: Adobe does not issue refunds for purchases made directly through the Google Play Store. For refund or billing requests, please refer to their [support policy](https://support.google.com/googleplay/answer/2479637?hl=en).
 
 **Samsung Galaxy Store**: Adobe does not issue refunds for purchases made directly through the Samsung Galaxy Store. For refund or billing requests, please refer to their [support policy](https://www.samsung.com/us/support/answer/ANS00076970/).
 
