@@ -60,12 +60,12 @@ You can easily turn almost any PDF into a form and either send it to others or f
 
 To create a form in an open document: 
 
-1. Tap  ![image](./images/editicon) > |fillsignicon.png) to show the Fill & Sign toolbar. 
+1. Tap  ![image](./images/editicon) >  ![image](./images/fillsignicon.png) to show the Fill & Sign toolbar. 
 
    ![image](./images/editbuttonmenu.png)
 
-2. Select a form tool; for example, a text field or checkbox. 
-3. Enter data. By default, the app suggests entries for text fields.
+1. Select a form tool; for example, a text field or checkbox. 
+1. Enter data. By default, the app suggests entries for text fields.
 4. Tap ![image](./images/checkicon.png) to exit Fill & Sign mode. 
 
 When you place a form element, a context menu provides options for changing the font size, deleting the element, and so on.
@@ -99,7 +99,7 @@ You usage history is saved from completed forms. This allows the app to make sug
 
 ### Signing forms {#signing-forms}
 
-Signing is a simple process, especially if you've already [created your signature](signing.html). Simply tap ![image](./images/signicon.png) and place your signature. 
+Signing is a simple process, especially if you've already [created your signature](signing.md). Simply tap ![image](./images/signicon.png) and place your signature. 
 
 ### Pasting text into text fields {#pasting-text-into-text-fields}
 

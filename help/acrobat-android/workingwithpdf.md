@@ -13,7 +13,7 @@ The user interface's menu options vary based on the viewing context. The top men
 
 * **Regular files** (not shared or in review): The top menu contains tools for changing the scroll mode, undo/redo, text search, share, and an overflow menu that provide access to tools for viewing comments, viewing bookmarks, printing, and actions associated with your subscription services. A floating action button (![image](./images/editicon.png) provides access to the tools Comments, Fill & Sign, and other subscribed services. 
 * **Shared files** (view only): An overflow menu provide access to tools for printing and managing the shared file. 
-* **Review files**: Files in an ongoing review display the comment bar, the comment filter, and an overflow menu that provide access to tools for managing the review. The floating action button is not available. For details, see [review](review.html).
+* **Review files**: Files in an ongoing review display the comment bar, the comment filter, and an overflow menu that provide access to tools for managing the review. The floating action button is not available. For details, see [review](review.md).
 
 ![image](./images/editbuttonmenu.png)
 

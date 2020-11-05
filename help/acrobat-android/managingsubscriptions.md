@@ -93,7 +93,7 @@ After a dialogue appears stating your purchase is restored, relaunch the app and
 
 **How do I restore purchases after updating from a store other than the one which provided the original download?** 
 
-See [Restore purchases](restorepurchases.html).
+See [Restore purchases](restorepurchases.md).
 
 **Why was I automatically charged after the trial ended?**
 

@@ -15,7 +15,7 @@ Sharing files is as simple as tapping ![image](./images/shareicon.png) and compl
 
    >[!NOTE]
    >
-   > For details about sharing and review workflows, see [Sharing Files and Starting Reviews](review.html)_. 
+   > For details about sharing and review workflows, see [Sharing Files and Starting Reviews](review.md)_. 
 
 1. Open a PDF. If the top menu is not visible, tap the document. 
 1. Tap ![image](./images/shareicon.png)
@@ -30,7 +30,7 @@ The file automatically uploads to Document Cloud. Document recipients can access
 
    >[!NOTE]
    >
-   > For details about sharing workflows, see [Sharing Files and Starting Reviews](review.html)_. 
+   > For details about sharing workflows, see [Sharing Files and Starting Reviews](review.md)_. 
 
 ### Sharing a link or file copy {#sharing-a-link-or-file-copy}
 
@@ -84,7 +84,7 @@ Navigate through comments by viewing all comments and scrolling through the list
 
    >[!NOTE]
    >
-   > For details about review workflows, see [Sharing Files and Starting Reviews](review.html)_. 
+   > For details about review workflows, see [Sharing Files and Starting Reviews](review.md)_. 
 
 
 ## Initiating a share or review {#initiating-a-share-or-review}
