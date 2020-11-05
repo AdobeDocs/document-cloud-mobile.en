@@ -7,7 +7,7 @@ Acrobat Reader integrates with Adobe Document Cloud, Dropbox, and Google Drive s
 
 Dropbox and Google Drive users can install the apps or simply add their accounts on-the-fly to enable one-touch access to those locations. All scenarios allow you to open cloud-based files in Acrobat Reader and save edited files back to the original location.
 
-![image](../imagesandroid/files.png)
+![image](./images/files.png)
 
 ### Opening file from the cloud {#opening-file-from-the-cloud}
 
@@ -18,13 +18,13 @@ To access your files in Document Cloud, Dropbox, or Drive:
 1. Tap one of the cloud storage options. If you have not already connected your account, tap **Plus > Add Account**, and complete the workflow.
 1. Once you've gained access, you can navigate to any file. PDF files open in Acrobat. If you edit the PDF, changes automatically save back to the cloud. 
 
-   ![image](../imagesandroid/drive.png)
+   ![image](./images/drive.png)
 
 ### Browsing for other files {#browsing-for-other-files}
 
 In addition to accessing files in connected cloud storage locations and other default files lists, you can simply tap **Browse more files** to navigate to storage locations accessible on your device. 
 
-   ![image](../imagesandroid/browseotherlocations.png)
+   ![image](./images/browseotherlocations.png)
 
 ### Unlinking an account {#unlinking-an-account}
 
@@ -34,11 +34,11 @@ Unlinking is basically a sign out operation. To unlink:
 1. Tap ![image](./images/overflowicon.png) in the upper right. 
 1. Tap **Manage (Service name) Accounts**. 
 
-   ![image](../imagesandroid/managecloud.png)
+   ![image](./images/managecloud.png)
 
 1. Tap ![image](./images/removecircle.png)
 
-   ![image](../imagesandroid/managecloud1.png)
+   ![image](./images/managecloud1.png)
 
 ## Opening PDFs from email and browsers {#opening-pdfs-from-email-and-browsers}
 
@@ -123,7 +123,7 @@ The Home view shows your most recently viewed files in chronological order. To r
 1. Tap ![image](./images/clearsigicon.png) 
 1. Tap **Remove File** to confirm the action.
 
-   ![image](../imagesandroid/removefromrecent.png)
+   ![image](./images/removefromrecent.png)
 
 ### Clear the Recent list {#clear-the-recent-list}
 
@@ -151,7 +151,7 @@ Acrobat supports folder management for Document Cloud and Dropbox.
 
 From the **Files > Document Cloud** view, tap ![image](./images/overflowicon.png) to the right of any folder to rename or delete it. 
 
-   ![image](../imagesandroid/foldermenu.png)
+   ![image](./images/foldermenu.png)
 
 ### Rename folders {#rename-folders}
 

@@ -26,7 +26,7 @@ Sharing files is as simple as tapping ![image](./images/shareicon.png) and compl
 
 The file automatically uploads to Document Cloud. Document recipients can access the file from the web as well as their desktop or phone. Alternatively, you can also share a link to the file or a copy of the file. 
 
-   ![image](../imagesandroid/share.png)
+   ![image](./images/share.png)
 
    >[!NOTE]
    >
@@ -45,14 +45,14 @@ To do so, use the Share method described above and tap  **Get a Link** or **Shar
    >
    > If you don't enter any email addresses prior to choosing **Get a Link** or **Share a Copy**, the app invokes your app list. You can then email the file, save a copy to Google Drive, or share the file with any supported app you've installed. 
 
-   ![image](../imagesandroid/sharelinkcopy.png)
+   ![image](./images/sharelinkcopy.png)
 
 
 ### Share tag {#share-tag}
 
 You can easily determine if a file is shared from the Home view or the file context menu. Shared files are marked with a group icon. When you search for a file, the tag also appears in the search result. 
 
-   ![image](../imagesandroid/vieworreview.png)
+   ![image](./images/vieworreview.png)
 
 ### Shared "by you" and "by others" {#shared-"by-you"-and-"by-others"}
 
@@ -61,7 +61,7 @@ When no document is open, you can view all your shared files from the Shared vie
 1. Tap ![image](./images/sharedfilelisticon.png) to view your shared files.  
 1. Tap either **By Others** or **By You** tabs to see your separate file lists. 
 
-   ![image](../imagesandroid/viewreviewtabs.png)
+   ![image](./images/viewreviewtabs.png)
 
 ## Commenting {#commenting}
 
@@ -76,11 +76,11 @@ Commenting is a free service, and you can easily add notes and mark up files:
 
 You can reply to comments, change the color, delete comments, and view all comments. 
 
-   ![image](../imagesandroid/comment1.png)
+   ![image](./images/comment1.png)
 
 Navigate through comments by viewing all comments and scrolling through the list or by using the previous and next arrows.
 
-   ![image](../imagesandroid/comment2.png)
+   ![image](./images/comment2.png)
 
    >[!NOTE]
    >
@@ -101,7 +101,7 @@ Sharing a file is easy, and you can track and manage the share from your mobile 
 
 The file automatically uploads to Document Cloud. Document recipients can access the file from the web as well as their desktop or phone. Alternatively, you can share a link to the file or a copy of the file. 
 
-   ![image](../imagesandroid/share.png)
+   ![image](./images/share.png)
 
 ## Sharing files or links {#sharing-files-or-links}
 
@@ -116,7 +116,7 @@ To do so, use the Share method described above, and tap  **Get a Link** or **Sha
    >
    > If you don't enter any email addresses prior to choosing **Get a Link** or **Share a Copy**, the app invokes your app list. You can then email the file, save a copy to Google Drive, or share the file with any supported app you've installed. 
 
-   ![image](../imagesandroid/sharelinkcopy.png)
+   ![image](./images/sharelinkcopy.png)
 
 ## Reviewing files {#reviewing-files}
 
@@ -131,7 +131,7 @@ The review feature allows you to add comments and annotations, edit comments, re
    >
    > Using the ![image](./images/aticon.png) tag sends a push notification to the named reviewer. The app also sends notifications whenever a comment or annotation is added or changed.
 
-   ![image](../imagesandroid/reviewmode.png)
+   ![image](./images/reviewmode.png)
 
 ### Working with comments {#working-with-comments}
 
@@ -146,7 +146,7 @@ When you tap on a comment, the app shows the edit tools. From here you can:
 * Reply.  
 
 
-   ![image](../imagesandroid/commentpanel.png)
+   ![image](./images/commentpanel.png)
 
 ### Replying to a comment {#replying-to-a-comment}
 
@@ -156,7 +156,7 @@ From the comments list:
 1. Enter text. 
 1. Tap **Reply**.
 
-   ![image](../imagesandroid/replytocomment.png)
+   ![image](./images/replytocomment.png)
 
 ### Mentioning a specific reviewer {#mentioning-a-specific-reviewer}
 
@@ -169,7 +169,7 @@ To use the tag:
 1. Tap of one of the reviewer names.
 1. Finish your comment and tap **Reply**. 
 
-   ![image](../imagesandroid/mention.png)
+   ![image](./images/mention.png)
 
 ### Edit and delete comments {#edit-and-delete-comments}
 
@@ -198,13 +198,13 @@ The app provides a number of ways to filter comments so that you can easily find
 1. Tap any filter. 
 1. Tap **Apply**.
 
-   ![image](../imagesandroid/filters.png)
+   ![image](./images/filters.png)
 
 ### Clearing filters {#clearing-filters}
 
 One you've applied a comment filter, a filter bar appears at the bottom of the document diplays the number of selected filters and a **Clear** button. Tap **Clear** to remove all filters.
 
-   ![image](../imagesandroid/filterbar.png)
+   ![image](./images/filterbar.png)
 
 ### Navigating through comments {#navigating-through-comments}
 
@@ -213,7 +213,7 @@ When documents contain a large number of comments, use the navigation tools:
 * Open the comments list and scroll through the comments list.
 * From a specific comment, scroll left and right through the comments.
 
-   ![image](../imagesandroid/navigatecomments.png)
+   ![image](./images/navigatecomments.png)
 
 ### Viewing notifications {#viewing-notifications}
 
@@ -225,7 +225,7 @@ There are two types of notifications: Requests and simple messages. Requests are
    >
    > Notifications  include deadlines, reminders, real-time messages from the sender, and other messages.  Depending on what you've permitted, notifications may also appear on your device's home screen. 
  
-   ![image](../imagesandroid/notifications.png)
+   ![image](./images/notifications.png)
 
 ## Managing reviews {#managing-reviews}
 
@@ -243,7 +243,7 @@ Features include:
 
 To manage a review when a document is open, simply click the ![image](./images/overflowicon.png). 
 
-   ![image](../imagesandroid/reviewtools.png)
+   ![image](./images/reviewtools.png)
 
    >[!NOTE]
    >
@@ -256,7 +256,7 @@ When a review file is open, the top bar displays an overview of the review's cur
 * Document sync status. Changed files are automatically synced with Document Cloud. Files that have been saved display a green circle.
 * Document title (tablets only)
  
-   ![image](../imagesandroid/reviewstatus.png)
+   ![image](./images/reviewstatus.png)
 
 ### Setting review deadlines {#setting-review-deadlines}
 
@@ -270,7 +270,7 @@ You can specify a deadline when setting up a review so that the review automatic
    >
    > Notifications are sent to all recipients on the deadline date. 
 
-   ![image](../imagesandroid/deadline.png)
+   ![image](./images/deadline.png)
 
 ### Setting review reminders {#setting-review-reminders}
 
@@ -291,7 +291,7 @@ From any file list (Home, Shared, or search result):
 1. Tap **Add People**.
 1. Enter an email address and tap **Send**. 
 
-   ![image](../imagesandroid/recipients.png)
+   ![image](./images/recipients.png)
 
 ### Checking who has viewed a file {#checking-who-has-viewed-a-file}
 
@@ -302,7 +302,7 @@ From any file list (Home, Shared, or search result):
 1. Tap ![image](./images/overflowicon.png)
 1. Tap **Recipients**. 
 
-   ![image](../imagesandroid/notopened.png)
+   ![image](./images/notopened.png)
 
 
 ### Viewing the review message {#viewing-the-review-message}
@@ -312,7 +312,7 @@ If you need to review the initial message you sent when you share the file, from
 1. Tap ![image](./images/overflowicon.png)
 2. Tap **Message**. 
 
-   ![image](../imagesandroid/reviewtools.png)
+   ![image](./images/reviewtools.png)
 
 ### Get a new file link {#get-a-new-file-link}
 
@@ -358,7 +358,7 @@ Reviewers can report abuse when another reviewer violates Adobe's terms of use:
 1. Tap **Report Abuse**. 
 1. Tap **Continue** and complete the workflow.
 
-   ![image](../imagesandroid/reviewmenu.png)
+   ![image](./images/reviewmenu.png)
 
 
 ### Removing yourself from a review {#removing-yourself-from-a-review}

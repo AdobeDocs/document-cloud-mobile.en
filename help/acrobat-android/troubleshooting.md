@@ -12,7 +12,7 @@ By default, the app automatically updates. To determine your installed product v
 
 The installed version appears under the **About** heading. 
 
-![image](../imagesandroid/version.png)
+![image](./images/version.png)
 
 ## Determining who is logged in {#determining-who-is-logged-in}
 
@@ -34,7 +34,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 1. To add a subscription, tap **Subscribe**.
 1. Tap **Done**.
 
-   ![image](../imagesandroid/subscriptions.png)
+   ![image](./images/subscriptions.png)
 
 ## Getting crash logs {#getting-crash-logs}
 

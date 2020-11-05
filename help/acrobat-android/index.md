@@ -40,13 +40,13 @@ You can sign in to Document Cloud with an Adobe, Google/Facebook/Apple IDs, or a
 * Tap **Sign In** to use your Adobe ID, then enter your email address and password.
 * Tap **Sign Up** to create a new Adobe ID.
 
-   ![image](../imagesandroid/signinmain.png)
+   ![image](./images/signinmain.png)
 
 ### Signing in with a company or school ID {#signing-in-with-a-company-or-school-id}
 
 You likely have a single login credential and will only see one set of screens. However, if you are part of an organization and have another ID, you may be prompted to choose between an personal or company ID. If so, select an account and log in with the credential associated with that account. 
 
-   ![image](../imagesandroid/selectaccount.png)
+   ![image](./images/selectaccount.png)
 
 ### Signing out {#signing-out}
 
@@ -69,7 +69,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 1. Tap **Subscriptions**.
 1. To add a subscription or find out more details, tap **Subscribe Now**. *The workflow may vary on Samsung devices*.
 
-   ![image](../imagesandroid/subscriptionsnew.png)
+   ![image](./images/subscriptionsnew.png)
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ You can manage your subscriptions from any device:
 1. Tap **Manage subscriptions**.
 1. Manage subscriptions from your app store. See [Play Store](https://support.google.com/googleplay/answer/7018481).
 
-   ![image](../imagesandroid/managesubs.png)
+   ![image](./images/managesubs.png)
 
 ### Canceling a subscription {#canceling-a-subscription}
 

@@ -12,7 +12,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 1. Tap **Subscriptions**.
 1. To add a subscription or find out more details, tap **Subscribe Now**. *The workflow may vary on Samsung devices*.
 
-   ![image](../imagesandroid/subscriptionsnew.png)
+   ![image](./images/subscriptionsnew.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ You can manage your subscriptions from any device:
 1. Tap **Manage subscriptions**.
 1. Manage subscriptions from your app store. See [Play Store](https://support.google.com/googleplay/answer/7018481).
 
-   ![image](../imagesandroid/managesubs.png)
+   ![image](./images/managesubs.png)
 
 ## Canceling a subscription {#canceling-a-subscription}
 

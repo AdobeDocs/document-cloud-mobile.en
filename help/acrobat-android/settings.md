@@ -10,7 +10,7 @@ The app leverages your device's features, and its default settings make it easie
    >
    > Only notifications are enabled by default. For other access to other features, you will be prompted to grant permissions as needed. 
 
-![image](../imagesandroid/settings.png)
+![image](./images/settings.png)
 
 
 ### General device permissions {#general-device-permissions}
@@ -21,7 +21,7 @@ To change a setting:
 1. Tap **Apps > Adobe Acrobat**. 
 1. Tap **Permissions** and set as needed. 
 
-   ![image](../imagesandroid/permissions.png)
+   ![image](./images/permissions.png)
 
    >[!NOTE]
    >
@@ -38,7 +38,7 @@ When enabled, notifications tell you when a file has changed, a reviewer has com
 1. Tap **Notifications**. 
 1. Set permissions as needed.
 
-   ![image](../imagesandroid/notificationsettings.png)
+   ![image](./images/notificationsettings.png)
 
    >[!NOTE]
    >
@@ -52,14 +52,14 @@ Use Dark Mode  (Night Mode on some devices) to improve reading in low light cond
 1. Tap **Display > Night mode**. 
 1. Configure the settings: enable night mode and set the color temperature and lightness. 
 
-   ![image](../imagesandroid/nightmode.png)
+   ![image](./images/nightmode.png)
 
 
 ## Acrobat settings {#acrobat-settings}
 
 Acrobat's settings allow you to pre-configure workflow features such as comment author name, form fill-in suggestions, and so on. To change these settings, tap ![image](./images/profileicon.png) and navigate to the applicable screen as described below.
 
-   ![image](../imagesandroid/mainmenu.png)
+   ![image](./images/mainmenu.png)
 
 
 ### Starred file location {#starred-file-location}
@@ -75,11 +75,11 @@ Starring a file is similar to "favoriting" a file: Once starred, a star appears 
 
 1. Tap **OK**.
 
-   ![image](../imagesandroid/stardialog.png)
+   ![image](./images/stardialog.png)
 
 If you choose **Ask every time**, every time you star a file you'll be prompted decide whether to sync and star the file on Document Cloud or only on your device. If you tap **Remember this choice**, you device setting changes for all files you star in the future. 
 
-   ![image](../imagesandroid/staraskdialog.png)
+   ![image](./images/staraskdialog.png)
 
 ### Automatic form fill-in {#automatic-form-fill-in}
 
@@ -93,7 +93,7 @@ To disable this feature:
 1. Tap ![image](./images/profileicon.png) > **Preferences**. 
 1. Disable **Suggest previously used words when filling forms**.
 
-   ![image](../imagesandroid/suggest.png)
+   ![image](./images/suggest.png)
 
 ### Clearing form data history {#clearing-form-data-history}
 
@@ -112,7 +112,7 @@ To do so:
 1. Enter your name in the Author Name field. 
 1. Tap **OK**.
 
-   ![image](../imagesandroid/authorname.png)
+   ![image](./images/authorname.png)
 
 ### Screen brightness lock {#screen-brightness-lock}
 
@@ -121,7 +121,7 @@ To prevent Acrobat from automatically dimming while you are reading:
 1. Tap ![image](./images/profileicon.png) > **Preferences**.
 1. Enable Screen Brightness Lock.
 
-   ![image](../imagesandroid/screenbrightlock.png)
+   ![image](./images/screenbrightlock.png)
 
 
 ### Setting the file cache {#setting-the-file-cache}
@@ -135,7 +135,7 @@ If you use Document Cloud for file storage, you can control where the files are 
     * Internal storage: This option securely stores data on the device permanent memory. 
     * SD card: This option stores data on the SD card which all apps may be able to access and which can be removed the device. 
 
-   ![image](../imagesandroid/cache.png)
+   ![image](./images/cache.png)
 
 
 
@@ -156,7 +156,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 1. Tap **Plans & Products** to see a list of current subscriptions.  
 1. To add a subscription, tap **Subscribe** and complete the purchase workflow.
 
-   ![image](../imagesandroid/subscriptionsnew.png)
+   ![image](./images/subscriptionsnew.png)
 
 ### Sending usage data to Adobe {#sending-usage-data-to-adobe}
 
@@ -165,7 +165,7 @@ By default, the app sends usage data to Adobe as part of the Product improvement
 1. Tap ![image](./images/profileicon.png) > **About Adobe Acrobat**. 
 1. Disable **Send Usage Info**.
 
-   ![image](../imagesandroid/usage.png)
+   ![image](./images/usage.png)
 
 ### App version {#app-version}
 
@@ -173,4 +173,4 @@ By default, the app automatically updates. To determine your installed product v
 
 The installed version appears under the **About** heading. 
 
-   ![image](../imagesandroid/version.png)
+   ![image](./images/version.png)

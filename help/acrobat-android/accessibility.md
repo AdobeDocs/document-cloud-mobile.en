@@ -15,7 +15,7 @@ Android allows you to specify a preferred text size. Acrobat's support for font 
 1. Tap **Display > Font Size**.
 1. Adjust the slider to your preferred setting.  
 
-   ![image](../imagesandroid/textsize.png)
+   ![image](./images/textsize.png)
 
 ### Inverting colors {#inverting-colors}
 
@@ -25,7 +25,7 @@ Your device settings include an option to invert colors.
 1. Tap **Accessibility** (or search for it if the menu item does not display). 
 1. Tap **Color inversion**.
 
-   ![image](../imagesandroid/invertcolor.png)
+   ![image](./images/invertcolor.png)
 
 ### Night mode {#night-mode}
 
@@ -36,7 +36,7 @@ Night Mode adjusts your display brightness to improve readability in low light c
 1. Enable Night Mode.
 1. Move the Effect Strength slider to adjust how much Night Mode changes your display. 
 
-   ![image](../imagesandroid/nightmode.png)
+   ![image](./images/nightmode.png)
 
 
 ### Acrobat's night mode {#acrobat's-night-mode}
@@ -49,7 +49,7 @@ To set the view mode:
 1. Tap the view mode icon. The displayed icon represents the current view. 
 1. Tap one Night Mode. 
 
-   ![image](../imagesandroid/viewmodes.png)
+   ![image](./images/viewmodes.png)
 
 ### Display brightness {#display-brightness}
 
@@ -60,7 +60,7 @@ Set your display's brightness to enhance readability as needed.
 1. Disable or enable Adaptive brightness. 
 1. Move the brightness slider to your preferred level. 
 
-   ![image](../imagesandroid/brightness.png)
+   ![image](./images/brightness.png)
 
 ## Audio features {#audio-features}
 
@@ -84,7 +84,7 @@ Here's an example from one device:
 1. Tap **Text-to-Speech Output**.  
 1. Configure the setting as need. For example, you may be able to select a preferred text-to-speech engine, the language, speech rate, and pitch. 
 
-   ![image](../imagesandroid/talkback.png)
+   ![image](./images/talkback.png)
 
 ## Gesture features {#gesture-features}
 

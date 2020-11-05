@@ -29,7 +29,7 @@ You can invoke the combine file workflow from a file list:
 
 The file is automatically sent to Adobe's Combine service and uploaded to Document Cloud. 
 
-   ![image](../imagesandroid/combinefiles1.png)
+   ![image](./images/combinefiles1.png)
 
 
 ### Combining unopened files (method 2) {#combining-unopened-files-(method-2)}
@@ -37,7 +37,7 @@ The file is automatically sent to Adobe's Combine service and uploaded to Docume
 You can invoke the combine file workflow simply by tapping the plus icon: ![image](./images/plusicon.png)
 
 
-   ![image](../imagesandroid/createmenu.png)
+   ![image](./images/createmenu.png)
 
 
 1. Log in to Document Cloud.
@@ -47,7 +47,7 @@ You can invoke the combine file workflow simply by tapping the plus icon: ![imag
 1. Navigate to a file location. 
 1. Select 2 or more files. If you select non-PDF files, they are converted to PDF on-the-fly. 
 
-   ![image](../imagesandroid/combinefiles1.png)
+   ![image](./images/combinefiles1.png)
 
 1. Tap **Next**.
 1. *Optional*: Reorder files by tapping or long pressing ![image](./images/reordericon.png) and dragging it to a new location. You can also remove files from the combine list.
@@ -65,14 +65,14 @@ You can invoke the combine workflow from any open file:
 1. In any open (non-shared) file, tap ![image](./images/overflowicon.png) 
 1. Tap ![image](./images/combineicon.png), and complete the workflow described above. 
 
-   ![image](../imagesandroid/fileoverflowmenu.png)
+   ![image](./images/fileoverflowmenu.png)
 
 
 ## Compress files {#compress-files}
 
 Sometimes working with smaller file sizes is easier and faster--operations on large files can take longer and/or consume more bandwidth. Premium users can compress files to reduce their size. Files must not have been previously compressed. 
 
-   ![image](../imagesandroid/contextmenu1.png)
+   ![image](./images/contextmenu1.png)
 
 To compress a file: 
 
@@ -80,7 +80,7 @@ To compress a file:
 1. *Optional*. After compression completes, tap **Open** to open the file. 
 1. After compression, the file is save backed to original location; for example, to the device, Adobe Document Cloud, Google Drive, etc. 
 
-   ![image](../imagesandroid/compressmsg2.png)
+   ![image](./images/compressmsg2.png)
 
    >[!NOTE]
    >

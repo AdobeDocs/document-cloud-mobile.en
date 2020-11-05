@@ -11,13 +11,13 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can edit PDFs on ph
 * Undo and redo actions
 * Copy and paste text to and from a PDF
 
-![image](../imagesandroid/editmode.png)
+![image](./images/editmode.png)
 
 ## Open edit mode {#open-edit-mode}
 
 To enter edit mode, tap ![image](./images/editicon.png) **> Edit PDF**. 
 
-![image](../imagesandroid/editbuttonmenu.png)
+![image](./images/editbuttonmenu.png)
 
 In edit mode: 
 
@@ -35,7 +35,7 @@ To add new text, open edit mode and:
 1. Enter any text.
 1. Tap **Save**. 
 
-   ![image](../imagesandroid/addtext.png)
+   ![image](./images/addtext.png)
 
 Once you've exited the add text mode, you can tap  the text again and select a tool from the menu to change the font style, size, weight, color, and alignment. 
 
@@ -49,7 +49,7 @@ To edit existing text, open edit mode and:
 1. Tap outside the edit block to save your change. 
 
 
-   ![image](../imagesandroid/editblock.png)
+   ![image](./images/editblock.png)
 
 ## Copy a text block {#copy-a-text-block}
 
@@ -75,13 +75,13 @@ To edit existing text, open edit mode and:
 1. Select any text tool from the edit menu. You can change the font style, size, weight, color, and alignment. 
 1. Tap outside the edit block to save your change. 
 
-   ![image](../imagesandroid/selecttext.png)
+   ![image](./images/selecttext.png)
 
 ## Inserting lists {#inserting-lists}
 
 You can insert a new list or convert existing text into either a bulleted or numbered list. To do so, simply select text as described above and tap one of the list icons. 
 
-   ![image](../imagesandroid/insertlist.png)
+   ![image](./images/insertlist.png)
 
 ## Editing images {#editing-images}
 
@@ -98,7 +98,7 @@ You can delete, resize, rotate and move new and existing images:
 
 1. Tap outside the edit block to save your change. 
 
-   ![image](../imagesandroid/editimage.png)
+   ![image](./images/editimage.png)
 
 ## Adding images {#adding-images}
 
@@ -109,7 +109,7 @@ You can place new image anywhere in a PDF:
 1. Tap the image location in the document.
 1. Tap an image source and navigate to the image. *Available options vary by device*.
 
-   ![image](../imagesandroid/addimage.png)
+   ![image](./images/addimage.png)
 
 The app automatically adds the image. 
 

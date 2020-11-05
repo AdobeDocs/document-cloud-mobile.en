@@ -5,7 +5,7 @@
 
 Acrobat Reader provides a number of ways to help you find files, file content, and folders. When no file is open, the bottom menu displays available locations:
 
-![image](../imagesandroid/bottommenu.png)
+![image](./images/bottommenu.png)
 
 * **Home**: When you start Acrobat, the Home screen shows you all of your files regardless of location with the most recently viewed files at the top of the list. 
 * **Files**: The Files list allows you to select a local or cloud based location.
@@ -26,7 +26,7 @@ Acrobat searches local and Document Cloud files. It does not search files in oth
 
  When the search result appears, you further refine the result by tapping on a file location.
 
-   ![image](../imagesandroid/searchresult1.png)
+   ![image](./images/searchresult1.png)
 
 ## Cloud-based files {#cloud-based-files}
 
@@ -34,7 +34,7 @@ Acrobat Reader integrates with Adobe Document Cloud, Dropbox, and Google Drive s
 
 Dropbox and Google Drive users can install the apps or simply add their accounts on-the-fly to enable one-touch access to those locations. All scenarios allow you to open cloud-based files in Acrobat Reader and save edited files back to the original location.
 
-   ![image](../imagesandroid/files.png)
+   ![image](./images/files.png)
 
 ### Opening file from the cloud {#opening-file-from-the-cloud}
 
@@ -45,13 +45,13 @@ To access your files in Document Cloud, Dropbox, or Drive:
 1. Tap one of the cloud storage options. If you have not already connected your account, tap **Plus > Add Account**, and complete the workflow.
 1. Once you've gained access, you can navigate to any file. PDF files open in Acrobat. If you edit the PDF, changes automatically save back to the cloud. 
 
-   ![image](../imagesandroid/drive.png)
+   ![image](./images/drive.png)
 
 ### Browsing for other files {#browsing-for-other-files}
 
 In addition to accessing files in connected cloud storage locations and other default files lists, you can simply tap **Browse more files** to navigate to storage locations accessible on your device. 
 
-   ![image](../imagesandroid/browseotherlocations.png)
+   ![image](./images/browseotherlocations.png)
 
 
 ## Navigating within files {#navigating-within-files}
@@ -67,7 +67,7 @@ In addition to accessing files in connected cloud storage locations and other de
 1. Tap Search. The first result is highlighted.
 1. Tap the right or left arrow in the top bar to show the next or previous occurrence.
 
-   ![image](../imagesandroid/searchresultfile.png)
+   ![image](./images/searchresultfile.png)
 
 ### Showing menus {#showing-menus}
 
@@ -79,7 +79,7 @@ When a file is open, a single tap changes the view to immersive mode. Immersive 
 
 If you've set the viewing mode to Page-by-Page view, tap the left and right edges of the screen to jump to the previous or next page.
 
-   ![image](../imagesandroid/tapzones.png)
+   ![image](./images/tapzones.png)
 
 ### Jumping multiple pages {#jumping-multiple-pages}
 
@@ -88,7 +88,7 @@ When your PDF document has 3 or more pages:
 1. Tap the middle the screen to show the scrubber tab. Depending on your view mode, it will appear on the right side or bottom of the of the screen.
 1. Long press the tab and slide to another page. 
 
-   ![image](../imagesandroid/scrub.png)
+   ![image](./images/scrub.png)
 
 
 ### Go to page {#go-to-page}
@@ -100,14 +100,14 @@ When your PDF document has 3 or more pages:
 1. Enter a number in the Go To Page dialog. 
 1. Tap **OK**.
  
-   ![image](../imagesandroid/gotopage.png)
+   ![image](./images/gotopage.png)
 
 ### Smart zoom {#smart-zoom}
 
 
 Double-tap anywhere in your document to zoom into the exact content you want to see. Acrobat Reader analyzes the document and fits the view to the column of text under your tap. Double tap again to zoom out.
 
-   ![image](../imagesandroid/zoom.png)
+   ![image](./images/zoom.png)
 
 ### Attachments {#attachments}
 
@@ -117,7 +117,7 @@ When a document has attachments, you can navigate to them quickly by using the p
 1. Tap an attachment to view it. If it's not a PDF, you'll be prompted to open it in a supported app. 
 1. Tap **Back** to return to the main document.
 
-   ![image](../imagesandroid/attachments.png)
+   ![image](./images/attachments.png)
 
 ### Viewing the navigation menu {#viewing-the-navigation-menu}
 
@@ -129,7 +129,7 @@ In a PDF, tap ![image](./images/overflowicon.png) to show the action menu with l
 * Thumbnails
 * Attachments
 
-   ![image](../imagesandroid/navmenu.png)
+   ![image](./images/navmenu.png)
 
 
 ### Viewing bookmarks {#viewing-bookmarks}

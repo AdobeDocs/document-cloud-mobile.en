@@ -20,13 +20,13 @@ Acroforms already contain form fields. You cannot add or remove form fields from
 * To fill out a form, simply tap a form field.
 * After entering data, tap outside a field to save the field data.
 
-![image](../imagesandroid/forms.png)
+![image](./images/forms.png)
 
 ### Tabbing through fields {#tabbing-through-fields}
 
 To navigate through fields tap the right or left arrow. 
 
-![image](../imagesandroid/tabreset.png)
+![image](./images/tabreset.png)
 
 ### Resetting form fields {#resetting-form-fields}
 
@@ -62,7 +62,7 @@ To create a form in an open document:
 
 1. Tap  ![image](./images/editicon| > |fillsignicon.png) to show the Fill & Sign toolbar. 
 
-   ![image](../imagesandroid/editbuttonmenu.png)
+   ![image](./images/editbuttonmenu.png)
 
 2. Select a form tool; for example, a text field or checkbox. 
 3. Enter data. By default, the app suggests entries for text fields.
@@ -70,7 +70,7 @@ To create a form in an open document:
 
 When you place a form element, a context menu provides options for changing the font size, deleting the element, and so on.
 
-   ![image](../imagesandroid/formeditmenu.png)
+   ![image](./images/formeditmenu.png)
 
    >[!NOTE]
    >
@@ -88,7 +88,7 @@ To disable this feature:
 1. Tap ![image](./images/profileicon.png) > **Preferences**. 
 1. Disable **Suggest previously used words when filling forms**.
 
-   ![image](../imagesandroid/suggest.png)
+   ![image](./images/suggest.png)
 
 ### Clearing form data history {#clearing-form-data-history}
 
@@ -110,7 +110,7 @@ When you copy text to your device clipboard, you can paste that text into a text
 
 As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon| or |redoicon.png) in the upper right menu or above the keyboard (if it is visible).
 
-   ![image](../imagesandroid/undoredo.png)
+   ![image](./images/undoredo.png)
 
 ### Deleting form fields {#deleting-form-fields}
 
@@ -119,7 +119,7 @@ To remove a field:
 1. Tap any field.
 1. Tap ![image](./images/deleteicon.png)
 
-   ![image](../imagesandroid/deletefield.png)
+   ![image](./images/deletefield.png)
 
 
 ## Forms FAQs {#forms-faqs}

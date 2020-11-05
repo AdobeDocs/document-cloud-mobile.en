@@ -4,7 +4,7 @@
 
 When you open a PDF, what menus appear will vary based on the file. Regular files (for example, those  not part of a review) display an action menu at the top and floating action bottom at the bottom. Both the overflow icon (![image](./images/overflowicon|) and floating action button |editicon.png) open a context menu displaying additional options based on your service subscriptions (For example, both Organize Pages and Create PDF require a subscription). 
 
-![image](../imagesandroid/regularmenu.png)
+![image](./images/regularmenu.png)
 
 
 ## Menus and viewing contexts {#menus-and-viewing-contexts}
@@ -15,7 +15,7 @@ The user interface's menu options vary based on the viewing context. The top men
 * **Shared files** (view only): An overflow menu provide access to tools for printing and managing the shared file. 
 * **Review files**: Files in an ongoing review display the comment bar, the comment filter, and an overflow menu that provide access to tools for managing the review. The floating action button is not available. For details, see [review](review.html).
 
-![image](../imagesandroid/editbuttonmenu.png)
+![image](./images/editbuttonmenu.png)
 
 ## Sharing and commenting {#sharing-and-commenting}
 
@@ -54,7 +54,7 @@ You can save files to any 3rd party connected storage Acrobat supports--not just
 1. Select a location. 
 1. Tap **Save**. 
 
-   ![image](../imagesandroid/saveacopy.png)
+   ![image](./images/saveacopy.png)
 
 ## Starring files (favoriting) {#starring-files-(favoriting)}
 
@@ -68,11 +68,11 @@ To star a file:
 1. Open any context menu.
 1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your :ref:`starsetting` settings. 
 
-   ![image](../imagesandroid/starredfiles.png)
+   ![image](./images/starredfiles.png)
 
 To unstar a file, open any context menu (usually by tapping ![image](./images/overflowicon|) and tap |unstaricon.png).
 
-   ![image](../imagesandroid/unstarfile.png)
+   ![image](./images/unstarfile.png)
 
 ## Organize pages {#organize-pages}
 
@@ -83,7 +83,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Tap ![image](./images/editicon| and then tap |organizeicon.png)
 1. Select one or more pages, and choose a tool.
 
-   ![image](../imagesandroid/editbuttonmenu.png)
+   ![image](./images/editbuttonmenu.png)
 
    >[!NOTE]
    >
@@ -96,7 +96,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Tap one or more pages. 
 1. Tap ![image](./images/rotateleft| or |rotateright.png)
 
-   ![image](../imagesandroid/organize.png)
+   ![image](./images/organize.png)
 
 ### Reorder pages {#reorder-pages}
 
@@ -130,7 +130,7 @@ Printing uses your device's printing capabilities. You can set up a printer ahea
    >
    > If no printer is found, you will be prompted to save the PDF to your device.
 
-   ![image](../imagesandroid/printoptions.png)
+   ![image](./images/printoptions.png)
 
 ## View modes {#view-modes}
 
@@ -149,7 +149,7 @@ To set the view mode:
 1. Tap the view mode icon. The displayed icon represents the current view. 
 1. Tap one of the view modes. 
 
-   ![image](../imagesandroid/viewmodes.png)
+   ![image](./images/viewmodes.png)
 
    >[!NOTE]
    >

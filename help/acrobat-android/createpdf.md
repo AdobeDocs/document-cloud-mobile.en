@@ -15,7 +15,7 @@ Convert unopened files to PDF as follows:
     * For any file, tap ![image](./images/overflowicon.png) **Create PDF**. 
     * Tap ![image](./images/plusicon| and then tap |createicon.png)
 
-   ![image](../imagesandroid/createmenu.png)
+   ![image](./images/createmenu.png)
 
 1. Tap any file location, and navigate to a file.
 1. Select one non-PDF file.
@@ -30,7 +30,7 @@ You can easily convert any image file on your device if the viewing application 
 1. Tap ![image](./images/shareicon.png).
 1. Tap **Convert to PDF**.
 
-   ![image](../imagesandroid/convertfromgallery.png)
+   ![image](./images/convertfromgallery.png)
 
 ## Scanning to PDF {#scanning-to-pdf}
 
@@ -52,7 +52,7 @@ In addition to creating PDFs which you can then import into Acrobat Reader, Adob
 
 When in the Home view, simply choose New Scan from the Tools list. 
 
-   ![image](../imagesandroid/newscan.png)
+   ![image](./images/newscan.png)
 
 
 ### Scanning from a file list {#scanning-from-a-file-list}
@@ -64,7 +64,7 @@ To invoke the scan app:
 1. Tap ![image](./images/plusicon| and then tap |cameraicon.png)
 1. When the scan app opens, follow through with the workflow. 
 
-   ![image](../imagesandroid/createmenu.png)
+   ![image](./images/createmenu.png)
 
 ### Scanning from an open file {#scanning-from-an-open-file}
 
@@ -74,6 +74,6 @@ You can initiate a scan from any file's context menu:
 1. Tap ![image](./images/overflowicon.png)
 1. Tap **New Scan**. 
 
-   ![image](../imagesandroid/newscan.png)
+   ![image](./images/newscan.png)
 
 

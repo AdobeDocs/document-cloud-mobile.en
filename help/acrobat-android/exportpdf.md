@@ -15,13 +15,13 @@ To export an open (and unshared) PDF:
 
 1. Tap ![image](./images/overflowicon| > |exporticon.png)
 
-   ![image](../imagesandroid/fileoverflowmenu.png)
+   ![image](./images/fileoverflowmenu.png)
 
 1. Specify an export format (.docx, .rtf, etc.). 
 1. *Optional*: By default, the export language is the same as your installed app. You can change the language by tapping **Language** and changing the default. 
 1. Tap **Export**.
 
-   ![image](../imagesandroid/exportpdf.png)
+   ![image](./images/exportpdf.png)
 
 
 ## Exporting an unopened PDF {#exporting-an-unopened-pdf}
@@ -32,4 +32,4 @@ You can invoke the export workflow from any file list.
 1. Tap ![image](./images/overflowicon.png) next to any unshared file. 
 1. Tap ![image](./images/exporticon.png), and complete the workflow described above. 
 
-   ![image](../imagesandroid/filelistcontextmenu.png)
+   ![image](./images/filelistcontextmenu.png)

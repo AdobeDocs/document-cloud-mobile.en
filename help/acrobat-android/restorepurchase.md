@@ -14,7 +14,7 @@ To fix this issue, backup your data and reinstall the app as follows:
    2. For every file you need to back up, tap ![image](./images/overflowicon.png)
    3. Choose **Save a Copy**, select a location (local, Document Cloud, or a connected 3rd party storage solution), and  complete the workflow.
  
-   ![image](../imagesandroid/saveacopy.png)
+   ![image](./images/saveacopy.png)
  
 2. Uninstall the app via the standard method on your device. 
 3. Reinstall the app from the app store where you originally purchased your subscription.  
