@@ -36,7 +36,7 @@ Unlinking is basically a sign out operation. To unlink:
 
    ![image](../imagesandroid/managecloud.png)
 
-4. Tap ![image](./images/removecircle.png)
+1. Tap ![image](./images/removecircle.png)
 
    ![image](../imagesandroid/managecloud1.png)
 

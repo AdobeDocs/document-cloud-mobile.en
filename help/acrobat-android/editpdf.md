@@ -13,7 +13,7 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can edit PDFs on ph
 
 ![image](../imagesandroid/editmode.png)
 
-### Open edit mode {#open-edit-mode}
+## Open edit mode {#open-edit-mode}
 
 To enter edit mode, tap ![image](./images/editicon.png) **> Edit PDF**. 
 
@@ -24,7 +24,7 @@ In edit mode:
 * To edit text or an image, simply tap it. 
 * To add a text box or an image, tap ![image](./images/addtexticon| or |addimageicon.png) 
 
-### Adding text {#adding-text}
+## Adding text {#adding-text}
 
 To add new text, open edit mode and: 
 
@@ -39,7 +39,7 @@ To add new text, open edit mode and:
 
 Once you've exited the add text mode, you can tap  the text again and select a tool from the menu to change the font style, size, weight, color, and alignment. 
 
-### Change an entire text block {#change-an-entire-text-block}
+## Change an entire text block {#change-an-entire-text-block}
 
 To edit existing text, open edit mode and: 
 
@@ -51,21 +51,21 @@ To edit existing text, open edit mode and:
 
    ![image](../imagesandroid/editblock.png)
 
-### Copy a text block {#copy-a-text-block}
+## Copy a text block {#copy-a-text-block}
 
 Open edit mode and: 
 
 1. Tap a text block. 
 1. Double tap inside the selected text to display the **Copy** menu item.
 
-### Resize a text block {#resize-a-text-block}
+## Resize a text block {#resize-a-text-block}
 
 Open edit mode and: 
 
 1. Tap a text block. 
 1. Drag the text box handles to change the text block's size or location. 
 
-### Editing specific text {#editing-specific-text}
+## Editing specific text {#editing-specific-text}
 
 To edit existing text, open edit mode and: 
 
@@ -77,13 +77,13 @@ To edit existing text, open edit mode and:
 
    ![image](../imagesandroid/selecttext.png)
 
-### Inserting lists {#inserting-lists}
+## Inserting lists {#inserting-lists}
 
 You can insert a new list or convert existing text into either a bulleted or numbered list. To do so, simply select text as described above and tap one of the list icons. 
 
    ![image](../imagesandroid/insertlist.png)
 
-### Editing images {#editing-images}
+## Editing images {#editing-images}
 
 You can delete, resize, rotate and move new and existing images: 
 
@@ -96,11 +96,11 @@ You can delete, resize, rotate and move new and existing images:
     * Delete the image. Tap **Delete**. 
     * Tap ![image](./images/rotateleft| or |rotateright.png) to rotate the image.
 
-4. Tap outside the edit block to save your change. 
+1. Tap outside the edit block to save your change. 
 
    ![image](../imagesandroid/editimage.png)
 
-### Adding images {#adding-images}
+## Adding images {#adding-images}
 
 You can place new image anywhere in a PDF: 
 
@@ -119,10 +119,10 @@ The app automatically adds the image.
     * Grab a blue corner handle and resize the image. 
     * Delete the image. Tap **Delete**. 
 
-2. Tap outside the edit block to save your change. 
+1. Tap outside the edit block to save your change. 
 
 
-### Undo-redo {#undo-redo}
+## Undo-redo {#undo-redo}
 
 You can always undo and redo editing actions. 
 

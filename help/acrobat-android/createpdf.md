@@ -17,7 +17,7 @@ Convert unopened files to PDF as follows:
 
    ![image](../imagesandroid/createmenu.png)
 
-4. Tap any file location, and navigate to a file.
+1. Tap any file location, and navigate to a file.
 1. Select one non-PDF file.
 
 The app automatically converts your file to PDF. Local files save to Document Cloud. Other files save to their original location.
@@ -56,6 +56,7 @@ When in the Home view, simply choose New Scan from the Tools list.
 
 
 ### Scanning from a file list {#scanning-from-a-file-list}
+
 To invoke the scan app: 
 
 1. Log in to Document Cloud.

@@ -1,4 +1,3 @@
-	
 
 # Combining and compressing files {#combining-and-compressing-files}
 
@@ -50,7 +49,7 @@ You can invoke the combine file workflow simply by tapping the plus icon: ![imag
 
    ![image](../imagesandroid/combinefiles1.png)
 
-7. Tap **Next**.
+1. Tap **Next**.
 1. *Optional*: Reorder files by tapping or long pressing ![image](./images/reordericon.png) and dragging it to a new location. You can also remove files from the combine list.
 1. *Optional*: Tap ![image](./images/pencilicon.png) next to the file title and enter a new name. By default, the name is "Combine + (current date)". 
 1. Tap **Combine**. 
