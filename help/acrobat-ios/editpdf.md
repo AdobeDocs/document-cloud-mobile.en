@@ -12,7 +12,7 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can edit PDFs on ph
 
 ![image](../imagesios/editmode.png)
 
-### Open edit mode {#open-edit-mode}
+## Open edit mode {#open-edit-mode}
 
 To enter edit mode, tap ![image](./images/editicon.png) **> Edit PDF**. 
 
@@ -33,7 +33,7 @@ Add new text as follows:
     * Drag it to a different location. 
     * Grab a blue corner handle and resize the text box. 
     * Delete the text. Tap **Delete**. 
-	
+ 
 1. Select any text tool in the top menu. You can change the font style, size, weight, color, and alignment. 
 1. Tap **Done**. 
 
@@ -48,7 +48,7 @@ To edit existing text:
 
     * Tap once and then tap **Select All** to select an entire text block. 
     * Tap once and then double tap inside a text block to show the text selection handles. Drag the handles to select specific text. 
-	
+ 
 1. Select any text tool in the top menu. You can change the font style, size, weight, color, and alignment. 
 1. Tap **Done**. 
 
@@ -74,7 +74,7 @@ You can delete, resize, rotate and move new and existing images:
     * Tap ![image](./images/rotateleft.png) or ![image](./images/rotateright.png) to rotate the image.
 
 1. Tap **Done**. 
-	
+ 
    ![image](../imagesios/editimage.png)
 
 ### Adding images {#adding-images}

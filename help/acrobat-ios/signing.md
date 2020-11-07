@@ -30,7 +30,7 @@ You can create signatures or signing initials from a hand drawing, an image, or 
     * Tap **Draw** to hand draw a signature.
     * Tap **Image**  to choose an image on your device.
     * Tap **Camera** to use your camera to capture an image of your signature.
-	
+ 
 1. Tap **Done**.
 
 Note: Enable **Save to Online Profile** to store the signature on your device and synchronize it across your computer and the web.

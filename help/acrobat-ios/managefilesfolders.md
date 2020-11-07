@@ -1,5 +1,5 @@
 
-	
+ 
 # Managing files and folders {#managing-files-and-folders}
 
 ## Opening files in Acrobat {#opening-files-in-acrobat}

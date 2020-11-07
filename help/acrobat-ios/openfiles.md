@@ -1,4 +1,4 @@
-	
+ 
 
 # Opening Files in Acrobat {#opening-files-in-acrobat}
 
@@ -96,7 +96,7 @@ Integration with Document Cloud is automatic.
 
 1. Tap **Files** to show your file locations. 
 1. Tap **Document Cloud** (tap **Sign In** if not signed in). 
-	
+ 
 ### Dropbox {#dropbox}
 
 If you have a Dropbox account, Acrobat can list and directly open your Dropbox files. You can also save files opened in Acrobat back to Dropbox. 
@@ -147,8 +147,8 @@ The iOS Files App (iOS 11+) allows you to easily find, organize, and manage all 
 
 For additional details beyond what appears below, see https://support.apple.com/en-us/HT206481. 
 
-Open a file in Acrobat
------------------------------------ 
+### Open a file in Acrobat
+
 
 1. Tap the Files App icon. You'll see all of your files, including any files in Adobe Acrobat or Adobe Scan. 
 

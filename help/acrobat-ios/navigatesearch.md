@@ -1,5 +1,5 @@
 
-	
+ 
 # Navigate, find, search {#navigate,-find,-search}
 
 ## Finding files {#finding-files}
@@ -66,7 +66,7 @@ When your PDF document has 5 or more pages:
 1. Tap the scrubber tab. Depending on your view mode, it will appear on the right side or bottom of the of the screen.
 1. Enter a number in the Go To Page dialog. 
 1. Tap **OK**.
-	 
+  
    ![image](../imagesios/gotopage.png)
 
 ### Smart zoom {#smart-zoom}

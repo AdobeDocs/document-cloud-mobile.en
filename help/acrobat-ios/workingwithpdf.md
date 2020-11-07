@@ -1,4 +1,3 @@
-.. ![image](./images/commenticon1.png) image:: ../imagesios/commenticon1.png
 
 # Working with PDF {#working-with-pdf}
 

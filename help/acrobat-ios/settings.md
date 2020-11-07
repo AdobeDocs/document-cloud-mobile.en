@@ -2,7 +2,7 @@
 
 
 # Settings {#settings}
-	
+ 
 ## Device settings {#device-settings}
 
 The app leverages your device's features, and some settings make it easier and faster to work with your documents.  By default, Siri and background app refresh are enabled. Notifications must be manually enabled. To change a setting: 
@@ -86,7 +86,7 @@ For users of iOS 13+, the October, 2019 and later releases support dark mode. Da
    ![image](../imagesios/darkmode.png)
 
 ## Acrobat settings {#acrobat-settings}
-	
+ 
 Acrobat's settings allow you to pre-configure workflow features such as cellular data usage, notifications, automatic form fill-in, and so on. To change your settings: 
 
 1. Open the app and log in.

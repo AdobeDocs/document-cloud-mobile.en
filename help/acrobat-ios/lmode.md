@@ -1,6 +1,3 @@
-
-.. _lmode: 
-
 # Liquid Mode {#liquid-mode}
 
 Liquid Mode is a revolutionary mobile reading experience powered by Adobe Sensei, Adobe's artificial intelligence (AI) and machine learning technology. Liquid Mode enhances your PDF layout and adds features on-the-fly to help you easily read documents on your phone and tablet  It's AI technology evolves and improves the Liquid Mode experience as it learns over time.

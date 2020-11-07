@@ -38,7 +38,7 @@ You can sign in to Document Cloud with an Adobe, Google/Facebook/Apple IDs, or a
 * Tap a 3rd party sign in option: Facebook, Google, or Apple.
 * Tap **Sign In** to use your Adobe ID, then enter your email address and password.
 * Tap **Sign Up** to create a new Adobe ID.
-	
+ 
    ![image](../imagesios/signinmain.png)
 
 ### Signing in with a company or school ID {#signing-in-with-a-company-or-school-id}
