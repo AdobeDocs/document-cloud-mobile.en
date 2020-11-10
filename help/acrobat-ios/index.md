@@ -39,13 +39,13 @@ You can sign in to Document Cloud with an Adobe, Google/Facebook/Apple IDs, or a
 * Tap **Sign In** to use your Adobe ID, then enter your email address and password.
 * Tap **Sign Up** to create a new Adobe ID.
  
-   ![image](../images/signinmain.png)
+   ![image](./images/signinmain.png)
 
 ### Signing in with a company or school ID {#signing-in-with-a-company-or-school-id}
 
 You likely have a single login credential and will only see one set of screens. However, if you are part of an organization and have another ID, you may be prompted to choose between an personal or company ID. If so, select an account and log in with the credential associated with that account. 
 
-   ![image](../images/selectaccount.png)
+   ![image](./images/selectaccount.png)
 
 
 ### Signing out {#signing-out}
@@ -82,7 +82,7 @@ You can manage your subscriptions from any device:
 
 You can manage your subscriptions from any device in the App Store, or you can use iTunes on your computer. For details, see https://support.apple.com/en-us/HT202039.
 
-   ![image](../images/managesubs.png)
+   ![image](./images/managesubs.png)
 
 ### Canceling a subscription {#canceling-a-subscription}
 

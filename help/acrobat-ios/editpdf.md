@@ -10,7 +10,7 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can edit PDFs on ph
 * Delete, move, rotate, and resize images
 * Undo and redo actions
 
-![image](../images/editmode.png)
+![image](./images/editmode.png)
 
 ## Open edit mode {#open-edit-mode}
 
@@ -19,7 +19,7 @@ To enter edit mode, tap ![image](./images/editicon.png) **> Edit PDF**.
 * To edit text or an image, simply tap it. 
 * Tap ![image](./images/addtexticon.png) or ![image](./images/addimageicon.png) to add a text box or image. 
 
-![image](../images/editbuttonmenu.png)
+![image](./images/editbuttonmenu.png)
 
 ### Adding text {#adding-text}
 
@@ -37,7 +37,7 @@ Add new text as follows:
 1. Select any text tool in the top menu. You can change the font style, size, weight, color, and alignment. 
 1. Tap **Done**. 
 
-   ![image](../images/addtext.png)
+   ![image](./images/addtext.png)
 
 ### Editing existing text {#editing-existing-text}
 
@@ -52,13 +52,13 @@ To edit existing text:
 1. Select any text tool in the top menu. You can change the font style, size, weight, color, and alignment. 
 1. Tap **Done**. 
 
-   ![image](../images/selecttext.png)
+   ![image](./images/selecttext.png)
 
 ### Inserting lists {#inserting-lists}
 
 You can insert a new list or convert existing text into either a bulleted or numbered list. To do so, simply select text as described above and tap one of the list icons. 
 
-   ![image](../images/insertlist.png)
+   ![image](./images/insertlist.png)
 
 ### Editing images {#editing-images}
 
@@ -75,7 +75,7 @@ You can delete, resize, rotate and move new and existing images:
 
 1. Tap **Done**. 
  
-   ![image](../images/editimage.png)
+   ![image](./images/editimage.png)
 
 ### Adding images {#adding-images}
 
@@ -93,7 +93,7 @@ You can place a new image anywhere in a PDF:
 
 1. Tap **Done**. 
 
-   ![image](../images/addimage.png)
+   ![image](./images/addimage.png)
 
 
 ### Undo-redo {#undo-redo}
@@ -103,6 +103,6 @@ You can always undo and redo actions. Available methods vary by context:
 * In edit mode, tap ![image](./images/undoicon.png) or ![image](./images/redoicon.png) in the upper right. 
 * When the keyboard is open, ![image](./images/undoicon.png) or ![image](./images/redoicon.png). 
 
-   ![image](../images/undoredoedit.png)
+   ![image](./images/undoredoedit.png)
 
 

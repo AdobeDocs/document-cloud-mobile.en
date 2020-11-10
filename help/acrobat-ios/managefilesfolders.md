@@ -16,7 +16,7 @@ Becasue Acrobat integrates with any Adobe DC app, other cloud storage solutions,
 
 ### Rename files {#rename-files}
 
-From any file list, including Home, Files, and a list of search results: 
+Rename files from any file list, including Home, Files, and any file in a search result: 
 
 1. Tap ![image](./images/overflowicon.png)
 1. Tap ![image](./images/renameicon.png) 
@@ -58,7 +58,7 @@ The Home view shows your most recently viewed files in chronological order. To r
 1. Tap ![image](./images/clearsigicon.png) 
 1. Tap **Remove** to confirm the action.
 
-   ![image](../images/removefromrecent.png)
+   ![image](./images/removefromrecent.png)
 
 ### Saving files to the cloud {#saving-files-to-the-cloud}
 
@@ -77,7 +77,7 @@ Acrobat supports folder management for local files, Document Cloud, and Dropbox.
 
 From the **Files > Document Cloud** view, tap ![image](./images/overflowicon.png) to the right of any folder to rename or delete it. 
 
-   ![image](../images/foldermenu.png)
+   ![image](./images/foldermenu.png)
 
 ### Rename folders {#rename-folders}
 

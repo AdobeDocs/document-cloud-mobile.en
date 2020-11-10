@@ -11,7 +11,7 @@ The app leverages your device's features, and some settings make it easier and f
 1. Tap Acrobat. 
 1. Select a setting to modify. 
 
-![image](../images/iossettings.png)
+![image](./images/iossettings.png)
 
 ### Enabling cellular data usage {#enabling-cellular-data-usage}
 
@@ -47,7 +47,7 @@ You device controls notifications:
 
 Alternatively, navigate to device settings within Acrobat by tapping ![image](./images/profileicon.png) > **Preferences** > **Open Settings App**.
 
-   ![image](../images/settingsnotifications.png)
+   ![image](./images/settingsnotifications.png)
 
 ### Reading in low light {#reading-in-low-light}
 
@@ -57,7 +57,7 @@ You can use your device's night shift feature to improve readability in low ligh
 1. Tap **Display and Brightness**. 
 1. Configure the brightness level and Night Shift settings. 
 
-   ![image](../images/nightshift.png)
+   ![image](./images/nightshift.png)
 
 ### Inverting colors {#inverting-colors}
 
@@ -73,7 +73,7 @@ On iOS 11 and higher, your device settings include an option to invert colors.
     * **Smart Invert**: This option inverts most colors but leaves images, media, and some apps in their original state.
     * **Classic Invert**: This option inverts everything.
 
-   ![image](../images/invertcolor.png)
+   ![image](./images/invertcolor.png)
 
 ### Dark mode {#dark-mode}
 
@@ -83,7 +83,7 @@ For users of iOS 13+, the October, 2019 and later releases support dark mode. Da
 1. Tap **Display and Brightness**. 
 1. Choose light or dark mode.
  
-   ![image](../images/darkmode.png)
+   ![image](./images/darkmode.png)
 
 ## Acrobat settings {#acrobat-settings}
  
@@ -93,7 +93,7 @@ Acrobat's settings allow you to pre-configure workflow features such as cellular
 1. Tap ![image](./images/profileicon.png)
 1. Navigate to the applicable screen as described below.
 
-   ![image](../images/mainmenu.png)
+   ![image](./images/mainmenu.png)
 
 ### Setting up your profile {#setting-up-your-profile}
 
@@ -103,7 +103,7 @@ By default, the app uses your in-app profile to automatically populate form fiel
 1. Fill in any field.
 1. Tap **Done** (iPad) or **Settings > Done** (iPhone)
 
-   ![image](../images/profile.png)
+   ![image](./images/profile.png)
 
 ### Automatic form fill-in {#automatic-form-fill-in}
 
@@ -119,7 +119,7 @@ To disable this feature:
 1. Disable **Suggest previously used words when filling forms**.
 1. Tap **Done** (iPad) or **Settings > Done** (iPhone)
 
-   ![image](../images/suggest.png)
+   ![image](./images/suggest.png)
 
 
 ### Clearing form data history {#clearing-form-data-history}
@@ -140,11 +140,11 @@ Starring a file is similar to creating a "favorite". Star files you need to trac
 
 1. Tap **OK**.
 
-   ![image](../images/stardialog.png)
+   ![image](./images/stardialog.png)
 
 If you choose **Ask every time**, every time you star a file you'll be prompted decide whether to sync and star the file on Document Cloud or only on your device. If you tap **Remember this setting**, you device setting changes for all starred files. 
 
-   ![image](../images/staraskdialog.png)
+   ![image](./images/staraskdialog.png)
 
 ### Share a flattened copy {#share-a-flattened-copy}
 
@@ -160,7 +160,7 @@ To disable annotation interactivity (lock all comments and markup and thereby pr
 1. Enable **Share a Flattened Copy**.
 1. Tap **Done** (iPad) or **Settings > Done** (iPhone)
 
-   ![image](../images/flattenedcopy.png)
+   ![image](./images/flattenedcopy.png)
 
 Note that Acrobat cannot flatten encrypted PDF documents.
 
@@ -174,7 +174,7 @@ To do so:
 1. Tap the Author Name field and enter your name. 
 1. Tap **Done** (iPad) or **Settings > Done** (iPhone)
 
-   ![image](../images/authorname.png)
+   ![image](./images/authorname.png)
 
 ### Enrolling in Intune {#enrolling-in-intune}
 
@@ -184,7 +184,7 @@ With the July, 2019 release, Acrobat supports enrolling with Microsoft Intune di
 1. Go to **Microsoft Intune > Enroll**, and toggle the feature on. 
 1. When the Microsoft sign in screen appears, complete the enrollment process. 
 
-   ![image](../images/intune.png)
+   ![image](./images/intune.png)
 
 ### Viewing your subscriptions {#viewing-your-subscriptions}
 
@@ -197,7 +197,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 
 By default, you should see your name as well as a list of current subscriptions.  
 
-   ![image](../images/subscriptions.png)
+   ![image](./images/subscriptions.png)
 
 ### Sending usage data to Adobe {#sending-usage-data-to-adobe}
 
@@ -207,7 +207,7 @@ By default, the app sends usage data to Adobe as part of the Product improvement
 1. Disable **Send Usage Info**.
 1. Tap **Back**.
 
-   ![image](../images/usage.png)
+   ![image](./images/usage.png)
 
 
 ### App info and rating {#app-info-and-rating}

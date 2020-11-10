@@ -13,14 +13,14 @@ To export an open PDF:
 1. Tap ![image](./images/overflowicon.png)
 1. Tap ![image](./images/exporticon.png)
 
-   ![image](../images/fileoverflowmenu.png)
+   ![image](./images/fileoverflowmenu.png)
 
 
 1. Specify an export format, such as .docx, .rtf, etc. 
 1. *Optional*: By default, the export language is the same as your installed app. You can change the language by tapping **Language** and selecting a different language.
 1. Tap **Export**.
 
-   ![image](../images/exportpdf.png)
+   ![image](./images/exportpdf.png)
 
 
 ## Exporting an unopened PDF {#exporting-an-unopened-pdf}
@@ -31,4 +31,4 @@ You can invoke the export workflow from any file list.
 1. Tap ![image](./images/overflowicon.png) next to any file. 
 1. Tap ![image](./images/exporticon.png), and complete the workflow described above. 
 
-   ![image](../images/filelistcontextmenu.png)
+   ![image](./images/filelistcontextmenu.png)

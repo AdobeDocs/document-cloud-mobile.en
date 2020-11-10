@@ -38,7 +38,7 @@ If a feature you're trying to use is not available or asks you to subscribe, che
 
 By default, you should see your name as well as a list of current subscriptions.  
 
-   ![image](../images/subscriptions.png)
+   ![image](./images/subscriptions.png)
 
 ## Menus {#menus}
 

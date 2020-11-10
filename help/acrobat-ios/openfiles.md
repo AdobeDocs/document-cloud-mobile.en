@@ -42,7 +42,7 @@ Acrobat may not appear in the app share list by default. To add Acrobat as a def
 
 You should now see Acrobat as a share choice whenever you tap the Share icon from any app. 
 
-   ![image](../images/addtoshare.png)
+   ![image](./images/addtoshare.png)
 
 ## Browsers: Safari, Chrome, etc. {#browsers:-safari,-chrome,-etc.}
 
@@ -52,7 +52,7 @@ While different browsers may have different workflows, the most popular browsers
 1. Swipe left to show Acrobat.
 1. Tap **Copy to Acrobat**.
 
-   ![image](../images/copytoacrobat.png)
+   ![image](./images/copytoacrobat.png)
 
 ## Email {#email}
 
@@ -73,7 +73,7 @@ Email-to-Acrobat workflows vary across email apps; however, the two examples bel
 1. Tap the ![image](./images/shareicon.png).
 1. Tap **Copy to Acrobat**.
 
-   ![image](../images/copytoacrobat.png)
+   ![image](./images/copytoacrobat.png)
 
 ## Adobe Scan {#adobe-scan}
 
@@ -82,13 +82,13 @@ If you have Adobe Scan installed, you can open any scanned file directly in Acro
 1. From the Recent file list, tap ![image](./images/acrobaticon.png) on any file. 
 1. From All Scans, tap ![image](./images/overflowicon.png) on any file and then tap ![image](./images/acrobaticon.png)
 
-   ![image](../images/acrobat.png)
+   ![image](./images/acrobat.png)
 
 ## Cloud storage {#cloud-storage}
 
 By default, Acrobat Reader integrates Adobe Document Cloud. However, the app also supports opening files from any location available on your device.
 
-   ![image](../images/locations.png)
+   ![image](./images/locations.png)
 
 ### Document Cloud {#document-cloud}
 
@@ -107,13 +107,13 @@ If you have a Dropbox account, Acrobat can list and directly open your Dropbox f
 1. Tap **Dropbox** (tap **Sign In** if not signed in). 
 1. On first usage, Acrobat will prompt you to allow Dropbox access. Tap **Allow**. 
 
-   ![image](../images/dropboxallow.png)
+   ![image](./images/dropboxallow.png)
 
 **Open files from Acrobat**
 
 Once signed in, simply tap **Files > Dropbox** to see all of your files. Any files you edit or comment on are automatically saved back to Dropbox.
 
-   ![image](../images/dropboxfiles.png)
+   ![image](./images/dropboxfiles.png)
 
 **Open files from Dropbox**
 
@@ -138,7 +138,7 @@ When the file browser opens, you can do any of the following:
 * *View a list of locations*: Tap **Locations**. You may have the option to connect iCloud Drive from this screen. 
 * *Edit your locations list*:  Tap **Locations > Edit** to change your location's list, or select a location and complete the connection workflow if required.  
 
-   ![image](../images/morelocations.png)
+   ![image](./images/morelocations.png)
 
 
 ## Files app integration {#files-app-integration}
@@ -152,12 +152,12 @@ For additional details beyond what appears below, see https://support.apple.com/
 
 1. Tap the Files App icon. You'll see all of your files, including any files in Adobe Acrobat or Adobe Scan. 
 
-   ![image](../images/filesappicon.png)
+   ![image](./images/filesappicon.png)
 
 1. Browse to or search for a file. Open it. 
 1. Tap ![image](./images/shareicon.png) > **Open in Acrobat**. 
 
-   ![image](../images/filesappopen.png)
+   ![image](./images/filesappopen.png)
 
 ### Add Acrobat to the File App list {#add-acrobat-to-the-file-app-list}
 
@@ -169,13 +169,13 @@ If Acrobat is not already in the File App's list of available locations:
 1. Enable and disable locations as needed. You can also long press ![image](./images/hamburgericon.png) and drag items to a new position. 
 1. Tap **Done**.
 
-   ![image](../images/filesapplocations.png)
+   ![image](./images/filesapplocations.png)
 
 ## Airdrop {#airdrop}
 
 AirDrop enables you to wirelessly share files from one Apple device to another (iPhone to iPad to Mac).
 
-   ![image](../images/airdropshare.png)
+   ![image](./images/airdropshare.png)
 
 
 .. Note:: AirDrop requires that you set up the target and receiving devices as described in [Apple's instructions](https://support.apple.com/en-us/HT204144). Devices should be on, unlocked, AirDrop-enabled, wireless and Bluetooth should be on, and so on. By default, the receiving device limits shares to people in the contacts list. 
@@ -185,7 +185,7 @@ AirDrop enables you to wirelessly share files from one Apple device to another (
 1. Choose the receiving device. If you don't see the required device, it's likely not set up correctly. 
 1. When the dialog appears on the target device saying "AirDrop Open with...", choose **Acrobat**.
 
-   ![image](../images/airdrop.png)
+   ![image](./images/airdrop.png)
 
 
 ## iBooks {#ibooks}

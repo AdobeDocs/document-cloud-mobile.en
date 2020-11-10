@@ -9,6 +9,7 @@ solution: Acrobat DC
 + [Settings](settings.md)
 + [Navigate and Search](navigatesearch.md)
 + [Managing Files and Folders](managefilesfolders.md)
++ [Work files vs Personal Files](enterprise.md)
 + [Working with PDF](workingwithpdf.md)
 + [Managing Subscriptions](managingsubscriptions.md)
 + [Sharing and Reviewing Files](review.md)

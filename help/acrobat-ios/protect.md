@@ -17,13 +17,13 @@ To password protect a file from within an open PDF or from any file list:
 1. Tap ![image](./images/overflowicon.png)
 1. Tap ![image](./images/protecticon.png)
 
-   ![image](../images/protect.png)
+   ![image](./images/protect.png)
 
 1. Enter a password and confirm it.  *Use only supported characters*.
 1. Tap **Set Password**. 
 
 
-   ![image](../images/setpassword.png)
+   ![image](./images/setpassword.png)
 
 
 ## Supported characters {#supported-characters}
@@ -44,4 +44,4 @@ To open a password protected file, you must know the password.
 1. Enter the password. 
 1. Tap **OK**.
 
-   ![image](../images/enterpassword.png)
+   ![image](./images/enterpassword.png)

@@ -14,7 +14,7 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can combine any num
 1. Select any number of files. 
 1. Tap **Next**. 
 
-   ![image](../images/combinefiles.png)
+   ![image](./images/combinefiles.png)
 
 1. *Optional*: 
 
@@ -25,7 +25,7 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can combine any num
 
 The file is automatically sent to Adobe's Convert service and uploaded to Document Cloud. By default, the name is "Combine + (current date)". To rename the file, tap ![image](./images/overflowicon.png) > **Rename**. 
 
-   ![image](../images/combinename.png)
+   ![image](./images/combinename.png)
 
 
 ## Combining from an open file {#combining-from-an-open-file}
@@ -35,6 +35,6 @@ You can invoke the combine workflow from any file list.
 1. In any open file, tap ![image](./images/overflowicon.png) 
 1. Tap ![image](./images/combineicon.png), and complete the workflow described above. 
 
-   ![image](../images/fileoverflowmenu.png)
+   ![image](./images/fileoverflowmenu.png)
 
 
