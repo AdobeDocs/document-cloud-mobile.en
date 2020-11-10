@@ -5,7 +5,7 @@ When you open a PDF, what menus appear will vary based on the file. Regular file
 
 Both the overflow icon (![image](./images/overflowicon.png)) and floating action button ![image](./images/editicon.png) open a context menu displaying additional options based on your service subscriptions. For example, both Organize Pages and Edit PDF require a subscription. 
 
-![image](../imagesios/regularmenu.png)
+![image](../images/regularmenu.png)
 
 ## Menus and viewing contexts {#menus-and-viewing-contexts}
 
@@ -15,7 +15,7 @@ Menu options vary based on the viewing context. The top menu bar, context menu o
 * Shared files (view only): An overflow menu provide access to tools for printing and managing the shared file. 
 * Review files: Files in an ongoing review display the comment bar, the comment filter, and an overflow menu that provide access to tools for managing the review. The floating action button is not available. For details, see [review](review.html).
 
-![image](../imagesios/editbuttonmenu.png)
+![image](../images/editbuttonmenu.png)
 
 ## Commenting {#commenting}
 
@@ -30,7 +30,7 @@ Acrobat's rich commenting features support sticky notes, highlight, crossout, un
 1. Tap ![image](./images/commenticon1.png)
 1. Tap a tool in the comment tool bar.
 
-![image](../imagesios/commenttools.png)
+![image](../images/commenttools.png)
 
 1. Place your markup in the document.
 
@@ -39,7 +39,7 @@ Acrobat's rich commenting features support sticky notes, highlight, crossout, un
 
 You can also delete, edit, and reply to comments. 
 
-![image](../imagesios/comment1.png)
+![image](../images/comment1.png)
 
 ## Sharing a PDF {#sharing-a-pdf}
 
@@ -55,7 +55,7 @@ Sharing files is as simple as tapping ![image](./images/shareicon.png) and compl
 
 Your file is automatically uploaded to Document Cloud so that it's available on  any device.
 
-   ![image](../imagesios/share.png)
+   ![image](../images/share.png)
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ To star a file:
 1. Open any context menu.
 1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your :ref:`starsetting` settings. 
 
-   ![image](../imagesios/starredfiles.png)
+   ![image](../images/starredfiles.png)
 
 To unstar a file, open any context menu (usually by tapping ![image](./images/overflowicon.png)) and tap ![image](./images/unstaricon.png)
 
@@ -112,7 +112,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Tap ![image](./images/editicon.png) and then tap ![image](./images/organizeicon.png)
 1. Tap pages and choose a tool.
 
-   ![image](../imagesios/editbuttonmenu.png)
+   ![image](../images/editbuttonmenu.png)
 
    >[!NOTE]
    >
@@ -125,7 +125,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 1. Tap one or more pages. 
 1. Tap ![image](./images/rotateleft.png) or ![image](./images/rotateright.png)
 
-   ![image](../imagesios/organize.png)
+   ![image](../images/organize.png)
 
 ### Reorder pages {#reorder-pages}
 
@@ -149,7 +149,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 * Tap ![image](./images/overflowicon.png) **> Report Abuse** to submit a report to Adobe. 
 * Tap ![image](./images/overflowicon.png) **> Remove** to permanently remove the card.
 
-   ![image](../imagesios/todocard.png)
+   ![image](../images/todocard.png)
 
 ## Printing {#printing}
 
@@ -169,7 +169,7 @@ Printing uses your device's printing capabilities. You can set up a printer ahea
    >
    > Note that the printer must be AirDrop enabled. For more detail, see https://support.apple.com/en-us/HT201387.
 
-   ![image](../imagesios/printoptions.png)
+   ![image](../images/printoptions.png)
 
 ## View settings {#view-settings}
 
@@ -188,7 +188,7 @@ Enhance your PDF viewing experience with custom view mode settings. To set the v
    >
    > You can also keep the PDF screen from dimming by enabling your device's screen brightness lock.
 
-   ![image](../imagesios/scrollmodes.png)
+   ![image](../images/scrollmodes.png)
 
 ### Using Liquid Mode {#using-liquid-mode}
 

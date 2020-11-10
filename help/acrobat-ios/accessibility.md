@@ -17,7 +17,7 @@ Acrobat's Night Mode inverts black and white in low light conditions and increas
 1. Tap the view mode icon (varies depending on the current mode).
 1. Enable Night Mode.
 
-   ![image](../imagesios/scrollmodes.png)
+   ![image](../images/scrollmodes.png)
 
    >[!NOTE]
    >
@@ -31,11 +31,11 @@ You can use your device's night shift feature to improve readability in low ligh
 1. Tap **Display and Brightness**. 
 1. Tap **Night Shift**. 
 
-   ![image](../imagesios/nightshift.png)
+   ![image](../images/nightshift.png)
 
 1. Configure the settings. Depending on your OS version, you can schedule night shift mode, manually enable the feature, and control the overall hue.
 
-   ![image](../imagesios/nightshift1.png)
+   ![image](../images/nightshift1.png)
 
 ### Display brightness {#display-brightness}
 
@@ -45,7 +45,7 @@ Set your display's brightness to enhance readability as needed.
 1. Tap **Display and Brightness**. 
 1. Set the brightness level. 
 
-   ![image](../imagesios/brightness.png)
+   ![image](../images/brightness.png)
 
 ### Inverting colors {#inverting-colors}
 
@@ -60,7 +60,7 @@ On iOS 11 and later (see iOS 13 below), your device settings include an option t
     * **Smart Invert** inverts most colors but leaves images, media, and some apps in their original state.
     * **Classic Invert** inverts everything.
 
-   ![image](../imagesios/invertcolor.png)
+   ![image](../images/invertcolor.png)
 
 On iOS 13 and later: 
 
@@ -84,7 +84,7 @@ For users of iOS 13+, the October, 2019 Acrobat release supports dark mode. Dark
 1. Tap **Display and Brightness**. 
 1. Choose light or dark mode.
  
-   ![image](../imagesios/darkmode.png)
+   ![image](../images/darkmode.png)
 
 ### Dynamic type {#dynamic-type}
 
@@ -94,7 +94,7 @@ The iOS Dynamic Type feature allows you to specify a preferred text size. Acroba
 1. Tap **Display and Brightness > Text Size**.
 1. Adjust the slider to your preferred setting.  
 
-   ![image](../imagesios/textsize.png)
+   ![image](../images/textsize.png)
 
 
 ## Audio features {#audio-features}
@@ -107,7 +107,7 @@ The app supports VoiceOver, the iOS built-in screen reader. VoiceOver allows som
 1. Tap **Accessibility**. 
 1. Tap **VoiceOver**, and enable the feature.  
 
-   ![image](../imagesios/voiceover.png)
+   ![image](../images/voiceover.png)
 
 ## Gesture features {#gesture-features}
 

@@ -6,7 +6,7 @@
 
 Acrobat Reader provides a number of ways to help you find files, file content, and folders. When no file is open, the bottom menu displays locations for the following:
 
-![image](../imagesios/bottommenu.png)
+![image](../images/bottommenu.png)
 
 * **Home**: When you start Acrobat, the Home screen shows you all of your files regardless of location. Recently viewed files appear at the top of the list. 
 * **Files**: The Files list allows you to select local or cloud location.
@@ -27,7 +27,7 @@ Search for a file by title as follows:
 
  When the search result appears, you further refine the result by tapping on a file location.
 
-   ![image](../imagesios/searchresult.png)
+   ![image](../images/searchresult.png)
 
 ## Navigating and finding content {#navigating-and-finding-content}
 
@@ -39,7 +39,7 @@ Search for a file by title as follows:
 1. Tap Search. The first result is highlighted.
 1. Tap the right or left arrow to show the next or previous occurrence.
 
-   ![image](../imagesios/searchresultfile.png)
+   ![image](../images/searchresultfile.png)
 
 ### Showing menus {#showing-menus}
 
@@ -56,7 +56,7 @@ When your PDF document has five or more pages:
 1. A scrubber tab appears (navigation slider). Depending on your view mode, it will appear on the right side or bottom of the of the screen.
 1. Long press the tab and slide to another page. 
 
-   ![image](../imagesios/scrub.png)
+   ![image](../images/scrub.png)
 
 
 ### Go to page {#go-to-page}
@@ -67,14 +67,14 @@ When your PDF document has 5 or more pages:
 1. Enter a number in the Go To Page dialog. 
 1. Tap **OK**.
   
-   ![image](../imagesios/gotopage.png)
+   ![image](../images/gotopage.png)
 
 ### Smart zoom {#smart-zoom}
 
 
 Double-tap anywhere in your document to zoom into the exact content you want to see. Acrobat Reader analyzes the document and fits the view to the column of text under your tap. Double tap again to zoom out.
 
-   ![image](../imagesios/zoom.png)
+   ![image](../images/zoom.png)
 
 ### Viewing the navigation menu {#viewing-the-navigation-menu}
 
@@ -84,7 +84,7 @@ In a PDF, tap ![image](./images/overflowicon.png) to show the action menu with l
 * Bookmarks
 * Attachments
 
-   ![image](../imagesios/attachments.png)
+   ![image](../images/attachments.png)
 
 ### Viewing comments {#viewing-comments}
 

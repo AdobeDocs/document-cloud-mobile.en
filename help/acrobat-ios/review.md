@@ -14,7 +14,7 @@ Acrobat Reader's supports sharing, tracking, and managing file shares whether re
 
 You can easily determine a file's share status since the app's file lists indicate whether a file is simply **Shared** (view-only) or in **Review**. For example, when you search for a file, the search result displays the share tag as either **SHARED** or **REVIEW**. You can also use the Share view's share tabs to determine what files are view-only or in review. 
 
-![image](../imagesios/vieworreview.png)
+![image](../images/vieworreview.png)
 
 ## Share and Review tabs {#share-and-review-tabs}
 
@@ -27,7 +27,7 @@ When no document is open, you can view all your shared files from the Shared vie
    >
    > Both tabs list files grouped by **Shared with you** and **Shared by you**.
 
-   ![image](../imagesios/viewreviewtabs.png)
+   ![image](../images/viewreviewtabs.png)
 
 ## Initiating a share or review {#initiating-a-share-or-review}
 
@@ -43,7 +43,7 @@ Sharing a file is easy, and you can track and manage the share from your mobile 
 
 The file automatically uploads to Document Cloud. Document recipients can access the file from the web as well as their desktop or phone. Alternatively, you can share a link to the file or a copy of the file. 
 
-   ![image](../imagesios/startreview.png)
+   ![image](../images/startreview.png)
 
 ## Sharing files or links {#sharing-files-or-links}
 
@@ -58,7 +58,7 @@ To do so, use the Share method described above, and tap  **Create Link** or **Sh
    >
    > If you don't enter any email addresses prior to choosing **Create Link** or **Share a Copy**, the app invokes your app list. You can then email the file, save a copy to Google Drive, or share the file with any supported app you've installed. 
 
-   ![image](../imagesios/sharelinkcopy.png)
+   ![image](../images/sharelinkcopy.png)
 
 ## Reviewing files {#reviewing-files}
 
@@ -74,7 +74,7 @@ The review feature allows you to add comments and annotations, edit comments, re
    >
    > Using the ![image](./images/aticon.png) tag sends a push notification to the named reviewer. The app also sends notifications whenever a comment or annotation is added or changed.
 
-   ![image](../imagesios/reviewmode.png)
+   ![image](../images/reviewmode.png)
 
 ### Working with comments {#working-with-comments}
 
@@ -89,7 +89,7 @@ When you tap on a comment, the app shows the edit tools. From here you can:
 * Reply.  
 
 
-   ![image](../imagesios/commentpanel.png)
+   ![image](../images/commentpanel.png)
 
 ### Replying to a comment {#replying-to-a-comment}
 
@@ -98,7 +98,7 @@ You can respond to a comment in two ways:
 * From the comments list, tap the comment, enter text, and tap **Reply**.
 * From a document, tap a sticky note, tap ![image](./images/replyicon.png), enter text, and tap **Reply**.
 
-   ![image](../imagesios/replytocomment.png)
+   ![image](../images/replytocomment.png)
 
 ### Mentioning a specific reviewer {#mentioning-a-specific-reviewer}
 
@@ -111,7 +111,7 @@ To use the tag:
 1. Tap of one of the reviewer names.
 1. Finish your comment and tap **Reply** or **Post**. 
 
-   ![image](../imagesios/mention.png)
+   ![image](../images/mention.png)
 
 ### Edit and delete comments {#edit-and-delete-comments}
 
@@ -143,13 +143,13 @@ The app provides a number of ways to filter comments so that you can easily find
 1. Tap any filters. 
 1. Tap **Apply**.
 
-   ![image](../imagesios/filters.png)
+   ![image](../images/filters.png)
 
 ### Clearing filters {#clearing-filters}
 
 One you've applied a comment filter, a filter bar appears on the top of the document which displays the number of selected filters and a **Clear** button. Tap **Clear** to remove all filters.
 
-   ![image](../imagesios/filterbar.png)
+   ![image](../images/filterbar.png)
 
 
 ### Navigating through comments {#navigating-through-comments}
@@ -159,7 +159,7 @@ When documents contain a large number of comments, use the navigation tools:
 * From the comments list, scroll up and down the comments.
 * From a specific comment, scroll left and right through the comments.
 
-   ![image](../imagesios/navigatecomments.png)
+   ![image](../images/navigatecomments.png)
 
 ### Viewing notifications {#viewing-notifications}
 
@@ -171,7 +171,7 @@ There are two types of notifications: Requests and simple messages. Requests are
    >
    > Notifications  include deadlines, reminders, real-time messages from the sender, and other messages.  Depending on what you've permitted, notifications may also appear on your device's home screen. 
  
-   ![image](../imagesios/notifications.png)
+   ![image](../images/notifications.png)
 
 ## Managing reviews {#managing-reviews}
 
@@ -189,7 +189,7 @@ Features include:
 
 To manage a review when a document is open, simply tap ![image](./images/overflowicon.png). 
 
-   ![image](../imagesios/managereview.png)
+   ![image](../images/managereview.png)
 
    >[!NOTE]
    >
@@ -204,7 +204,7 @@ When a review file is open, the top bar displays and overview of the review's cu
 * Document title
 * The number of comments available based on the currently selected comment filter
  
-   ![image](../imagesios/reviewstatus.png)
+   ![image](../images/reviewstatus.png)
 
 ### Setting review deadlines {#setting-review-deadlines}
 
@@ -218,7 +218,7 @@ You can specify a deadline when setting up a review so that the review automatic
    >
    > Notifications are sent out when a share ends. 
 
-   ![image](../imagesios/deadline.png)
+   ![image](../images/deadline.png)
 
 ### Adding reviewers {#adding-reviewers}
 
@@ -240,7 +240,7 @@ From any file list (Home, Shared, or search result):
 1. Tap ![image](./images/overflowicon.png)
 1. Tap **Recipients**. 
 
-   ![image](../imagesios/recipients.png)
+   ![image](../images/recipients.png)
 
 
 ### Viewing the review message {#viewing-the-review-message}
@@ -250,7 +250,7 @@ If you need to review the initial message you sent when you share the file, from
 1. Tap ![image](./images/overflowicon.png)
 1. Tap **Message**. 
 
-   ![image](../imagesios/reviewcontextmenu.png)
+   ![image](../images/reviewcontextmenu.png)
 
 ### Get a new file link {#get-a-new-file-link}
 

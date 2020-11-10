@@ -16,7 +16,7 @@ The following free features are available:
 
 You can also install the free Adobe Sign app. Adobe Sign is a mobile companion to the other DC products and Adobe's enterprise-class e-sign services. It’s the ideal tool for initiating and managing signature workflows as well as collecting e-signatures in person from a client or customer. Adobe Sign is part of Adobe's signing ecosystem that allows you to sign, send, track, and manage signature workflows from the desktop, mobile devices, and the web.
 
-![image](../imagesios/signworkflow.png)
+![image](../images/signworkflow.png)
 
 ## Create a signature {#create-a-signature}
 
@@ -35,7 +35,7 @@ You can create signatures or signing initials from a hand drawing, an image, or 
 
 Note: Enable **Save to Online Profile** to store the signature on your device and synchronize it across your computer and the web.
 
-   ![image](../imagesios/createsignature.png)
+   ![image](../images/createsignature.png)
 
 ## Sign a document {#sign-a-document}
 
@@ -52,7 +52,7 @@ Acrobat saves your signature and stores it in the cloud so you can use it on the
 
 When you create a signature, simply choose **Save to Online Profile** to store you signature in the cloud.
 
-   ![image](../imagesios/savetoonlineprofile.png)
+   ![image](../images/savetoonlineprofile.png)
 
 ## Resize or move a signature {#resize-or-move-a-signature}
 
@@ -62,13 +62,13 @@ Before the document is closed, you can resize or move your signature. After the 
 1. Drag it to a new location or drag the resize arrows to change the size. 
 1. Tap outside the signature to exit signing mode. 
 
-   ![image](../imagesios/resizesig.png)
+   ![image](../images/resizesig.png)
 
 ## Remove a document signature {#remove-a-document-signature}
 
 Signatures cannot be changed or removed after a document is saved. If you've signed a document and are still viewing it, delete the signature by tapping it and choosing ![image](./images/deleteicon.png)
 
-   ![image](../imagesios/removesig.png)
+   ![image](../images/removesig.png)
 
 ## Clear a saved signature {#clear-a-saved-signature}
 
@@ -77,7 +77,7 @@ Signatures cannot be changed or removed after a document is saved. If you've sig
 1. Tap ![image](./images/signicon.png)
 1. Tap ![image](./images/clearsigicon.png)
 
-   ![image](../imagesios/deletesig.png)
+   ![image](../images/deletesig.png)
 
 ## Undo or redo the last action {#undo-or-redo-the-last-action}
 

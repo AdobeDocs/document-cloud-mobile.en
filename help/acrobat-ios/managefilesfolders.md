@@ -58,7 +58,7 @@ The Home view shows your most recently viewed files in chronological order. To r
 1. Tap ![image](./images/clearsigicon.png) 
 1. Tap **Remove** to confirm the action.
 
-   ![image](../imagesios/removefromrecent.png)
+   ![image](../images/removefromrecent.png)
 
 ### Saving files to the cloud {#saving-files-to-the-cloud}
 
@@ -77,7 +77,7 @@ Acrobat supports folder management for local files, Document Cloud, and Dropbox.
 
 From the **Files > Document Cloud** view, tap ![image](./images/overflowicon.png) to the right of any folder to rename or delete it. 
 
-   ![image](../imagesios/foldermenu.png)
+   ![image](../images/foldermenu.png)
 
 ### Rename folders {#rename-folders}
 

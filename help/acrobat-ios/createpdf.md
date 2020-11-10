@@ -11,14 +11,14 @@ Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can convert many do
 1. Go to any file list (Home, Files, Shared).
 1. Tap ![image](./images/plusicon.png) and then tap ![image](./images/createicon.png)
 
-   ![image](../imagesios/createmenu.png)
+   ![image](../images/createmenu.png)
 
 1. Tap any file location, and navigate to a file.
 1. Select one non-PDF file.
 
 The app automatically converts the file to PDF and saves it to Document Cloud.
 
-   ![image](../imagesios/converted.png)
+   ![image](../images/converted.png)
 
 ## Converting opened files {#converting-opened-files}
 
@@ -30,7 +30,7 @@ Convert non-PDF files to PDF as follows:
 
 Your file is automatically converted to PDF and stored in Document Cloud.
 
-   ![image](../imagesios/createmenuoverflow.png)
+   ![image](../images/createmenuoverflow.png)
 
 ## Scanning {#scanning}
 

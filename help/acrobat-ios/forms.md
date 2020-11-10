@@ -17,7 +17,7 @@ There are two types of forms--Acroforms and Fill & Sign forms--and each has a sl
 Acroforms already contain form fields. You cannot add or remove form fields from an Acroform. To fill out a form, simply tap a form field.  
 
 
-![image](../imagesios/forms.png)
+![image](../images/forms.png)
 
 ### Tabbing through fields {#tabbing-through-fields}
 
@@ -52,7 +52,7 @@ By default, the app uses your in-app profile to suggest words when filling in fo
 1. Fill in any field.
 1. Tap **Done**.
 
-   ![image](../imagesios/profile.png)
+   ![image](../images/profile.png)
 
 ### Automatic form fill-in {#automatic-form-fill-in}
 
@@ -68,7 +68,7 @@ To disable this feature:
 1. Disable **Suggest words or phrases when filling forms**.
 1. Tap **Done**.
 
-   ![image](../imagesios/suggest.png)
+   ![image](../images/suggest.png)
 
 ### Clearing form data history {#clearing-form-data-history}
 
@@ -82,14 +82,14 @@ To create a form in an open document:
 
 1. Tap  ![image](./images/editicon.png) > ![image](./images/fillsignicon.png) to show the Fill & Sign toolbar. 
 
-   ![image](../imagesios/editbuttonmenu.png)
+   ![image](../images/editbuttonmenu.png)
 
 1. Select a form tool; for example, a text field or checkbox. 
 1. Enter data. By default, the app suggests entries for text fields. 
 
 When you place a form element, a context menu provides options for changing the font size, deleting the element, and so on.
 
-   ![image](../imagesios/formeditmenu.png)
+   ![image](../images/formeditmenu.png)
 
    >[!NOTE]
    >
@@ -107,13 +107,13 @@ Signing is a simple process, especially if you've already [created your signatur
 
 When you copy text to your device clipboard, you can paste that text into a text field by simply long pressing the field and tapping **Paste**. 
 
-   ![image](../imagesios/pastetext.png)
+   ![image](../images/pastetext.png)
 
 ### Undo and redo {#undo-and-redo}
 
 As you fill in a form, you can undo and redo any action (except signing). Simply tap ![image](./images/undoicon.png) or ![image](./images/redoicon.png) in the upper right menu or above the keyboard (if it is visible).
 
-   ![image](../imagesios/undoredo.png)
+   ![image](../images/undoredo.png)
 
 ### Deleting form fields {#deleting-form-fields}
 
