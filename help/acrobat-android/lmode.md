@@ -44,7 +44,7 @@ Most files are compatible, but the following limitations may apply:
 
 **Can I use Liquid Mode with screen readers and voiceovers?**
 
-Support for these features is not yet in place. 
+Yes.
 
 **Is this experience secure for my data and documents?**
 

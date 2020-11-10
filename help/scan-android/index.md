@@ -1,4 +1,7 @@
 
+
+# Adobe Scan
+
 Adobe Scan for iOS and Android is a mobile scan companion to Adobe's suite of Acrobat DC apps. Adobe Scan delivers enterprise-class scanning features such as: 
 
 * Automatic scanning (no tapping required!) 

@@ -201,8 +201,8 @@ You can modify scans after they are converted to PDF. The feature allows you to 
 
 1. Do one of the following: 
 
- * Open a PDF scan in the preview screen. 
- * For any thumbnail in the file list, tap ![image](./images/overflowicon.png)
+* Open a PDF scan in the preview screen. 
+* For any thumbnail in the file list, tap ![image](./images/overflowicon.png)
  
 1. Tap ![image](./images/modifyicon.png)
 1. Modify your scan as needed. 
