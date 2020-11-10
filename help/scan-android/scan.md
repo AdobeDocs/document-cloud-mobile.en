@@ -107,7 +107,7 @@ While in Review mode, browse your device for images and documents that you can a
 
 While in Review mode, you can reorder pages 1 or more pages: 
 
-1. Tap ![image](./images/scanreordericon.png)
+1. Tap ![image](./images/scanreorder.png)
 1. Drag and drop pages to new locations.
 1. Tap ![image](./images/checkicon.png)
 
@@ -127,7 +127,7 @@ While in Review mode, you can easily crop any page (adjust the borders):
 
     * ![image](./images/autodetecticon.png) **Auto-Detect**: Let the app automatically position the crop borders.
     * ![image](./images/nocropicon.png) **No Crop**: Reset the auto crop location.  
-    * ![image](./images/rotaterighticon.png) **Rotate**: Rotate the scan before or after cropping.
+    * ![image](./images/rotateright.png) **Rotate**: Rotate the scan before or after cropping.
  
 1. Tap ![image](./images/checkicon.png)
 
@@ -152,7 +152,7 @@ The app provides a crop magnifier to help you precisely place border corners. To
 While in Review mode, you can rotate pages any or all scanned pages. 
 
 1. Navigate to the page you want to modify.
-1. Tap ![image](./images/rotaterighticon.png)
+1. Tap ![image](./images/rotateright.png)
 1. Repeat as needed for other pages.
 1. Tap **Save**. 
 
@@ -214,7 +214,7 @@ It's easy to adjust the page size in review mode. For example, you can select A4
 While in Review mode, you can delete any number of pages. 
 
 1. Navigate to the page you want to delete.
-1. Tap ![image](./images/deleteicon.png)
+1. Tap ![image](./images/delete.png)
 1. Confirm you want to delete the page.
 
 ## Canceling a scan or edit {#canceling-a-scan-or-edit}
