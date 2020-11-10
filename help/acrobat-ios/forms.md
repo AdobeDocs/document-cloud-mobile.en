@@ -144,7 +144,7 @@ There are several possible reasons:
 
 You have opened an Acroform or a signed form. You cannot add form fields to those types of files. 
 
-**How come my profile data doesn't auto fill in the form?**
+**Why doesn't my profile data auto fill in the form?**
 
 You are likely looking at an Acroform rather than a Fill & Sign form. Profile data is only available with Fill & Sign. 
 
