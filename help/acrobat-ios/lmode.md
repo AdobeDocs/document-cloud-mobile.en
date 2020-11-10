@@ -4,7 +4,7 @@ Liquid Mode is a revolutionary mobile reading experience powered by Adobe Sensei
 
 To use Liquid Mode, simply open any file and tap ![image](./images/lmodeicon.png). 
 
-![image](./imagesandroid/lmodetop.png)
+![image](./images/lmodetop.png)
 
 Liquid Mode provides the following features: 
 
@@ -73,4 +73,4 @@ Liquid Mode does not currently work in Dark Mode but will in the near future.
 1. Rate the feature and/or fill out the feedback form. 
 1. Tap **Submit**. 
 
-   ![image](./imagesandroid/feedback.png)
+   ![image](./images/feedback.png)
