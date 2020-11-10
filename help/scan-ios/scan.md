@@ -78,25 +78,25 @@ To help you get work done fast, the default menu options available on the previe
 
 Whiteboard:
 
-* File name: Whiteboard  + <date>
+* File name: Whiteboard  + (date)
 * Full screen capture
 * ![image](./images/commenticon.png) shown as the 3rd option on file card
 
 Form:
 
-* File name: Form  + <date>
+* File name: Form  + (date)
 * Boundary detection
 * ![image](./images/fillsignicon.png) shown as the 3rd option on file card
 
 Document:
 
-* File name: Scan  + <date>
+* File name: Scan  + (date)
 * Boundary detection
 * ![image](./images/commenticon.png) shown as the 3rd option on file card
 
 Business Card:
 
-* File name: Business Card  + <date>
+* File name: Business Card  + (date)
 * Boundary detection
 * ![image](./images/contacts1.png) shown as the 3rd option on file card
 
@@ -132,7 +132,7 @@ You can browse your device for images and documents that you can add to your cur
 
 You can easily reorder pages: 
 
-1. Tap ![image](./images/scanreordericon.png)
+1. Tap ![image](./images/scanreorder.png)
 1. Drag and drop pages to new locations.
 1. Tap **Done**.
 
@@ -162,7 +162,7 @@ While in Review mode, you can easily crop any page (adjust the borders):
 While in Review mode, you can rotate pages any or all scanned pages. 
 
 1. Navigate to the page you want to modify.
-1. Tap ![image](./images/rotaterighticon.png)
+1. Tap ![image](./images/rotateright.png)
 1. Repeat as needed for other pages.
 
   
@@ -214,7 +214,7 @@ You can perform image cleanup on a new scan or cleanup the image on an existing 
 While in Review mode, you can delete any number of pages. 
 
 1. Navigate to the page you want to delete.
-1. Tap ![image](./images/deleteicon.png)
+1. Tap ![image](./images/delete.png)
 1. Confirm you want to delete the page.
 
 ## Canceling a scan or edit {#canceling-a-scan-or-edit}

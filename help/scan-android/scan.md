@@ -46,25 +46,25 @@ Selecting a scan type changes the scan name as well as how the app captures the 
 
 Whiteboard:
 
-* File name: Whiteboard  + <date>
+* File name: Whiteboard  + (date)
 * Full screen capture
 * ![image](./images/commenticon.png) shown as the 3rd option on file card
 
 Form:
 
-* File name: Form  + <date>
+* File name: Form  + (date)
 * Boundary detection
 * ![image](./images/fillsignicon.png) shown as the 3rd option on file card
 
 Document:
 
-* File name: Scan  + <date>
+* File name: Scan  + (date)
 * Boundary detection
 * ![image](./images/commenticon.png) shown as the 3rd option on file card
 
 Business Card:
 
-* File name: Business Card  + <date>
+* File name: Business Card  + (date)
 * Boundary detection
 * ![image](./images/contacts1.png) shown as the 3rd option on file card
 
