@@ -18,7 +18,7 @@ solution: Acrobat DC
 + [Export PDF](exportpdf.md)
 + [Combine PDFs](combine.md)
 + [Work with Forms](forms.md)
-+ [Liquid Mode](../shared/lmode.md)
++ [Liquid Mode](lmode.md)
 + [Password Protect PDFs](protect.md)
 + [Creating Signatures, Signing](signing.md)
 + [Accessibility Features](accessibility.md)

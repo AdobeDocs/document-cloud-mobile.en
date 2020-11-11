@@ -214,7 +214,7 @@ It's easy to adjust the page size in review mode. For example, you can select A4
 While in Review mode, you can delete any number of pages. 
 
 1. Navigate to the page you want to delete.
-1. Tap ![image](./images/delete.png)
+1. Tap ![image](./images/deleteicon.png)
 1. Confirm you want to delete the page.
 
 ## Canceling a scan or edit {#canceling-a-scan-or-edit}

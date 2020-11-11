@@ -214,7 +214,7 @@ You can perform image cleanup on a new scan or cleanup the image on an existing 
 While in Review mode, you can delete any number of pages. 
 
 1. Navigate to the page you want to delete.
-1. Tap ![image](./images/delete.png)
+1. Tap ![image](./images/deleteicon.png)
 1. Confirm you want to delete the page.
 
 ## Canceling a scan or edit {#canceling-a-scan-or-edit}
