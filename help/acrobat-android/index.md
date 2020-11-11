@@ -19,6 +19,7 @@ Many Acrobat features are available on all platforms. An intuitive user interfac
 * **Desktop**: Sign in to desktop Acrobat so you can sync files across your devices. 
 
 ## Top pages
+
 <table>
 <tr>
   <td>
