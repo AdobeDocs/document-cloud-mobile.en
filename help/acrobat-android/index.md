@@ -18,6 +18,51 @@ Many Acrobat features are available on all platforms. An intuitive user interfac
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
 * **Desktop**: Sign in to desktop Acrobat so you can sync files across your devices. 
 
+## Top pages
+<table>
+<tr>
+  <td>
+    <a href="faq.md">
+      <img alt="FAQ" src="../shared/images/faq.png"/>
+    </a>
+    <div>
+      <a href="faq.md">
+    <strong>Frequently Asked Questions</strong>
+    </a>
+    </div>
+    <p>
+    <em>Find answers to common questions and troubleshoot</em>
+    <p>
+  </td>
+   <td>
+    <a href="managesubscriptions.html">
+      <img alt="Manage Subscriptions" src="../shared/images/manage.png" />
+    </a>
+    <div>
+      <a href="managesubscriptions.html">
+    <strong>Manage Subscriptions</strong>
+    </a>
+    </div>
+    <p>
+    <em>Add, remove, restore, and monitor your purchases</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
+       <img alt="upgrade" src="../shared/images/upgrade.png" />
+    </a>
+    <div>
+       <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
+    <strong>Install the Latest App</strong>
+    </a>
+    </div>
+    <p>
+    <em>Install the latest build so you can leverage the latest featurs. </em>
+    <p>
+  </td>
+</tr>
+</table>
+
 ## Signing in {#signing-in}
 
 Signing in is required for features using services, but it also provides many other  advantages: 

@@ -14,7 +14,7 @@ The team appreciates feedback and ideas, and you can [file a bug or feature requ
 
 **Why is the app asking for photo and camera access?**
 
-To use the camera or photo, you must provide the app access. For configuration details, see :ref:`settingsaccess`.
+To use the camera or photo, you must provide the app access. For configuration details, see [Settings](settings.md)
 
 **Why can't I install Adobe Scan on my device?**
 

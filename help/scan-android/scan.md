@@ -12,7 +12,7 @@ If auto-capture is enabled, simply open the app, wait for the capture, and tap o
 
 To scan a document:
 
-1. *Optional*: :ref:`optional` include setting the flash, selecting the document type, and so on. 
+1. *Optional*: configure flash settings, select the document type, and so on. 
 1. Invoke a scan. The app has two capture modes: 
 
     * ![image](./images/autoscan.png) By default, auto-capture is enabled, and on startup the app displays the capture screen and  tries to detect a document. 
@@ -35,7 +35,7 @@ Use the options on the capture screen to control how you scan :
 
 | Item | Description |
 | --- | --- |
-| Document type | Streamline your workflow by selecting one of the :ref:`scantype`. |
+| Document type | Streamline your workflow by selecting one of the [document types](scan.md##document-types). |
 | |flashiconon| | If your device has a flash, you can set it to always on |flashiconon|, always off |flashiconoff|, or auto |flashiconauto| (only use in dark settings). |
 | |autoscan| | Toggle auto capture on |autoscan| and off |autoscanoff|. |
 | |scanaddicon| | Add an existing photo or document to your current scan collection |
@@ -251,4 +251,4 @@ The Scan app automatically tries to detect document boundaries. Live edge bounda
 
 ## Printing {#printing}
 
-See :ref:`print`
+See [Printing](workingwithfiles.md#printing)

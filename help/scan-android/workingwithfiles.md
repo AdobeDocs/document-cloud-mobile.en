@@ -211,9 +211,6 @@ Note that you cannot modify scanned files which have been altered outside of Ado
 
 ![image](./images/modifyscan.png)
 
-   >[!NOTE]
-   >
-   > For details about editing (modifying) scans, see :ref:`editscans`.
 
 ## Add photos to a scan {#add-photos-to-a-scan}
 
@@ -234,11 +231,7 @@ There are two methods:
  
 ![image](./images/addfromphotos.png)
 
-## Copy a file to your device {#copy-a-file-to-your-device}
 
-See :ref:`offline`
-
- 
 
 ## Printing {#printing}
 

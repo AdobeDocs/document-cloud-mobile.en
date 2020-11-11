@@ -4,7 +4,7 @@
 
 ## Opening files in Acrobat {#opening-files-in-acrobat}
 
-Becasue Acrobat integrates with any Adobe DC app, other cloud storage solutions, other apps, and OS features such as the Files app, it's easy to open PDFs in Acrobat from nearly any location. See :ref:`openfiles` for details about opening files from:
+Becasue Acrobat integrates with any Adobe DC app, other cloud storage solutions, other apps, and OS features such as the Files app, it's easy to open PDFs in Acrobat from nearly any location. See [Open Files](openfiles.md) for details about opening files from:
 
 * Dropbox
 * Email

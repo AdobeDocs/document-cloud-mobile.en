@@ -81,13 +81,13 @@ You can save files stored on your device to the cloud:
 
 Starring a file helps you keep track of important files. Once starred, a star appears next to the file in the locations you specify. 
 
-You can control the starred file location behavior with your :ref:`starsetting` settings. For example, you can star a file on the cloud but not on your device.s
+You can control the starred file location behavior with your [Settings](settings.md#starred-file-location). For example, you can star a file on the cloud but not on your device.s
 
 To star a file: 
 
 1. Open the file. 
 1. Open any context menu.
-1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your :ref:`starsetting` settings. 
+1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your [Settings](settings.md#starred-file-location). 
 
    ![image](./images/starredfiles.png)
 
@@ -188,7 +188,7 @@ Enhance your PDF viewing experience with custom view mode settings. To set the v
 
 ### Using Liquid Mode {#using-liquid-mode}
 
-See :ref:`lmode`.
+See [Liquid Mode](../shared/lmode.md)
 
 ## Hiding menus {#hiding-menus}
 

@@ -15,7 +15,7 @@ If auto-capture is enabled, simply open the app, wait for the capture, and tap o
 
 ## Device settings {#device-settings}
 
-The scan feature requires access to your camera. If prompted, choose **Allow**. For details, see :ref:`settings`.
+The scan feature requires access to your camera. If prompted, choose **Allow**. 
 
 By default, auto-capture is enabled. Turn this setting on and off as follows: 
 
@@ -34,7 +34,7 @@ Note that live edge boundary detection and capture hinting behave differently in
 
 To scan a document:
 
-1. *Optional*: :ref:`optional` include setting the flash, selecting the document type, and so on. 
+1. *Optional*: Configure flashs, select a document type, and so on. 
 1. Invoke a scan. The app has two capture modes: 
 
     * ![image](./images/autoscan.png) By default, auto-capture is enabled, and on startup the app displays the capture screen and  tries to detect a document. 
@@ -57,7 +57,7 @@ Use the options on the capture screen to control how you scan :
 
 | Item | Description |
 | --- | --- |
-| Scan type | Streamline your workflow by selecting one of the :ref:`scantype`. |
+| Scan type | Streamline your workflow by selecting one of the [document types](scan.md##document-types). |
 | |flashiconon| | If your device has a flash, you can set it to always on |flashiconon|, always off |flashiconoff|, or auto |flashiconauto| (only use in dark settings). |
 | |autoscan| | Toggle auto capture on |autoscan| and off |autoscanoff|. |
 | |scanaddicon| | Add an existing photo or document to your current scan collection |

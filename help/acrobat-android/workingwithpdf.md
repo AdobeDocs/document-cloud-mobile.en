@@ -19,8 +19,6 @@ The user interface's menu options vary based on the viewing context. The top men
 
 ## Sharing and commenting {#sharing-and-commenting}
 
-See :ref:`share`. 
-
 ## Saving files {#saving-files}
 
 ### Save to Document Cloud {#save-to-document-cloud}
@@ -60,13 +58,13 @@ You can save files to any 3rd party connected storage Acrobat supports--not just
 
 Starring a file is similar to "favoriting" a file: Once starred, a star appears next to the file in the locations you specify. The star appears on all your devices, including your desktop. 
 
-You can control the starred file location behavior with your :ref:`starsetting` settings. 
+You can control the starred file location behavior with your [settings](settings.md#starred-file-location).
 s
 To star a file: 
 
 1. Open the file. 
 1. Open any context menu.
-1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your :ref:`starsetting` settings. 
+1. Tap ![image](./images/staricon.png). A star now appears next to the file in the locations specified by your [Settings](settings.md#starred-file-location). 
 
    ![image](./images/starredfiles.png)
 
@@ -114,7 +112,7 @@ The Organize tool is a subscription service that supports rotating, reordering, 
 
 ## Combine and compress files {#combine-and-compress-files}
 
-See :ref:`combine`.
+See [Combine PDF](combine.md)
 
 ## Printing {#printing}
 

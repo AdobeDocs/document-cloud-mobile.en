@@ -1,7 +1,6 @@
 
 # Getting Started {#getting-started}
 
-.. contents:: :local:
 
 ## Workflows anywhere {#workflows-anywhere}
 

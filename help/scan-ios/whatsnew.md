@@ -6,7 +6,7 @@ In addition to bug fixes and performance enhancements, keeping your app up-to-da
 ## August, 2020 {#august,-2020}
 
 * **Save as JPEG**: While files automatically save as PDF, you can also save individual pages as JPEG files to your gallery. Simply tap on a file's ![image](./images/overflowicon.png) icon and choose **Save as JPEG** from the context menu. 
-* **Rich file renaming**: The scan app now provides a simplified way to set the default file name. You can also rename files on the fly, but both methods allow you to enter a customer name as well as build one using suggestions such date and scan type fields. For details, see :ref:`rename`.
+* **Rich file renaming**: The scan app now provides a simplified way to set the default file name. You can also rename files on the fly, but both methods allow you to enter a customer name as well as build one using suggestions such date and scan type fields.
 
 
 ## January, 2020 {#january,-2020}

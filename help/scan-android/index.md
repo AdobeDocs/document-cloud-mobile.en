@@ -22,7 +22,7 @@ Adobe Scan requires that you log in with a supported ID  since features such as 
     * **Desktop**: Sign in to Acrobat on your desktop so that your files are always available in Acrobat. 
     
     
-* Configure: Once you've installed the app, make sure it's set up to do what you need by configuring the :ref:`settings` in the app's preference panel as well as those on the capture screen. Some of the features you can control include: 
+* Configure: Once you've installed the app, make sure it's set up to do what you need by configuring the [Settings](../shared/lmode.md) in the app's preference panel as well as those on the capture screen. Some of the features you can control include: 
 
     * Auto-capture
     * Auto-flash

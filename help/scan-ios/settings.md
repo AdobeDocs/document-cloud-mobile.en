@@ -154,9 +154,6 @@ To set permissions:
 1. Scroll to Adobe Scan. 
 1. Tap the feature you want to configure.
 
-   >[!NOTE]
-   >
-   > For Siri configuration details, see :ref:`siri`.
 
 ![image](./images/permissions.png)
 
