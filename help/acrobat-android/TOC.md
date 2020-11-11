@@ -23,4 +23,5 @@ solution: Acrobat DC
 + [Creating Signatures, Signing](signing.md)
 + [Accessibility Features](accessibility.md)
 + [Troubleshooting](troubleshooting.md)
++ [How do I?](faq.md)
 + [What's New](whatsnew.md)
