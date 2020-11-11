@@ -1,0 +1,6 @@
+
+# FAQs {#faqs}
+
+## test
+
+test
