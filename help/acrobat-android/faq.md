@@ -1,6 +1,7 @@
 
 # FAQs {#faqs}
 
-## test
+##  How do I manage my subscriptions? 
 
-test
+See [Managing Subscriptions]{managesubscriptions.md}
+

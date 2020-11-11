@@ -36,11 +36,11 @@ Many Acrobat features are available on all platforms. An intuitive user interfac
     <p>
   </td>
    <td>
-    <a href="managesubscriptions.html">
+    <a href="managesubscriptions.md">
       <img alt="Manage Subscriptions" src="../shared/images/manage.png" />
     </a>
     <div>
-      <a href="managesubscriptions.html">
+      <a href="managesubscriptions.md">
     <strong>Manage Subscriptions</strong>
     </a>
     </div>
