@@ -40,9 +40,11 @@ Most files are compatible, but the following limitations may apply:
 
 ## FAQs {#faqs}
 
-**Can I use Liquid Mode with screen readers and voiceovers?**
+**Can I use Liquid Mode with screen readers such as VoiceOver and TalkBack?**
 
-Yes.
+* IOS: Yes, Liquid Mode supports screen readers such as VoiceOver
+* Android: Yes, Liquid Mode supports screen readers such as TalkBack
+
 
 **Is this experience secure for my data and documents?**
 
