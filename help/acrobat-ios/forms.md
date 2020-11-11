@@ -97,7 +97,7 @@ When you place a form element, a context menu provides options for changing the 
 
 ### Signing forms {#signing-forms}
 
-Signing is a simple process, especially if you've already [created your signature](signing.html). Simply tap ![image](./images/signicon.png) and place your signature. 
+Signing is a simple process, especially if you've already [created your signature](signing.md). Simply tap ![image](./images/signicon.png) and place your signature. 
 
    >[!NOTE]
    >

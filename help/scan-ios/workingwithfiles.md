@@ -95,7 +95,7 @@ Select and share multiple files as follows:
 
 ### Email copies of scans {#email-copies-of-scans}
 
-If you've [set up an email account](settings.html) on your iOS device, an email option appears in the context menus. You can email a link to a scan directly from the app as follows:
+If you've [set up an email account](settings.md) on your iOS device, an email option appears in the context menus. You can email a link to a scan directly from the app as follows:
 
 From the Recents list: 
 
@@ -214,7 +214,7 @@ Note that you cannot modify scanned files which have been altered outside of Ado
 
    >[!NOTE]
    >
-   > For details about editing scans, see [Scanning Documents](scan.html).
+   > For details about editing scans, see [Scanning Documents](scan.md).
 
 ## Add photos to a scan {#add-photos-to-a-scan}
 
