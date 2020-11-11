@@ -12,11 +12,11 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
 
 ## Workflows anywhere {#workflows-anywhere}
 
-Many Acrobat features are available on all platforms. An intuitive user interface works similarly across phones, the desktop, and in the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
+Many Acrobat features are available on all platforms. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
 
 * **Mobile**: Download and configure the free mobile app from your favorite app store.
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
-* **Desktop**: Sign in to desktop Acrobat so you can sync files across your devices. 
+* **Desktop**: Sign in to desktop Acrobat to see all your latest files. 
 
 ## Top pages
 
