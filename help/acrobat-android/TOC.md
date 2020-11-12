@@ -11,7 +11,7 @@ solution: Acrobat DC
 + [Managing Files and Folders](managefilesfolders.md)
 + [Work files vs Personal Files](enterprise.md)
 + [Working with PDF](workingwithpdf.md)
-+ [Managing Subscriptions](managingsubscriptions.md)
++ [Managing Subscriptions](managesubscriptions.md)
 + [Sharing and Reviewing Files](review.md)
 + [Create PDF and Scan](createpdf.md)
 + [Edit PDF](editpdf.md)
