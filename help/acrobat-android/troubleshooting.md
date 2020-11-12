@@ -1,8 +1,8 @@
 ---
 user-guide-title: Acrobat Reader DC for Android Help
 solution: Acrobat DC
----   
-   
+---
+
 # Troubleshooting {#troubleshooting}
 
 ## Get help and find answers {#get-help-and-find-answers}
