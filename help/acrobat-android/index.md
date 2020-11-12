@@ -5,18 +5,7 @@ solution: Acrobat DC
 
 # Getting Started {#getting-started}
 
-Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features such as: 
-
-* Online file storage and workflow management
-* Sharing files and shared file management, including a collaborative review service
-* A rich notification service that enables real-time workflow monitoring
-* Integration with Adobe Document Cloud, Dropbox, and Google Drive so that you can work with files anywhere
-* Access to subscription services such as create and export PDF, organize and combine files, and so on 
-* And more!
-
-## Workflows anywhere {#workflows-anywhere}
-
-Many Acrobat features are available on all platforms. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
+Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features which are available on all platforms. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
 
 * **Mobile**: Download and configure the free mobile app from your favorite app store.
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
