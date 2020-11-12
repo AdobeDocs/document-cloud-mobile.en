@@ -1,5 +1,8 @@
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
- 
 # Create PDF and scan {#create-pdf-and-scan}
 
 

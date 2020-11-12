@@ -1,4 +1,7 @@
-
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
 # Export PDF to other formats {#export-pdf-to-other-formats}
 

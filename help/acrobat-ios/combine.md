@@ -1,6 +1,8 @@
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
-
- 
 # Combine PDFs {#combine-pdfs}
 
 Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can combine any number of PDFs into a single PDF.

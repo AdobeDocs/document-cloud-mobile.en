@@ -1,5 +1,8 @@
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
- 
 # Navigate, find, search {#navigate,-find,-search}
 
 ## Finding files {#finding-files}

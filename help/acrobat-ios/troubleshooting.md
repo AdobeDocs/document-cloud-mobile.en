@@ -1,4 +1,8 @@
-   
+ ---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
+
 # Troubleshooting {#troubleshooting}
 
 ## Forum-community help {#forum-community-help}

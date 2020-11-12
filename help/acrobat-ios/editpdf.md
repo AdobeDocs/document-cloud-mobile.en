@@ -1,4 +1,8 @@
-   
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
+
 # Edit PDF {#edit-pdf}
 
 Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can edit PDFs on phones and tablets. The edit feature allows you to: 

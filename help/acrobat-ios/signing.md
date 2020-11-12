@@ -1,4 +1,7 @@
-
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
 # Create signatures and sign {#create-signatures-and-sign}
 

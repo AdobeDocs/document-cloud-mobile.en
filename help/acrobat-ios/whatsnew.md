@@ -1,4 +1,7 @@
-
+---
+user-guide-title: Acrobat Reader DC for iOS Help
+solution: Acrobat DC
+---
 
 # What's New {#what's-new}
 
