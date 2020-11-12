@@ -51,7 +51,7 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
     </a>
     </div>
     <p>
-    <em>Install the latest build so you can leverage the latest featurs. </em>
+    <em>Install the latest build so you can leverage the latest features. </em>
     <p>
   </td>
 </tr>
