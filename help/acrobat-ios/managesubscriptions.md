@@ -111,7 +111,7 @@ To fix this issue, backup your data and reinstall the app as follows:
 
 **How do I restore purchases after updating from a store other than the one which provided the original download?** 
 
-See [Restore purchases](managingsubscriptions.md#repairing-restore-purchases).
+See [Restore purchases](managesubscriptions.md#repairing-restore-purchases).
 
 **Why was I automatically charged after the trial ended?**
 
