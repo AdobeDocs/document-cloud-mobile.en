@@ -1,3 +1,7 @@
+---
+user-guide-title: Acrobat Reader DC for Android Help
+solution: Acrobat DC
+---
 
 # Navigate and search {#navigate-and-search}
 

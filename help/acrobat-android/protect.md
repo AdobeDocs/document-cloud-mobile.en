@@ -1,4 +1,7 @@
-
+---
+user-guide-title: Acrobat Reader DC for Android Help
+solution: Acrobat DC
+---
 
 # Password Protect PDF {#password-protect-pdf}
 
