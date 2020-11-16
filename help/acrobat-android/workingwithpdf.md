@@ -5,7 +5,7 @@ solution: Acrobat DC
 
 # Working with PDF {#working-with-pdf}
 
-When you open a PDF, what menus appear will vary based on the file. Regular files (for example, those  not part of a review) display an action menu at the top and floating action bottom at the bottom. Both the overflow icon (![image](./images/overflowicon.png)) and floating action button |editicon.png) open a context menu displaying additional options based on your service subscriptions (For example, both Organize Pages and Create PDF require a subscription). 
+When you open a PDF, the menus that  appear will vary based on the file. Regular files (for example, those  not part of a review) display an action menu at the top and floating action bottom at the bottom. Both the overflow icon (![image](./images/overflowicon.png)) and floating action button |editicon.png) open a context menu displaying additional options based on your service subscriptions (For example, both Organize Pages and Create PDF require a subscription). 
 
 ![image](./images/regularmenu.png)
 
