@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Reader DC for iOS Help
+title:  Acrobat Reader DC for iOS Help
 solution: Acrobat DC
 ---
 

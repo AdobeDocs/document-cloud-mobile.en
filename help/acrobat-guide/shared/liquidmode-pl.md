@@ -1,5 +1,5 @@
 ---
-user-guide-title: Aplikacja Adobe Acrobat dla systemu Android lub iOS
+title:  Aplikacja Adobe Acrobat dla systemu Android lub iOS
 solution: Acrobat DC
 solution-title: Aplikacja Acrobat Reader dla systemu Android
 solution-hub-url: https://www.adobe.com/devnet-docs/acrobat/android/pl/
