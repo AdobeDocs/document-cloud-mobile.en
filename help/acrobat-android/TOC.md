@@ -15,7 +15,8 @@ solution: Acrobat DC
 + [Liquid Mode](lmode.md)
 + [Creating Signatures, Signing](signing.md)
 + [Accessibility Features](accessibility.md)
-+ [Managing Subscriptions](managesubscriptions.md)
++ Managing Subscriptions
+   + [Managing Subscriptions](managesubscriptions.md)
    + [Create PDF and Scan](createpdf.md)
    + [Edit PDF](editpdf.md)
    + [Export PDF](exportpdf.md)
