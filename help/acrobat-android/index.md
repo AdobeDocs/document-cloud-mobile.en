@@ -20,7 +20,7 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
       <img alt="FAQ" src="../shared/images/faq.png"/>
     </a>
     <div>
-      <a href="faq.md">
+      <a href="https://www.google.com">
     <strong>Frequently Asked Questions</strong>
     </a>
     </div>
