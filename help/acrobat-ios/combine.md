@@ -1,6 +1,7 @@
 ---
 title:  Acrobat Reader DC for iOS
 solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
 ---
 
 # Combine PDFs {#combine-pdfs}

@@ -1,3 +1,9 @@
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Adobe Scan
 
 Adobe Scan for iOS and Android is a mobile scan companion to Acrobat Reader which supports a rich set of enterprise-class configuration and PDF workflow features. Adobe Scan features include: 

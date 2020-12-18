@@ -1,4 +1,10 @@
 
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Siri integration {#siri-integration}
 
 If you iOS version is 12 or later, you can leverage Siri features in the latest Scan app. Support for Siri shortcuts means you can spend less time performing repetitive tasks and more time performing meaningful actions.  You can record Siri shortcuts directly from the Scan app as well as leverage Siri's capabilities from lock screen notifications, Spotlight search, and any other place on your device where Siri is available. 

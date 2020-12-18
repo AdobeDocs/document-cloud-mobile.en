@@ -1,5 +1,11 @@
 
 
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Settings {#settings}
 
 Adobe Scan work in tandem with your device settings to help you pre-configure scan workflows so that your experience is better and your scans more efficient.

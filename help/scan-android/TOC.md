@@ -1,6 +1,7 @@
 ---
 user-guide-title: Acrobat Scan DC for Android
 solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
 ---
 
 # Adobe Scan Mobile Guide {#scanandroid}

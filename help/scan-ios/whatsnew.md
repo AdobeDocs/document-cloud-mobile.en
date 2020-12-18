@@ -1,4 +1,10 @@
    
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # What's New {#what's-new}
 
 In addition to bug fixes and performance enhancements, keeping your app up-to-date guarantees that you'll always have the latest and greatest new features.

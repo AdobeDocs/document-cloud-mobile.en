@@ -1,4 +1,10 @@
 
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Finding files and content {#finding-files-and-content}
 
 Adobe Scan offers a number of ways to find and sort files. You can: 

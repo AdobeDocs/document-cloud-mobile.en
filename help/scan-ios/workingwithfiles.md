@@ -1,11 +1,12 @@
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
 
 # Working with Scans {#working-with-scans}
 
 Adobe Scan offers a rich set of features for working with your scans. You can: 
-
-
-
-![image](./images/working1.png)
 
 ## Select and copy text {#select-and-copy-text}
 

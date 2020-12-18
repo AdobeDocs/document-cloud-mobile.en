@@ -1,3 +1,9 @@
+---
+title:  Adobe Scan DC for Android
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Scanning {#scanning}
 
 The free Adobe Scan app turns your device into a powerful portable scanner that recognizes text automatically (OCR). Capture new images with your camera or grab any image from your device. The app converts images to PDF and saves them to Adobe Document Cloud. By default, the app automatically converts image text to real text  via optical character recognition (OCR). 

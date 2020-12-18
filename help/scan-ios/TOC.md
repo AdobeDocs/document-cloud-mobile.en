@@ -1,6 +1,13 @@
 ---
 user-guide-title: Acrobat Scan DC for iOS
 solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
 ---
 
 # Adobe Scan Mobile Guide {#scanios}

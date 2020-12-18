@@ -1,4 +1,10 @@
 
+---
+title:  Adobe Scan DC for iOS
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
+
 # Files app integration {#files-app-integration}
 
 iOS 11 and later provides a new Files app that allows you to easily find, organize, and manage all of your files, including your Adobe Scan files. Available files include not only local files on your device, but also files on other iOS devices as well as cloud services such as Adobe Document Cloud. Adobe Scan's support for the Files app means you have greater control and ease of access for all your files and scans no matter where they reside. 

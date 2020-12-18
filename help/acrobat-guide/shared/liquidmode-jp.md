@@ -1,6 +1,7 @@
 ---
 title:  Adobe Acrobat Reader Android 版および iOS 版
 solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
 solution-title: Acrobat Reader Android 版
 solution-hub-url: https://www.adobe.com/devnet-docs/acrobat/android/jp/
 tutorials-title: Acrobat Reader iOS 版  

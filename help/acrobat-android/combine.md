@@ -1,6 +1,7 @@
 ---
 title:  Acrobat Reader DC for Android
 solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
 ---
 
 # Combining and compressing files {#combining-and-compressing-files}

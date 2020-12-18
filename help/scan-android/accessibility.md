@@ -1,7 +1,10 @@
-
+---
+title:  Adobe Scan DC for Android
+solution: Acrobat DC
+description: Adobe mobile app enterprise workflow features
+---
 
 # Accessibility {#accessibility}
-
 
 
 Android devices support a number of accessibility features not listed here. For more information, refer to the [Android Accessibility Overview](https://support.google.com/accessibility/android/answer/6006564?hl=en). You can also go check out your accessibility settings by going to your device's settings screen and tapping **Accessibility** (or search for it if the menu item does not display). 
