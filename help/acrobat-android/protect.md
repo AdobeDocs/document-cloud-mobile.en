@@ -1,7 +1,7 @@
 ---
 title:  Acrobat Reader DC for Android
 solution: Acrobat DC
-description: Adobe mobile app enterprise workflow features
+description: Adobe mobile app enterprise workflow features: accessibility
 ---
 
 # Password Protect PDF {#password-protect-pdf}
