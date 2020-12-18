@@ -1,3 +1,7 @@
+---
+title: Adobe Scan DC for Android
+solution: Acrobat DC
+---
 
 # Troubleshooting {#troubleshooting}
 
@@ -28,7 +32,7 @@ The app can only be installed on devices with Android 6.0 and later.
 
 While the March, 2018 release introduced a new modify scan feature, you cannot modify scanned files which have been altered outside of Adobe Scan. For example, if you have opened a scan in Acrobat and have added comments, added attachments, organized pages, and so on, Adobe Scan will not be able to modify that file.
 
-## Troubleshooting OCR {#troubleshooting-ocr}
+Troubleshooting OCR {#troubleshooting-ocr}
 
 **Why can't I select, edit, and comment or markup text?**
 

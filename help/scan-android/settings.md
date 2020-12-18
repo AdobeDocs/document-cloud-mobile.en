@@ -1,5 +1,8 @@
   
- 
+---
+title: Adobe Scan DC for Android
+solution: Acrobat DC
+---
 
 # Settings {#settings}
 

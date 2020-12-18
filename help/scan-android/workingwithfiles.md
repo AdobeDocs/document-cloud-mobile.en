@@ -183,7 +183,7 @@ If you've installed Acrobat Reader, tap ![image](./images/fillsignicon.png) to o
 1. Enter data. By default, the app suggests entries for text fields.
 1. Tap ![image](./images/checkicon.png) to exit Fill & Sign mode. 
 
-Fill & Sign on Android supports creating and editing forms, automatic form fill-in based on suggestions, clearing form data history, signing, pasting copied text into text fields, undo/redo, and deleting form fields. For details, refer to the on-device Acrobat Reader Help.
+Fill & Sign on Android supports creating and editing forms, automatic form fill-in based on suggestions, clearing form data history, signing, pasting copied text into text fields, undo/redo, and deleting form fields. For details, refer to the on-device Acrobat Reader.
 
 
 ## Rename a file {#rename-a-file}

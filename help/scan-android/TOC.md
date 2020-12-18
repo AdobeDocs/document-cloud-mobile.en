@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Reader DC for Android Help
+user-guide-title: Acrobat Scan DC for Android
 solution: Acrobat DC
 ---
 

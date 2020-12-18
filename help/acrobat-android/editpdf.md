@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for Android Help
+title:  Acrobat Reader DC for Android
 solution: Acrobat DC
 ---
    

@@ -1,8 +1,14 @@
 ---
-title:  Acrobat Reader DC for iOS Help
+title:  Acrobat Reader DC for iOS
 solution: Acrobat DC
 ---
 
-# Enterprise settings and work files {#enterprise-settings-and-work-files}
+# Managing work files and personal files {#Managing-work-files-and-personal-files}
 
-Admin only content goes here. 
+## Policies
+
+tbd
+
+## App settings
+
+tbd

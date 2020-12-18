@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Reader DC Mobile Help
+user-guide-title: Acrobat Reader DC Mobile
 solution: Acrobat DC
 ---
 

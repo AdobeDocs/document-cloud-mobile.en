@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Acrobat Scan DC for Android
 solution: Acrobat DC
 ---
 
