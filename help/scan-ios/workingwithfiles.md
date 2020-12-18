@@ -1,5 +1,5 @@
 ---
-title:  Adobe Scan DC for iOS
+title:  Working with Scans
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
