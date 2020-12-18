@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Sharing & Reviewing Files
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Sharing & Reviewing files {#sharing-&-reviewing-files}
+# Sharing & Reviewing Files {#sharing-&-reviewing-files}
 
 Acrobat Reader provides a rich set of file share and review features as well as tools for managing both. Review service subscribers can share files in review mode so that it's easy to collaborate and collect feedback on any file. Highlights include: 
 

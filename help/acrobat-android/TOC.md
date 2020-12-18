@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Reader DC for Android
+user-guide-title: Acrobat Mobile Guide
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

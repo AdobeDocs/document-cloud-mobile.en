@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Navigate and Search
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Navigate and search {#navigate-and-search}
+# Navigate and Search {#navigate-and-search}
 
 ## Finding files {#finding-files}
 

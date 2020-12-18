@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Create Signatures and Sign
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Create signatures and sign {#create-signatures-and-sign}
+# Create Signatures and Sign {#create-signatures-and-sign}
 
 Adobe's DC product family offers rich signing capabilities, including free features in Acrobat Reader, cloud-based eSign services that let you sign, send, and track documents from anywhere, and the Adobe Sign application that enables creating and managing signature workflows from your mobile device.
 
