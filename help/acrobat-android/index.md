@@ -5,11 +5,16 @@ solution: Acrobat DC
 
 # Getting Started {#getting-started}
 
-Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features which are available on all platforms. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. Your files are simply accessible whenever you need them: 
+Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features. Enterprise configuration options support managing your work and personal files as needed. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. 
 
-* **Mobile**: Download and configure the free mobile app from your favorite app store.
-* **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location supported by your device. 
+*Enterprise administrators* Configure and deploy mobile apps so that end users can keep work and personal files separate. Configure access to Adobe Document Cloud as well as  3rd party cloud storage solutions and manage rich settings for both MAM and MDM environments. 
+
+Whether you're at work or on the go, your files are simply accessible whenever you need them: 
+
+* **Mobile**: Manage work and personal files from any location on your phone or tablet. 
+* **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location accessible on your device. 
 * **Desktop**: Sign in to desktop Acrobat to see all your latest files. 
+
 
 ## Top pages
 
