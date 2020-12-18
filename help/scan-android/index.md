@@ -1,5 +1,5 @@
 ---
-title:  Adobe Scan DC for Android
+title:  Adobe Scan
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

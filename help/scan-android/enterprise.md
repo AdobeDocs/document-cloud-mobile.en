@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Scan DC for Android
+title:  Managing Work & Personal Files
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Managing work files and personal files {#Managing-work-files-and-personal-files}
+# Managing Work & Personal Files {#Managing-work-files-&-personal-files}
 
 ## Policies
 

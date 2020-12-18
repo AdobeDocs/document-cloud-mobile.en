@@ -1,10 +1,10 @@
 ---
-title:  Adobe Scan DC for Android
+title:  Finding Files
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Finding files {#finding-files}
+# Finding Files {#finding-files}
 
 Adobe Scan provides several options for finding and viewing files. You can: 
 
