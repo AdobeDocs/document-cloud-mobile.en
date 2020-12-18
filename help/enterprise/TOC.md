@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Reader Mobile Enterprise Configuration
+user-guide-title: Enterprise Configuration and Deployment
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

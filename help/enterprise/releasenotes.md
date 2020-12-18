@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader Mobile Enterprise Configuration
+title:  Release Notes
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
