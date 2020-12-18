@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for iOS
+title:  Export PDF to other formats
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

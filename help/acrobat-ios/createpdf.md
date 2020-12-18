@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for iOS
+title:  Create PDF and scan
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

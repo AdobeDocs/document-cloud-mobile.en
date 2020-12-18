@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for iOS
+title:  Managing work files and personal files
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

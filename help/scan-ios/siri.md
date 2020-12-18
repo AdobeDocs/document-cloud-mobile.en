@@ -1,6 +1,5 @@
-
 ---
-title:  Adobe Scan DC for iOS
+title:  Siri integration
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for iOS
+title:  Sharing and reviewing
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

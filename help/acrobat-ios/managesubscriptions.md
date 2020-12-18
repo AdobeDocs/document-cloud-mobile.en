@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for iOS
+title:  Managing subscriptions
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

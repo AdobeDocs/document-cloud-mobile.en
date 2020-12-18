@@ -1,5 +1,3 @@
-
-
 ---
 title:  Adobe Scan DC for iOS
 solution: Acrobat DC
@@ -8,8 +6,6 @@ description: Adobe mobile app enterprise workflow features
 
 # Accessibility {#accessibility}
 
-
-   <!-- localize the URL not just the text -->
 
 iOS devices support a number of accessibility features not listed here. For more information, refer to the [Apple support site](https://support.apple.com/en-us/HT204390). You can also check your accessibility settings by going to your device's settings screen and tapping **Accessibility**.  
 

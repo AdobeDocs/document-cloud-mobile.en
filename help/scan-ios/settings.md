@@ -1,5 +1,3 @@
-
-
 ---
 title:  Adobe Scan DC for iOS
 solution: Acrobat DC
