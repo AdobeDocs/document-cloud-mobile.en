@@ -8,7 +8,7 @@ description: Adobe mobile app enterprise workflow features
 
 Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features. Enterprise configuration options support managing your work and personal files as needed. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. 
 
-*Enterprise administrators* Configure and deploy mobile apps so that end users can keep work and personal files separate. Configure access to Adobe Document Cloud as well as  3rd party cloud storage solutions and manage rich settings for both MAM and MDM environments. 
+*Enterprise administrators* can configure and deploy mobile apps so that  work and personal files are managed separately in secure environments. Other options include controlling access to Adobe Document Cloud as well as  3rd party cloud storage solutions as well as other common settings for both MAM and MDM environments. 
 
 Whether you're at work or on the go, your files are simply accessible whenever you need them: 
 
