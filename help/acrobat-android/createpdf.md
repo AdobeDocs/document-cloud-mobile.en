@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Create PDF and Scan
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

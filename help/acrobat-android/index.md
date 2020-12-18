@@ -1,10 +1,10 @@
 ---
-title:  Getting started
+title:  Getting Started
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Getting started {#getting-started}
+# Getting Started {#getting-started}
 
 Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as enterprise-class PDF workflow features. Enterprise configuration options support managing your work and personal files as needed. An intuitive user interface works similarly across phones, desktop, and the browser. Now you can start a collaborative review at work, check review status and comment PDFs on the train, and access any PDF workflow on the web. 
 

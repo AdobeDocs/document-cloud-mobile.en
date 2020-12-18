@@ -1,5 +1,5 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  FAQs
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---

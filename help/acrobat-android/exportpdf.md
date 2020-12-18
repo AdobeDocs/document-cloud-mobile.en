@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Export PDF to Other Formats
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Export PDF to other formats {#export-pdf-to-other-formats}
+# Export PDF to Other Formats {#export-pdf-to-other-formats}
 
 Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can export unshared PDF files to other formats, including Word, Excel, PowerPoint, and rich text. This online service requires an internet connection. 
 

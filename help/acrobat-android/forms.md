@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Work with Forms
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Work with forms {#work-with-forms}
+# Work with Forms {#work-with-forms}
 
 Acrobat Reader's form related features are richer than ever with support for both traditional Acroforms and Fill & Sign forms. 
 

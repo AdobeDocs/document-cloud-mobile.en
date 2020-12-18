@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Managing Work Files & Personal Files
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Managing work files and personal files {#Managing-work-files-and-personal-files}
+# Managing Work Files & Personal Files {#Managing-work-files-&-personal-files}
 
 ## Policies
 

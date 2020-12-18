@@ -1,10 +1,10 @@
 ---
-title:  Acrobat Reader DC for Android
+title:  Managing Files and Folders
 solution: Acrobat DC
 description: Adobe mobile app enterprise workflow features
 ---
 
-# Managing files and folders {#managing-files-and-folders}
+# Managing Files and Folders {#managing-files-and-folders}
 
 ## Cloud-based files {#cloud-based-files}
 
