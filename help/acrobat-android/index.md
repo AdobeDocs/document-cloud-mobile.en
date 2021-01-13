@@ -10,7 +10,7 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
 
 *Enterprise administrators* can configure and deploy mobile apps so that  work and personal files are managed separately in secure environments. Other options include controlling access to Adobe Document Cloud as well as  3rd party cloud storage solutions as well as other common settings for both MAM and MDM environments. 
 
-xxxWhether you're at work or on the go, your files are simply accessible whenever you need them: 
+Whether you're at work or on the go, your files are simply accessible whenever you need them: 
 
 * **Mobile**: Manage work and personal files from any location on your phone or tablet. 
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location accessible on your device. 
@@ -26,7 +26,7 @@ xxxWhether you're at work or on the go, your files are simply accessible wheneve
     <a href="https://www.google.com" style="color:green;">
       <img alt="FAQ" src="../shared/images/faq.png"/>
     </a>
-    <div>
+    <div style="background-color:red;">
       <a href="https://www.google.com">
     <strong>Frequently Asked Questions</strong>
     </a>
@@ -63,6 +63,71 @@ xxxWhether you're at work or on the go, your files are simply accessible wheneve
   </td>
 </tr>
 </table>
+
+<table>
+<tr>
+  <td>
+
+
+<table style="background-color: red;">
+<tr>
+  <td>
+    <a href="https://www.google.com" style="color:green;">
+      <img alt="FAQ" src="../shared/images/faq.png"/>
+    </a>
+    <div style="background-color:red;">
+      <a href="https://www.google.com">
+    <strong>Frequently Asked Questions</strong>
+    </a>
+    </div>
+    <p>
+    <em>Find answers to common questions and troubleshoot</em>
+    <p>
+  </td>
+</tr>
+</table>
+
+<table style="background-color: black;">
+<tr>
+  <td>
+    <a href="https://www.google.com" style="color:green;">
+      <img alt="FAQ" src="../shared/images/faq.png"/>
+    </a>
+    <div style="background-color:red;">
+      <a href="https://www.google.com">
+    <strong>Frequently Asked Questions</strong>
+    </a>
+    </div>
+    <p>
+    <em>Find answers to common questions and troubleshoot</em>
+    <p>
+  </td>
+</tr>
+</table>
+
+<table style="background-color: silver;">
+<tr>
+  <td>
+    <a href="https://www.google.com" style="color:green;">
+      <img alt="FAQ" src="../shared/images/faq.png"/>
+    </a>
+    <div style="background-color:red;">
+      <a href="https://www.google.com">
+    <strong>Frequently Asked Questions</strong>
+    </a>
+    </div>
+    <p>
+    <em>Find answers to common questions and troubleshoot</em>
+    <p>
+  </td>
+</tr>
+</table>
+
+  </td>
+</tr>
+</table>
+
+
 
 ## Signing in {#signing-in}
 

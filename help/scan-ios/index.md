@@ -21,6 +21,9 @@ Adobe Scan for iOS and Android is a mobile scan companion to Acrobat Reader whic
 
 ![image](./images/mainscreen.png)
 
+**Mobile documentation**: [Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
+
+
 ## Getting started {#getting-started}
 
 Adobe Scan requires that you log in with a supported ID  since features such as conversion of text in images to actual text (optical character recognition) use services in the Adobe Cloud. Use an existing Adobe, Google, or Facebook ID or create a new Adobe ID at ``https://acrobat.adobe.com/us/en/acrobat.html``. 
