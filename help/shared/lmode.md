@@ -38,6 +38,10 @@ Most files are compatible, but the following limitations may apply:
     * Forms
     * Non-standard page sizes such as posters and business cards 
 
+## Accessibility
+
+[See this blog](https://blog.adobe.com/en/2020/12/10/adobe-delivers-enhanced-pdf-reading-experience-for-accessibility.html#gs.qjrt8w0) for an overview of accessibility features related to Liquid Mode. 
+
 ## FAQs {#faqs}
 
 **Can I use Liquid Mode with screen readers such as VoiceOver and TalkBack?**
