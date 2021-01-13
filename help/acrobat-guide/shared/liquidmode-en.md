@@ -69,14 +69,16 @@ If your file PDF has one or more of the following properties, it may not be avai
 
 1. Open the [!DNL Adobe Liquid Mode] view.
 1. Tap the blue feedback icon on the bottom right-hand corner of your screen.
-1. Select [!UICONTROL Provide Feedback]
-1. Navigate to [!UICONTROL Category] and select a category.
-1. Navigate to [!UICONTROL Describe your Issue] and enter your feedback.
-1. If you'd like to share your document to help us troubleshoot, check [!UICONTROL Share my document with Adobe] (You must be logged in).
-1. Tap [!UICONTROL Submit]  to send feedback using your default email account.
+1. Select Provide Feedback
+1. Navigate to Category and select a category.
+1. Navigate to Describe your Issue and enter your feedback.
+1. If you'd like to share your document to help us troubleshoot, check the check box: Share my document with Adobe (You must be logged in).
+1. Tap Submit  to send feedback using your default email account.
+
+
 
    >[!NOTE]
    >
-   >If your file does not convert to [!DNL Adobe Liquid Mode], tap on the overflow icon [!UICONTROL ...] in the top menu, and select [!UICONTROL Provide Feedback] on [!DNL Adobe Liquid Mode].
+   >If your file does not convert to [!DNL Adobe Liquid Mode], tap on the overflow icon in the top menu, and select Provide Feedback on Adobe Liquid Mode.
 
 ,,,
