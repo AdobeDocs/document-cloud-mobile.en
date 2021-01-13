@@ -78,3 +78,5 @@ If your file PDF has one or more of the following properties, it may not be avai
    >[!NOTE]
    >
    >If your file does not convert to [!DNL Adobe Liquid Mode], tap on the overflow icon [!UICONTROL ...] in the top menu, and select [!UICONTROL Provide Feedback] on [!DNL Adobe Liquid Mode].
+
+   ---
