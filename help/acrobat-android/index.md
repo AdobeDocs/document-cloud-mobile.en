@@ -10,13 +10,13 @@ Acrobat Reader DC delivers one-click integration with  Adobe Scan and as well as
 
 *Enterprise administrators* can configure and deploy mobile apps so that  work and personal files are managed separately in secure environments. Other options include controlling access to Adobe Document Cloud as well as  3rd party cloud storage solutions as well as other common settings for both MAM and MDM environments. 
 
-Whether you're at work or on the go, your files are simply accessible whenever you need them: 
+xxxWhether you're at work or on the go, your files are simply accessible whenever you need them: 
 
 * **Mobile**: Manage work and personal files from any location on your phone or tablet. 
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location accessible on your device. 
 * **Desktop**: Sign in to desktop Acrobat to see all your latest files. 
 
-**Related documentation**: [Acrobat for Android](./android/) | 
+**Related documentation**: [Acrobat for Android](./android/index.md) | 
 
 ## Top pages
 
