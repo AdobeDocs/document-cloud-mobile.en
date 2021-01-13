@@ -27,7 +27,12 @@ Android devices with less than 1GB of RAM or x86 processors are not yet supporte
 
 **What languages are supported?**
 
-[!DNL Adobe Liquid Mode] is currently available for English, Spanish, French and German, Dutch, Danish, Finnish, Italian, Norwegian, Portuguese, Spanish, Swedish, Romanian, Catalan
+Adobe Liquid Mode is currently available for English, Spanish, French and German, Dutch, Danish, Finnish, Italian, Norwegian, Portuguese, Spanish, Swedish, Romanian, Catalan
+
+
+## Accessibility
+
+[See this blog](https://blog.adobe.com/en/2020/12/10/adobe-delivers-enhanced-pdf-reading-experience-for-accessibility.html#gs.qjrt8w0) for an overview of accessibility features related to Liquid Mode. 
 
 ## Frequently asked questions
 
@@ -44,13 +49,13 @@ To learn more about how we protect your privacy when you use Adobe Acrobat Reade
 
 No, this experience does not change any content. Simply tap on the drop-shaped icon again to revert to your original page view.
 
-**What kind of files are best suited for [!DNL Adobe Liquid Mode]?**
+**What kind of files are best suited for Liquid Mode?**
 
-Most files are compatible. For a list of files which might not be available in [!DNL Adobe Liquid Mode], see the next FAQ. 
+Most files are compatible. For a list of files which might not be available in Liquid Mode, see the next FAQ. 
 
-**What files cannot leverage [!DNL Adobe Liquid Mode]?**
+**What files cannot leverage Liquid Mode?**
 
-If your file PDF has one or more of the following properties, it may not be available in [!DNL Adobe Liquid Mode]:
+If your file PDF has one or more of the following properties, it may not be available in Liquid Mode:
 
 * More than 200 pages
 * More than 10 MB in size
@@ -67,7 +72,7 @@ If your file PDF has one or more of the following properties, it may not be avai
 
 **How do I submit my feedback or report an issue about this experience?**
 
-1. Open the [!DNL Adobe Liquid Mode] view.
+1. Open the Liquid Mode view.
 1. Tap the blue feedback icon on the bottom right-hand corner of your screen.
 1. Select Provide Feedback
 1. Navigate to Category and select a category.
@@ -79,6 +84,6 @@ If your file PDF has one or more of the following properties, it may not be avai
 
    >[!NOTE]
    >
-   >If your file does not convert to [!DNL Adobe Liquid Mode], tap on the overflow icon in the top menu, and select Provide Feedback on Adobe Liquid Mode.
+   >If your file does not convert to Liquid Mode, tap on the overflow icon in the top menu, and select Provide Feedback on Adobe Liquid Mode.
 
 ,,,
