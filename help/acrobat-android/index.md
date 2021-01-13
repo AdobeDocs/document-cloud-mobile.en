@@ -69,7 +69,7 @@ Whether you're at work or on the go, your files are simply accessible whenever y
   <td>
 
 
-<table style="background-color: red; width:32%;">
+<table style="background-color: red; width:32%; float:left;">
 <tr>
   <td>
     <a href="https://www.google.com" style="color:green;">
@@ -87,7 +87,7 @@ Whether you're at work or on the go, your files are simply accessible whenever y
 </tr>
 </table>
 
-<table style="background-color: black; width:32%;">
+<table style="background-color: black; width:32%;float:left;">
 <tr>
   <td>
     <a href="https://www.google.com" style="color:green;">
@@ -105,7 +105,7 @@ Whether you're at work or on the go, your files are simply accessible whenever y
 </tr>
 </table>
 
-<table style="background-color: silver; width:32%;">
+<table style="background-color: silver; width:32%;float:left;">
 <tr>
   <td>
     <a href="https://www.google.com" style="color:green;">
