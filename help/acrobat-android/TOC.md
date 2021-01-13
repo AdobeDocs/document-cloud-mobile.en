@@ -13,7 +13,7 @@ description: Adobe mobile app enterprise workflow features
 + [Working with PDF](workingwithpdf.md)
 + [Sharing and Reviewing Files](review.md)
 + [Work with Forms](forms.md)
-+ [Liquid Mode](lmode.md)
++ [Liquid Mode](../shared/lmode.md)
 + [Creating Signatures, Signing](signing.md)
 + [Accessibility Features](accessibility.md)
 + Subscription Services {#managing-subscriptions}

@@ -21,7 +21,9 @@ Adobe Scan for iOS and Android is a mobile scan companion to Acrobat Reader whic
 
 ![image](./images/mainscreen.png)
 
-**Mobile documentation**: [Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
+## Related guides
+
+[Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
 
 
 ## Getting started {#getting-started}

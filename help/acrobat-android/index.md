@@ -16,73 +16,9 @@ Whether you're at work or on the go, your files are simply accessible whenever y
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location accessible on your device. 
 * **Desktop**: Sign in to desktop Acrobat to see all your latest files. 
 
-**Mobile documentation**: [Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
+## Related guides
 
-## Top pages
-
-<table>
-<tr>
-  <td>
-
-
-<table style="width:200px; float:left;">
-<tr>
-  <td>
-    <a href="https://www.google.com">
-      <img alt="FAQ" src="../shared/images/faq.png"/>
-    </a>
-    <div>
-      <a href="https://www.google.com">
-    <strong>Frequently Asked Questions</strong>
-    </a>
-    </div>
-    <p>
-    <em>Find answers to common questions and troubleshoot</em>
-    <p>
-  </td>
-</tr>
-</table>
-
-<table style="width:200px;float:left;">
-<tr>
-   <td>
-    <a href="managesubscriptions.md">
-      <img alt="Manage Subscriptions" src="../shared/images/manage.png" />
-    </a>
-    <div>
-      <a href="managesubscriptions.md">
-    <strong>Manage Subscriptions</strong>
-    </a>
-    </div>
-    <p>
-    <em>Add, remove, restore, and monitor your purchases</em>
-    <p>
-  </td>
-</tr>
-</table>
-
-<table style="width:200px;float:left;">
-<tr>
-  <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
-       <img alt="upgrade" src="../shared/images/upgrade.png" />
-    </a>
-    <div>
-       <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
-    <strong>Install the Latest App</strong>
-    </a>
-    </div>
-    <p>
-    <em>Install the latest build so you can leverage the latest features. </em>
-    <p>
-  </td>
-</tr>
-</table>
-
-  </td>
-</tr>
-</table>
-
+[Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
 
 
 ## Signing in {#signing-in}
