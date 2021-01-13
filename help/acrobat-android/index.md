@@ -20,31 +20,12 @@ Whether you're at work or on the go, your files are simply accessible whenever y
 
 ## Top pages
 
-
 <table>
 <tr>
   <td>
 
 
-<table style="background-color: red; width:200px; float:left;">
-<tr>
-  <td>
-    <a href="https://www.google.com" style="color:green;">
-      <img alt="FAQ" src="../shared/images/faq.png"/>
-    </a>
-    <div>
-      <a href="https://www.google.com">
-    <strong>Frequently Asked Questions</strong>
-    </a>
-    </div>
-    <p>
-    <em>Find answers to common questions and troubleshoot</em>
-    <p>
-  </td>
-</tr>
-</table>
-
-<table style="background-color: black; width:200px;float:left;">
+<table style="width:200px; float:left;">
 <tr>
   <td>
     <a href="https://www.google.com">
@@ -62,19 +43,37 @@ Whether you're at work or on the go, your files are simply accessible whenever y
 </tr>
 </table>
 
-<table style="background-color: silver; width:200px;float:left;">
+<table style="width:200px;float:left;">
 <tr>
-  <td>
-    <a href="https://www.google.com">
-      <img alt="FAQ" src="../shared/images/faq.png"/>
+   <td>
+    <a href="managesubscriptions.md">
+      <img alt="Manage Subscriptions" src="../shared/images/manage.png" />
     </a>
     <div>
-      <a href="https://www.google.com">
-    <strong>Frequently Asked Questions</strong>
+      <a href="managesubscriptions.md">
+    <strong>Manage Subscriptions</strong>
     </a>
     </div>
     <p>
-    <em>Find answers to common questions and troubleshoot</em>
+    <em>Add, remove, restore, and monitor your purchases</em>
+    <p>
+  </td>
+</tr>
+</table>
+
+<table style="width:200px;float:left;">
+<tr>
+  <td>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
+       <img alt="upgrade" src="../shared/images/upgrade.png" />
+    </a>
+    <div>
+       <a href="https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en_US&gl=US">
+    <strong>Install the Latest App</strong>
+    </a>
+    </div>
+    <p>
+    <em>Install the latest build so you can leverage the latest features. </em>
     <p>
   </td>
 </tr>
