@@ -16,7 +16,8 @@ xxxWhether you're at work or on the go, your files are simply accessible wheneve
 * **Web**: Access files on Adobe Document Cloud, Google Drive, Dropbox, or any other location accessible on your device. 
 * **Desktop**: Sign in to desktop Acrobat to see all your latest files. 
 
-**Related documentation**: [Acrobat for Android](index.md) | 
+**Related documentation**: [Acrobat for Android](../acrobat-android/index.md) | [Acrobat for iOS](../acrobat-ios/index.md) | [Scan for Android](../scan-android/index.md) | [Scan for iOS](../scan-ios/index.md)
+
 ## Top pages
 
 <table style="border:5";>
