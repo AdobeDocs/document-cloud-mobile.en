@@ -24,4 +24,5 @@ description: Adobe mobile app enterprise workflow features
    + [Combine and Compress PDFs](combine.md)
    + [Password Protect PDFs](protect.md)
 + [Troubleshooting](troubleshooting.md)
-+ [Release Notes](../shared/releasenotes.md)
+
+<!-- + [Release Notes](../shared/releasenotes.md) -->
