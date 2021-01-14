@@ -103,7 +103,7 @@ In addition to bug fixes and performance enhancements, keeping your app up-to-da
 * Protected file handling
 * Quick actions: during a scan workflow, menu appears below which allows emailing, calling, selecting text, etc.. Skips a lot of steps and allows workflows with other apps with less steps (launching phone app, email app, etc.). OCR must be enabled. Disabling OCR disables quick actions because the latter depends on the former. 
   
-###  Scan iOS: 
+### Scan iOS: 
 
 * Ability to rotate images when cropping. 
 * Ability to adjust scanned document size after scanning. Identical with what Android already rolled out. 
