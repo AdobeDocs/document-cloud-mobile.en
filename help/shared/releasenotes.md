@@ -79,7 +79,7 @@ In addition to bug fixes and performance enhancements, keeping your app up-to-da
 * Combine files: With a subscription, you can combine multiple PDFs into one PDF.
 * Protected file handling: Secure and password protect PDFs.
 
-###  Scan iOS: 
+### Scan iOS: 
 
 * Document Size Adjustments: offers the functionality of adjusting document sizes from a list of predefined paper sizes, as well as adjusting the image scale.
 * Organize scans: You can now create and work with folders to improve scan organization.
