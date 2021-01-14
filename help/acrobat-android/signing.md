@@ -8,7 +8,7 @@ description: Adobe mobile app enterprise workflow features
 
 Adobe's DC product family offers rich signing capabilities, including free features in Acrobat Reader, cloud-based eSign services that let you sign, send, and track documents from anywhere, and the Adobe Sign application that enables creating and managing signature workflows from your mobile device.
 
-The following free features are available:
+Free features:
 
 * Create a signature
 * Sign
