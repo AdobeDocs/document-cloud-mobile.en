@@ -15,4 +15,5 @@ description: Adobe mobile app enterprise workflow features
 + [Working with Siri](siri.md)
 + [Accessibility Features](accessibility.md)
 + [Troubleshooting](troubleshooting.md)
-+ [Release Notes](../shared/releasenotes.md)
+
+<!-- + [Release Notes](../shared/releasenotes.md) -->

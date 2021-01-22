@@ -13,4 +13,5 @@ description: Adobe mobile app enterprise workflow features
 + [Finding Files and Content ](findingfiles.md)
 + [Accessibility Features](accessibility.md)
 + [Troubleshooting](troubleshooting.md)
-+ [Release Notes](../shared/releasenotes.md)
+
+<!-- + [Release Notes](../shared/releasenotes.md) -->
