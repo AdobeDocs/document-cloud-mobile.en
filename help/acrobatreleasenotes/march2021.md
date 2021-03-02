@@ -4,24 +4,39 @@ solution: Acrobat DC
 description: Acrobat Reader Release Notes
 ---
 
-# What's New {march2021}
+# What's New {#march2021}
 
 In addition to bug fixes and performance enhancements, keeping your app up-to-date guarantees that you'll always have the latest and greatest new features
 
-## Scan Android
+## Android
+
+tbd
 
 ### New features
 
+tbd
+
 ### Enterprise changes
+
+tbd
 
 ### Bug fixes
 
+tbd
 
 
-## Scan iOS
+## iOS
+
+tbd
 
 ### New features
 
+tbd
+
 ### Enterprise changes
 
+tbd
+
 ### Bug fixes
+
+tbd
