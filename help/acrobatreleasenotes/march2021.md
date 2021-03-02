@@ -4,9 +4,7 @@ solution: Acrobat DC
 description: Acrobat Reader Release Notes
 ---
 
-
-
-# What's New {#what's-new}
+# What's New {march2021}
 
 In addition to bug fixes and performance enhancements, keeping your app up-to-date guarantees that you'll always have the latest and greatest new features
 
