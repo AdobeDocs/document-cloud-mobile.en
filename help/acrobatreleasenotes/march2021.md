@@ -10,20 +10,20 @@ description: Acrobat Reader Release Notes
 
 In addition to bug fixes and performance enhancements, keeping your app up-to-date guarantees that you'll always have the latest and greatest new features
 
-### Scan Android
+## Scan Android
 
-#### New features
+### New features
 
-#### Enterprise changes
+### Enterprise changes
 
-#### Bug fixes
+### Bug fixes
 
 
 
-### Scan iOS
+## Scan iOS
 
-#### New features
+### New features
 
-#### Enterprise changes
+### Enterprise changes
 
-#### Bug fixes
+### Bug fixes
