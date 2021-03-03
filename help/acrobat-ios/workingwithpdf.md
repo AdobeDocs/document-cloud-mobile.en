@@ -105,8 +105,7 @@ While you can't open a PDF in another app directly from Acrobat, you can share l
 
 ## Editing {#editing}
 
-iPad users with a subscription to the edit service can modify PDF files. See [Edit PDF](editpdf.md) for details about changing font styles, colors, size, alignment, and other features. 
-
+iPad users with a subscription to the edit service can modify PDF files. See Edit PDF for details about changing font styles, colors, size, alignment, and other features. 
 
 ## Organize pages {#organize-pages}
 
