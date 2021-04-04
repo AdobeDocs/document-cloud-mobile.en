@@ -1,5 +1,7 @@
+---
 
-
+exl-id: 9dd2d202-d37f-4681-ba76-389b97e34400
+---
 # Password Protect PDF {#password-protect-pdf}
 
 Subscribers to Adobe Acrobat Premium or Adobe Acrobat Pro DC can password protect PDFs by setting a document open password. 
