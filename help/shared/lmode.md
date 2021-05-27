@@ -21,23 +21,6 @@ Liquid Mode provides the following features:
 * And more!
 
 
-
-## Compatible files {#compatible-files}
-
-Most files are compatible, but the following limitations may apply: 
-
-* More than 200 pages
-* More than 10 MB in size
-* Scanned
-* Converted from presentations (Microsoft PowerPoint, Apple Keynote, etc.)
-* Encrypted or password protected
-* Complex layouts (eg. tickets, statements, invoices, receipts etc.). Please view the following PDFs in their original layout for the best experience:
-
-    * Documents containing mostly tables and charts (e.g. spreadsheets)
-    * Documents containing mostly images (e.g. illustrations, CAD drawings)
-    * Forms
-    * Non-standard page sizes such as posters and business cards 
-
 ## Accessibility
 
 [See this blog](https://blog.adobe.com/en/2020/12/10/adobe-delivers-enhanced-pdf-reading-experience-for-accessibility.html#gs.qjrt8w0) for an overview of accessibility features related to Liquid Mode. 
