@@ -4,6 +4,7 @@ exl-id: db50e075-01f4-42a7-8e32-b482e3b32b7b
 ---
 # Liquid Mode {#liquid-mode}
 
+
 Liquid Mode is a revolutionary mobile reading experience powered by Adobe Sensei, Adobe's artificial intelligence (AI) and machine learning technology. Liquid Mode enhances your PDF layout and adds features on-the-fly to help you easily read documents on your phone and tablet  It's AI technology evolves and improves the Liquid Mode experience as it learns over time.
 
 To use Liquid Mode, simply open any file and tap ![image](./images/lmodeicon.png). 
@@ -19,12 +20,7 @@ Liquid Mode provides the following features:
 * Back to top button at the document end
 * And more!
 
-## System requirements {#system-requirements}
 
-* iOS 12 or later
-* Android phones 5.0 and later. Android devices with less than 1GB of RAM or x86 processors are not yet supported.
-* Chromebook
-* **Languages**: Liquid Mode is currently available for English, Spanish, French, German, Dutch, Danish, Finnish, Italian, Norwegian, Portuguese, Spanish, Swedish, Romanian, Catalan
 
 ## Compatible files {#compatible-files}
 
