@@ -8,7 +8,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/document-cloud-mobile.en
-index: yes
+hide: yes
 ---
 
 # Metadata for internal use
